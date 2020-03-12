@@ -36,7 +36,7 @@ nav_order: 8
 [ag-insta]: https://www.instagram.com/altro_gelato_rsm
 [ag-mess]: http://m.me/altrogelatorsm
 
-### BOTTEGA DEL POSTO - Santa Mustiola
+### **BOTTEGA DEL POSTO** - Santa Mustiola
 
 |:-|:-|
 | **Consegna a domicilio** in tutta la Repubblica |
