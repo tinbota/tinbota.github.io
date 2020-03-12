@@ -14,4 +14,5 @@ Per proporre modifiche è possibile:
 ### Contributors
 
 - [@nicorsm](https://github.com/nicorsm)
+- [@giacomobartoli](https://github.com/giacomobartoli)
 - [Lista completa](https://github.com/tinbota/tinbota.github.io/graphs/contributors)
