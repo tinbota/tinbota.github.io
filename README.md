@@ -12,6 +12,23 @@ Per proporre modifiche è possibile:
 - inviare una mail a [tinbota@icloud.com](mailto:tinbota@icloud.com)
 - [compilare questo modulo](https://tinbota.typeform.com/to/ci6qvW)
 
+### Compilazione in locale
+
+0. Prerequisiti: installare Jekyll localmente ([istruzioni qui](https://jekyllrb.com/docs/installation/))
+1. Aprire il terminale, posizionarsi nella cartella desiderata e effettuare la clone del progetto:
+```
+git clone git@github.com:tinbota/tinbota.github.io.git
+```
+2. Posizionarsi nella cartella appena scaricata:
+```
+cd tinbota.github.io
+```
+3. Eseguire Jekyll:
+```
+bundle exec jekyll serve
+```
+4. Aprire il browser all'indirizzo `http://localhost:4000`
+
 ### Contributors
 
 - [@nicorsm](https://github.com/nicorsm)
