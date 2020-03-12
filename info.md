@@ -39,6 +39,10 @@ Si ricordano ai cittadini il rispetto assoluto delle raccomandazioni a tutela de
  
 ## Notizie
 
+- _12 Marzo 2020_ - In applicazione alle misure urgenti di contenimento da Covid-19 del Decreto n.44/2020, in particolare per limitare la circolazione degli utenti presso i Centri per la Salute, si comunica che da oggi, 12 marzo, tutti gli assistiti che necessitano di una prescrizione di un farmaco (ricetta) devono effettuare la richiesta contattando telefonicamente il numero del proprio medico curante. ​Per l’assistito basterà recarsi direttamente in farmacia per il ritiro del farmaco.
+
+### Riferimenti
+
 - [**Istituto per la Sicurezza Sociale**][iss-coronavirus]
     - [Pagina Facebook][iss-fb]
 - [**Gov.sm - Emergenza Coronavirus**][govsm]
