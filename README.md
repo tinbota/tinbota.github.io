@@ -10,6 +10,7 @@ Per proporre modifiche è possibile:
 - [aprire una issue](https://github.com/tinbota/tinbota.github.io/issues/new)
 - [proporre una pull request](https://github.com/tinbota/tinbota.github.io/compare)
 - inviare una mail a [tinbota@icloud.com](mailto:tinbota@icloud.com)
+- [compilare questo modulo](https://tinbota.typeform.com/to/ci6qvW)
 
 ### Contributors
 
