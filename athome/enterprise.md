@@ -33,8 +33,6 @@ nav_order: 8
 | **Modalità di pagamento**: contanti |
 | **Modalità d'ordine**: invia il tuo ordine di generi alimentari freschi e confezionati, prodotti per la pulizia della casa e personale, alimenti  per cani e gatti tramite: <br/> - Whatsapp al numero 393 5444620 con Nome, Cognome, Indirizzo ed elenco della spesa. <br/> - Chiamata al numero 0549 990629 <br/> Ordini dalle 7.30 alle 11.00 e consegna dalle 11.30 alle 15.00 ( Per esigenze particolari, prendere accordi telefonici)<br/> Prenota entro le 12 per il giorno successivo Carne fresca confezionata, Frutta e Verdura. |
  
-
-
 ## Banche
 
 ### Accesso ai servizi online (ebanking)

@@ -32,6 +32,22 @@ nav_order: 9
 | **Agevolazioni emergenza** | **Amazon Web Services (AWS) mette a disposizione di Pubbliche Amministrazioni, Organizzazioni non governative e non profit, Startup e Imprese impattate dall’emergenza COVID-19 i propri servizi di cloud computing (attraverso crediti promozionali AWS)**, il proprio supporto e la propria assistenza per progetti digitali legati al superamento delle criticità, offrendo ad esempio soluzioni di smart working, ambienti di collaborazione on-line e creazione di contact center avanzati. Il supporto verrà fornito per tutto il periodo di vigenza del DPCM 9 marzo 2020. |
 | **Come aderire** | Compilare il form reperibile sulla nostra [pagina dedicata][aws] per essere ricontattato e approfondire la richiesta |
 
+### **[Shellrent][shellrent]**
+
+|:-|:-|
+| ![Shellrent][logo-shellrent]{:width="100px"} | Istanze server cloud gratuite per 3 mesi |
+| **Agevolazioni emergenza** | **Shellrent offre istanze cloud gratuite per 3 mesi agli imprenditori, ai lavoratori e alle aziende in difficoltà per supportarli nei loro progetti di smart working, offrendo un server cloud dove fare un deployment dei software.** |
+| **Come aderire** | Per aderire è sufficiente scrivere una mail a: [info@shellrent.com][shellrent] |
+
+## 🧠 Smart working
+
+### **[CISCO WEBEX][webex]**
+
+|:-|:-|
+| ![WEBEX][logo-webex]{:width="100px"} | CISCO WEBEX |
+| **Agevolazioni emergenza** | **Per aziende e professionisti, disponibile gratuitamente l’accesso a Cisco Webex: la piattaforma consente il lavoro da remoto, permette di pianificare e partecipare a riunioni, collaborare e condividere documenti e dati, in modo semplice, veloce e sicuro.** |
+| **Come aderire** | Gli utenti e le aziende interessate all'attivazione del servizio possono trovare tutti i dettagli [qui][webex] |
+
 ## 🗃 Condivisione file e progetti
 
 ### **[Dropbox](https://www.dropbox.com/)**
@@ -59,3 +75,7 @@ nav_order: 9
 [logo-office365]: https://upload.wikimedia.org/wikipedia/commons/7/74/Office_365_logo.png
 [logo-dropbox]: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dropbox_logo_2017.svg/2880px-Dropbox_logo_2017.svg.png
 [logo-gdrive]: https://www.googlewatchblog.de/wp-content/uploads/Google-Drive-Logo.png
+[webex]: https://www.cisco.com/c/it_it/solutions/collaboration/smartworking.html
+[logo-webex]: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/1200px-Cisco_logo_blue_2016.svg.png
+[shellrent]: mailto:info@shellrent.com
+[logo-shellrent]: https://www.shellrent.com/wp-content/images/logo-shellrent-blu.svg

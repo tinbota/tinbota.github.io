@@ -27,6 +27,7 @@ Si ricordano ai cittadini il rispetto assoluto delle raccomandazioni a tutela de
 - **Istituto per la Sicurezza Sociale** - Informazioni sanitarie Coronavirus: [0549 994001][tel-iss] (attivo tutti i giorni dalle 8 alle 18)
 - **Centrale Operativa Interforze** per informazioni turisti e lavoratori frontalieri: [0549 888888][tel-coi]
 - **Dipartimento Affari Esteri** per l’assistenza ai sammarinesi nelle fasi di rientro dalle zone a rischio: [0549 882337][tel-dae]
+- **Supporto telefonico psicologico** a cura del Servizio Salute Mentale ISS: [0549 994593][tel-ment1], [0549 994650][tel-ment2] (lun-mer-gio 8:00-17:30, mar-ven 8:00-14:00)
 
 ### Zone estere a rischio
 
@@ -36,7 +37,6 @@ Si ricordano ai cittadini il rispetto assoluto delle raccomandazioni a tutela de
 - 🇰🇷 Corea del Sud
 - 🇮🇷 Iran
  
-
 ## Notizie
 
 - [**Istituto per la Sicurezza Sociale**][iss-coronavirus]
@@ -50,13 +50,14 @@ Si ricordano ai cittadini il rispetto assoluto delle raccomandazioni a tutela de
 
 |:-|:-|
 | **Vademecum Coronavirus** | [Scarica][vademecum]{: .btn .btn-blue } |
+| **Disposizioni per chi viaggia**, Segreteria di Stato per gli Affari Esteri | [Scarica][viaggioesteri]{: .btn .btn-blue } |
 | **Autodichiarazione transito in Italia per validi motivi**, compilabile in PDF | [Scarica][autodichiarazione]{: .btn .btn-blue } | 
 
 [tel-iss]: tel:00390549994001
 [tel-coi]: tel:00390549888888
 [tel-dae]: tel:00390549882337
 [govsm]: https://www.gov.sm/topics/Argomenti/Emergenza-CoronaVirus.html
-[autodichiarazione]: /docs/Moduloautodichiarazione.pdf
+[autodichiarazione]: https://www.interno.gov.it/sites/default/files/allegati/modulo_autodichiarazione_10.3.2020.pdf?fbclid=IwAR1OMAt2JeME_vdnaV_ShTA8-F4lGSTw0LD0vLo_R3aFFCJqIPYmipctxnE
 [vademecum]: http://www.sanita.sm/on-line/home/archivio-comunicati/documento2115553.html
 [iss-coronavirus]: http://www.iss.sm/on-line/home/artCataggiornamenti-coronavirus.49004093.1.20.1.html
 [smrtv]: https://www.sanmarinortv.sm
@@ -64,3 +65,6 @@ Si ricordano ai cittadini il rispetto assoluto delle raccomandazioni a tutela de
 [smrtv-fb]: https://www.facebook.com/SanMarinoRTV/
 [smrtv-ios]: https://itunes.apple.com/it/app/san-marino-rtv/id960678442?mt=8
 [smrtv-android]: https://play.google.com/store/apps/details?id=sm.smtvsanmarino.tv
+[tel-ment1]: tel:00390549994593
+[tel-ment2]: tel:00390549994650
+[viaggioesteri]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/documento49115826.html
