@@ -9,13 +9,13 @@ nav_order: 7
 
 Maggiori informazioni su [Gov.sm][govsm]
 
-## Disposizioni di servizio
+## 🔖 Disposizioni di servizio
 
 - [Tribunale unico][tribunale]
 - [Stato Civile][statocivile]
 - [Autorità Garante per la Protezione dei Dati Personali][agpdp]
 
-## Servizi online
+## 🌍 Servizi online
 
 - [Prenotazione certificati online][PCO]
 - Azienda Autonoma di Stato per i Servizi Pubblici

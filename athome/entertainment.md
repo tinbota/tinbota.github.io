@@ -44,6 +44,14 @@ nav_order: 12
 | **Periodo di prova gratuito** | 14 giorni |
 | **Agevolazioni emergenza** | non previste |
 
+## ❌ TEDx Talks
+
+|:-|:-|:-|
+| ![TEDxCittàdiSanMarino][copertina-tedxcdsm]{:width="100px"} | Dal 14 marzo, per 20 giorni, gli organizzatori TEDx italiani pubblicheranno sui propri canali social un TED Talk al giorno. Scoprite i talk scelti dal team di **TEDxCittàdiSanMarino** sulla nostra pagina Facebook. Idee che meritano di essere diffuse in brevi pillole video di 20 minuti. | **TEDx CittàdiSanMarino**<br/>[Apri][tedxcdsm]{: .btn .btn-blue } |
+
+[tedxcdsm]: https://www.facebook.com/TEDxCdSanMarino
+[copertina-tedxcdsm]: https://scontent.ftxl2-1.fna.fbcdn.net/v/t31.0-8/29064137_739066402963122_2526881645400722391_o.png?_nc_cat=102&_nc_sid=85a577&_nc_ohc=gMReXmPL2PsAX-WPjKR&_nc_ht=scontent.ftxl2-1.fna&oh=87c477ff57563f766c5a4519592ec292&oe=5E924499
+
 ## 📣 Podcast
 
 |:-|:-|:-|

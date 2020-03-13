@@ -48,6 +48,13 @@ nav_order: 9
 | **Agevolazioni emergenza** | **Per aziende e professionisti, disponibile gratuitamente l’accesso a Cisco Webex: la piattaforma consente il lavoro da remoto, permette di pianificare e partecipare a riunioni, collaborare e condividere documenti e dati, in modo semplice, veloce e sicuro.** |
 | **Come aderire** | Gli utenti e le aziende interessate all'attivazione del servizio possono trovare tutti i dettagli [qui][webex] |
 
+### **[Zeitgroup][zeitgroup]**
+
+|:-|:-|
+| ![Zeitgroup][logo-zeitgroup]{:width="100px"} |  ZGMobile, l'app per timbrare la presenza con lo smartphone. |
+| **Agevolazioni emergenza** | **ZGMobile é l'App che trasforma lo smartphone del personale in un terminale virtuale per la rilevazione presenza dei dipendenti. Con l'app ZGMobile i dipendenti inviano con il loro iPhone o Smartphone Android, in tempo reale ed in modo del tutto affidabile, le timbrature di entrata ed uscita o di inizio e fine lavorazione. ZGMobile è attivabile in poche ore e sarà gratuita fino al 30 giugno, senza alcun obbligo né tacito rinnovo.** |
+| **Come aderire** | Scrivere una mail a [info@zeitgroup.com][zeitgroup] o tramite il [modulo di contatto][zeitgroup-form]. |
+
 ## 🗃 Condivisione file e progetti
 
 ### **[Dropbox](https://www.dropbox.com/)**
@@ -79,3 +86,6 @@ nav_order: 9
 [logo-webex]: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/1200px-Cisco_logo_blue_2016.svg.png
 [shellrent]: mailto:info@shellrent.com
 [logo-shellrent]: https://www.shellrent.com/wp-content/images/logo-shellrent-blu.svg
+[zeitgroup]: mailto:info@zeitgroup.com
+[logo-zeitgroup]: https://www.zeitgroup.com/source/logo-dw.png
+[zeitgroup-form]: https://www.zeitgroup.com/it/contatti

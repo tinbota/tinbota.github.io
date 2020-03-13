@@ -2,7 +2,7 @@
 layout: page
 title: 📖 Normative e ordinanze
 permalink: /legal/
-nav_order: 2
+nav_order: 3
 ---
 
 # 📖 Normative e ordinanze
@@ -10,11 +10,13 @@ nav_order: 2
 ## Leggi e decreti ([fonte][cgg])
 
 |:-|:-|:-|
+| Decreto - Legge 11 marzo 2020 n. 46 | **Sospensione straordinaria e temporanea dei termini di cui agli articoli 9, 10 e 12 della Legge 28 giugno 2010 n.118 e successive modifiche** | [Apri][dl46]{: .btn .btn-blue } |
 | Decreto - Legge 8 marzo 2020 n. 44 | **Misure urgenti di contenimento da COVID-19 (Coronavirus)** | [Apri][dl44]{: .btn .btn-blue } |
 | Decreto - Legge 5 marzo 2020 n. 43 | **Misure urgenti di contenimento da COVID-19 (Coronavirus)** | [Apri][dl43]{: .btn .btn-blue } |
 | Decreto - Legge 5 marzo 2020 n. 42 | **Istituzione della figura di commissario straordinario per l'emergenza da COVID-19** | [Apri][dl42]{: .btn .btn-blue } |
 | Decreto - Legge 28 febbraio 2020 n. 35 | **Attribuzione al Segretario di Stato per la Sanità e Sicurezza Sociale del potere di Ordinanza per emergenze di sanità pubblica** | [Apri][dl35]{: .btn .btn-blue } |
 
+[dl46]: https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/documento17115808.html
 [dl44]: https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/documento17115756.html
 [dl43]: https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/documento17115738.html
 [dl42]: https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/documento17115737.html
@@ -23,6 +25,7 @@ nav_order: 2
 ## Delibere Congresso di Stato ([fonte][delibere])
 
 |:-|:-|:-|
+| Delibera n. 6 10/03/2020 | **Adozione Decreto - Legge ''Sospensione straordinaria e temporanea dei termini di cui agli articoli 9, 10 e 12 della Legge 28 giugno 2010 n. 118 e successive modifiche''** | [Apri][del06-1003]{: .btn .btn-blue }<br/>[Allegato][del06-1003-all]{: .btn } |
 | Delibera n. 1 08/03/2020 | **Adozione Decreto-Legge ''Misure urgenti di contenimento da COVID-19 (Coronavirus)''** | [Apri][del01-0803]{: .btn .btn-blue }<br/>[Allegato][del01-0803-all]{: .btn } |
 | Delibera n. 1 05/03/2020 | **Adozione Decreto - Legge ''Istituzione della figura di Commissario Straordinario per l'emergenza da COVID-19''** | [Apri][del01-0503]{: .btn .btn-blue }<br/>[Allegato][del01-0503-all]{: .btn } |
 | Delibera n. 2 05/03/2020 | **Adozione Decreto - Legge ''Misure urgenti di contenimento da COVID-19 (Coronavirus)''** | [Apri][del02-0503]{: .btn .btn-blue }<br/>[Allegato][del02-0503-all]{: .btn } |
@@ -33,6 +36,8 @@ nav_order: 2
 | Delibera n. 1 23/02/2020 | **Emissione Ordinanza ''Misure urgenti di prevenzione per evitare la diffusione del COVID-19 (Coronavirus)''** | [Apri][del01-2302]{: .btn .btn-blue }<br/>[Allegato][del01-2302-all]{: .btn } |
 | Delibera n. 1 22/02/2020 | **Emissione Ordinanza ''Provvedimenti per Emergenze Sanitarie epidemia da COVID-19''** | [Apri][del01-2202]{: .btn .btn-blue } |
 
+[del06-1003]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25115809.html
+[del06-1003-all]: http://www.interni.segreteria.sm/on-line/home/documento25115810.html
 [del01-0803]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25115761.html
 [del01-0803-all]: http://www.interni.segreteria.sm/on-line/home/documento25115762.html
 [del01-0503]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25115746.html

@@ -1,16 +1,14 @@
 ---
 layout: page
-title: 📰 Informazioni e notizie
-permalink: /news/
+title: ℹ️ Informazioni 
+permalink: /info/
 nav_order: 1
 ---
 
-# 📰 Informazioni e notizie
+# ℹ️ Informazioni 
 
-## Informazioni ([fonte][iss-coronavirus])
+## ⛑ Raccomandazioni ([fonte][iss-coronavirus])
 
-
-### Raccomandazioni
 Si ricordano ai cittadini il rispetto assoluto delle raccomandazioni a tutela della sicurezza salute personale e dell’intera comunità, in quanto l'unico modo per evitare di ammalarsi è osservare le regole di base per la prevenzione delle malattie infettive respiratorie:
 1. Lavarsi spesso le mani con acqua e sapone per almeno 20 secondi oppure utilizzare un gel a base di alcool o candeggina;
 2. Evitare il contatto ravvicinato (stretta di mano, abbracciarsi, baciarsi) con familiari, conviventi e colleghi di lavoro e mantenere una distanza di sicurezza;
@@ -22,35 +20,22 @@ Si ricordano ai cittadini il rispetto assoluto delle raccomandazioni a tutela de
 8. In caso di sintomi da infezione respiratoria, come tosse, raffreddore, mal di gola, con o senza febbre, restare a casa e contattare il proprio tuo medico di condotta o la Guardia medica al n. 331 6424748, senza recarsi al Centro Salute o al Pronto Soccorso;
 9. Gli animali da compagnia non trasmettono il nuovo coronavirus. È sempre consigliato lavarsi le mani dopo averli accarezzati.
 
-### Numeri utili 
+## 📞 Numeri utili 
 
 - **Istituto per la Sicurezza Sociale** - Informazioni sanitarie Coronavirus: [0549 994001][tel-iss] (attivo tutti i giorni dalle 8 alle 18)
 - **Centrale Operativa Interforze** per informazioni turisti e lavoratori frontalieri: [0549 888888][tel-coi]
 - **Dipartimento Affari Esteri** per l’assistenza ai sammarinesi nelle fasi di rientro dalle zone a rischio: [0549 882337][tel-dae]
 - **Supporto telefonico psicologico** a cura del Servizio Salute Mentale ISS: [0549 994593][tel-ment1], [0549 994650][tel-ment2] (lun-mer-gio 8:00-17:30, mar-ven 8:00-14:00)
 
-### Zone estere a rischio
+## 🌏 Zone estere a rischio
 
 - 🇨🇳 Repubblica Popolare Cinese
 - 🇨🇳🛫 Transiti in aeroporti della Repubblica Popolare Cinese (da e per qualsiasi provenienza)
 - 🇭🇰 Hong Kong
 - 🇰🇷 Corea del Sud
 - 🇮🇷 Iran
- 
-## Notizie
 
-- _12 Marzo 2020_ - In applicazione alle misure urgenti di contenimento da Covid-19 del Decreto n.44/2020, in particolare per limitare la circolazione degli utenti presso i Centri per la Salute, si comunica che da oggi, 12 marzo, tutti gli assistiti che necessitano di una prescrizione di un farmaco (ricetta) devono effettuare la richiesta contattando telefonicamente il numero del proprio medico curante. ​Per l’assistito basterà recarsi direttamente in farmacia per il ritiro del farmaco.
-
-### Riferimenti
-
-- [**Istituto per la Sicurezza Sociale**][iss-coronavirus]
-    - [Pagina Facebook][iss-fb]
-- [**Gov.sm - Emergenza Coronavirus**][govsm]
-- [**San Marino RTV**][smrtv]
-    - [Pagina Facebook][smrtv-fb]
-    - [App iOS][smrtv-ios] - [App Android][smrtv-android]
-
-## Documenti utili
+## 🗂 Documenti utili
 
 |:-|:-|
 | **Vademecum Coronavirus** | [Scarica][vademecum]{: .btn .btn-blue } |
@@ -60,15 +45,10 @@ Si ricordano ai cittadini il rispetto assoluto delle raccomandazioni a tutela de
 [tel-iss]: tel:00390549994001
 [tel-coi]: tel:00390549888888
 [tel-dae]: tel:00390549882337
-[govsm]: https://www.gov.sm/topics/Argomenti/Emergenza-CoronaVirus.html
 [autodichiarazione]: https://www.interno.gov.it/sites/default/files/allegati/modulo_autodichiarazione_10.3.2020.pdf?fbclid=IwAR1OMAt2JeME_vdnaV_ShTA8-F4lGSTw0LD0vLo_R3aFFCJqIPYmipctxnE
 [vademecum]: http://www.sanita.sm/on-line/home/archivio-comunicati/documento2115553.html
 [iss-coronavirus]: http://www.iss.sm/on-line/home/artCataggiornamenti-coronavirus.49004093.1.20.1.html
-[smrtv]: https://www.sanmarinortv.sm
 [iss-fb]: https://www.facebook.com/ISSRSM/
-[smrtv-fb]: https://www.facebook.com/SanMarinoRTV/
-[smrtv-ios]: https://itunes.apple.com/it/app/san-marino-rtv/id960678442?mt=8
-[smrtv-android]: https://play.google.com/store/apps/details?id=sm.smtvsanmarino.tv
 [tel-ment1]: tel:00390549994593
 [tel-ment2]: tel:00390549994650
 [viaggioesteri]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/documento49115826.html
