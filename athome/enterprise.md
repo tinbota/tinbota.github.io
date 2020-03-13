@@ -7,24 +7,23 @@ nav_order: 8
 
 # 🛍 #iorestoacasa Aziende
 
-## Iniziative di sostegno e promozioni ([fonte][smrisponde])
+## 🛒 Negozi, ristoranti e attività sammarinesi ([fonte][smrisponde])
 
 ### Per segnalazioni di iniziative di sostegno a livello locale, scrivere a [tinbota@icloud.com](tinbota@icloud.com), [compilare questo modulo](https://tinbota.typeform.com/to/ci6qvW) oppure [aprire una issue su GitHub](https://github.com/tinbota/tinbota.github.io/issues/new)
 
-### **PHARMALAB** - FARMACIA VETERINARIA - Dogana di Serravalle
+### 💊🐶 **PHARMALAB** - FARMACIA VETERINARIA - Dogana di Serravalle
 
 |:-|:-|
 | **Consegna a domicilio gratuita** in tutta la Repubblica |
 | **Modalità di pagamento**: contante, bonifico bancario |
-| **Modalità d'ordine**: mail: [ordini@pharmalabsrl.com][pl-mail] - [Facebook Messenger][pl-fb]<br/>WhatsApp: [333 3963296][pl-wa] - Telefono: [0549 905826][pl-tel]<br/> |
-| 1. Elenca:  FARMACI, integratori, MANGIMISTICA, prodotti per la pulizia o bellezza, qualsiasi cosa possa servire al tuo pet; <br/> 2. Indica sempre Nome, Cognome, Via e numero, Castello e modalità di pagamento desiderata <br/> 3. Il servizio di consegna è gratuito, la consegna verrà effettuata dalle 17 alle 19.30 <br/> 4. gli orari per ordinare sono dalle 9.00 alle 13.00 e dalle 15.00 alle 19.00 |
+| **Modalità d'ordine**: mail: [ordini@pharmalabsrl.com][pl-mail] - [Facebook Messenger][pl-fb]<br/>WhatsApp: [333 3963296][pl-wa] - Telefono: [0549 905826][pl-tel]<br/> 1. Elenca:  FARMACI, integratori, MANGIMISTICA, prodotti per la pulizia o bellezza, qualsiasi cosa possa servire al tuo pet; <br/> 2. Indica sempre Nome, Cognome, Via e numero, Castello e modalità di pagamento desiderata <br/> 3. Il servizio di consegna è gratuito, la consegna verrà effettuata dalle 17 alle 19.30 <br/> 4. gli orari per ordinare sono dalle 9.00 alle 13.00 e dalle 15.00 alle 19.00 |
 
 [pl-mail]: ordini@pharmalabsrl.com
 [pl-fb]: https://m.me/PharmalabFarmaciaVet/
 [pl-tel]: tel:00390549905826
 [pl-wa]: https://wa.me/00393333963296
 
-### **ALTRO GELATO** gelateria a km zero Domagnano
+### 🍦 **ALTRO GELATO** gelateria a km zero Domagnano
 
 |:-|:-|
 | **Consegna a domicilio gratuita** a Serravalle, Domagnano, Borgo e Città|
@@ -36,7 +35,7 @@ nav_order: 8
 [ag-insta]: https://www.instagram.com/altro_gelato_rsm
 [ag-mess]: http://m.me/altrogelatorsm
 
-### **BOTTEGA DEL POSTO** - Santa Mustiola
+### 🥗 **BOTTEGA DEL POSTO** - Santa Mustiola
 
 |:-|:-|
 | **Consegna a domicilio** in tutta la Repubblica |
@@ -46,7 +45,48 @@ nav_order: 8
 [bp-tel]: tel:00390549990629
 [bp-wa]: https://wa.me/00393935444620
 
-## Banche
+### 🍏 **DALL'ORTOLANO**
+
+|:-|:-|
+| **Consegna a domicilio** in tutta la Repubblica |
+| **Modalità d'ordine**: Per effettuare un ordine puoi andare sulla nostra [pagina Facebook][orto-fb] (Dall'Ortolano) e usare il [tasto WhatsApp][orto-wa]<br/>La consegna verrà effettuata come da ultimo decreto (mascherine, guanti ecc.). Le consegne verranno effettuate dalle 8:00 alle 14:00. |
+ 
+[orto-fb]: https://www.facebook.com/OrtolanoSanMarino/
+[orto-wa]: https://api.whatsapp.com/send?phone=393930005444
+
+### 🐱 **PET'S PLANET**
+
+|:-|:-|
+| **Consegna a domicilio gratuita** in tutta la Repubblica |
+| **Modalità di pagamento**: contanti |
+| **Modalità d'ordine**: Puoi contattarmi tramite Telefono/Whatsapp allo [393 7078154][pets-wa] oppure [0549 901156][pets-tel] negli orari 9.00-13.00/14.00-18.00, o tramite pagina [Facebook][pets-fb] e [Messenger][pets-msg]: Pet’s Planet San Marino |
+ 
+ [pets-wa]: https://wa.me/00393937078154
+ [pets-tel]: tel:00390549901156
+ [pets-fb]: https://www.facebook.com/reffidenise/
+ [pets-msg]: https://m.me/reffidenise/ 
+
+### 🍋 **BORGO ORTOFRUTTA** - Borgo Maggiore
+
+|:-|:-|
+| **Consegna a domicilio** in tutta la Repubblica |
+| **Modalità di pagamento**: contanti |
+| **Modalità d'ordine**: ordini tramite telefono ai numeri [0549 902756][of-tel] / Alan [331 4803786][of-alan] / [339 2618164][of-cell] |
+ 
+ [of-tel]: tel:00390549902756
+ [of-alan]: tel:00353314803786
+ [of-cell]: tel:00393392618164
+
+### 🍝 **DA GIULIO - OSTERIA, GASTRONOMIA E B&B** - Borgo Maggiore
+
+|:-|:-|
+| **Consegna a domicilio gratuita** in tutta la Repubblica **da domenica 15 marzo** |
+| **Modalità di pagamento**: carta di credito (online) oppure contanti. |
+| **Modalità d'ordine**: Ordina online su [dagiulio.fooood.it][dagiulio] (menu sul sito). |
+ 
+ [dagiulio]: https://dagiulio.fooood.it/
+
+## 🏦 Banche
 
 ### Accesso ai servizi online (ebanking)
 

@@ -2,7 +2,7 @@
 layout: page
 title: 💬 Domande frequenti
 permalink: /faq
-nav_order: 3
+nav_order: 4
 ---
 
 # 💬 Domande frequenti
