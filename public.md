@@ -9,6 +9,17 @@ nav_order: 7
 
 Maggiori informazioni su [Gov.sm][govsm]
 
+## 💼 Operatività di uffici e servizi in seguito a DL 14 marzo 2020 n. 51
+
+|:-|:-|
+| **Istituto per la Sicurezza Sociale** | [Scarica][op-iss]{: .btn .btn-blue} |
+| **Azienda Autonoma di Stato per i Servizi Pubblici** | [Scarica][op-aass]{: .btn .btn-blue } |
+| **Uffici Pubblica Amministrazione** | [Scarica][op-pa]{: .btn .btn-blue } | 
+
+[op-iss]: https://www.gov.sm/dam/jcr:b16b78ff-3f19-40ca-9662-73fcddc7aec1/ALLEGATO%20B%20ISS-1.pdf
+[op-aass]: https://www.gov.sm/dam/jcr:30d56d76-98a8-4b29-98f7-7a74cd900480/ALLEGATO%20C%20AASS-1.pdf
+[op-pa]: https://www.gov.sm/dam/jcr:bad91343-63c1-48e9-8fe0-10218177f523/Operatività%20Uffici%20Pubblica%20Amministrazione%20DL%2014%20marzo%202020%20n.51%20.pdf
+
 ## 🔖 Disposizioni di servizio e indicazioni comportamentali
 
 |:-|:-|
