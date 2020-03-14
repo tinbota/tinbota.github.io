@@ -7,6 +7,8 @@ nav_order: 4
 
 # 💬 Domande frequenti
 
+## In evoluzione: [Q&A su San Marino RTV relativo al Decreto-Legge 51/2020][smrtvqa]
+
 ## Spostamenti ([fonte][smrtv])
 
 1. **Cosa si intende per “evitare ogni spostamento delle persone fisiche”? Ci sono dei divieti? Si può uscire per andare al lavoro? Chi è sottoposto alla misura della quarantena, si può spostare?** 
@@ -145,3 +147,4 @@ Sul sito della Segreteria di Stato per gli Affari Esteri (www.esteri.sm) sono in
 
 [iss]: http://www.sanita.sm/on-line/home/authority-sanitaria/documento2114902.html
 [smrtv]: https://www.sanmarinortv.sm/news/attualita-c4/coronavirus-cosa-fare-e-cosa-no-le-domande-piu-frequenti-a184858
+[smrtvqa]: https://www.sanmarinortv.sm/news/attualita-c4/coronavirus-nuovo-decreto-le-risposte-ai-vostri-dubbi-a185060?fbclid=IwAR3AYeL-m4--1cjBVOx13p1whevWjaZLWF5LSk3bgwCTSNmGv4IDbnAOGeQ
