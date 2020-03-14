@@ -20,21 +20,6 @@ Si ricordano ai cittadini il rispetto assoluto delle raccomandazioni a tutela de
 8. In caso di sintomi da infezione respiratoria, come tosse, raffreddore, mal di gola, con o senza febbre, restare a casa e contattare il proprio tuo medico di condotta o la Guardia medica al n. 331 6424748, senza recarsi al Centro Salute o al Pronto Soccorso;
 9. Gli animali da compagnia non trasmettono il nuovo coronavirus. È sempre consigliato lavarsi le mani dopo averli accarezzati.
 
-## 📞 Numeri utili 
-
-- **Istituto per la Sicurezza Sociale** - Informazioni sanitarie Coronavirus: [0549 994001][tel-iss] (attivo tutti i giorni dalle 8 alle 18)
-- **Centrale Operativa Interforze** per informazioni turisti e lavoratori frontalieri: [0549 888888][tel-coi]
-- **Dipartimento Affari Esteri** per l’assistenza ai sammarinesi nelle fasi di rientro dalle zone a rischio: [0549 882337][tel-dae]
-- **Supporto telefonico psicologico** a cura del Servizio Salute Mentale ISS: [0549 994593][tel-ment1], [0549 994650][tel-ment2] (lun-mer-gio 8:00-17:30, mar-ven 8:00-14:00)
-
-## 🌏 Zone estere a rischio
-
-- 🇨🇳 Repubblica Popolare Cinese
-- 🇨🇳🛫 Transiti in aeroporti della Repubblica Popolare Cinese (da e per qualsiasi provenienza)
-- 🇭🇰 Hong Kong
-- 🇰🇷 Corea del Sud
-- 🇮🇷 Iran
-
 ## 🗂 Documenti utili
 
 |:-|:-|
@@ -52,3 +37,18 @@ Si ricordano ai cittadini il rispetto assoluto delle raccomandazioni a tutela de
 [tel-ment1]: tel:00390549994593
 [tel-ment2]: tel:00390549994650
 [viaggioesteri]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/documento49115826.html
+
+## 📞 Numeri utili 
+
+- **Istituto per la Sicurezza Sociale** - Informazioni sanitarie Coronavirus: [0549 994001][tel-iss] (attivo tutti i giorni dalle 8 alle 18)
+- **Centrale Operativa Interforze** per informazioni turisti e lavoratori frontalieri: [0549 888888][tel-coi]
+- **Dipartimento Affari Esteri** per l’assistenza ai sammarinesi nelle fasi di rientro dalle zone a rischio: [0549 882337][tel-dae]
+- **Supporto telefonico psicologico** a cura del Servizio Salute Mentale ISS: [0549 994593][tel-ment1], [0549 994650][tel-ment2] (lun-mer-gio 8:00-17:30, mar-ven 8:00-14:00)
+
+## 🌏 Zone estere a rischio
+
+- 🇨🇳 Repubblica Popolare Cinese
+- 🇨🇳🛫 Transiti in aeroporti della Repubblica Popolare Cinese (da e per qualsiasi provenienza)
+- 🇭🇰 Hong Kong
+- 🇰🇷 Corea del Sud
+- 🇮🇷 Iran
