@@ -9,6 +9,8 @@ nav_order: 8
 
 ## 🛒 Negozi, ristoranti e attività sammarinesi ([fonte][smrisponde])
 
+## **ATTENZIONE**: ai sensi del D.L. 51/2020, art. 2 comma 4, _L’attività di consegna a domicilio da parte delle attività di vendita di generi alimentari nonché dei servizi di ristorazione fra cui bar, pub, ristoranti, gelaterie, pasticcerie, pizzerie, piadinerie, rosticcerie, self service e similari sarà normata da apposito regolamento emesso dall’ISS in concerto con la Protezione Civile. **In attesa dell’emanazione del summenzionato regolamento tale attività è da considerarsi sospesa.**_
+
 ### Per segnalazioni di iniziative di sostegno a livello locale, scrivere a [tinbota@icloud.com](tinbota@icloud.com), [compilare questo modulo](https://tinbota.typeform.com/to/ci6qvW) oppure [aprire una issue su GitHub](https://github.com/tinbota/tinbota.github.io/issues/new)
 
 ### 💊🐶 **PHARMALAB** - FARMACIA VETERINARIA - Dogana di Serravalle
