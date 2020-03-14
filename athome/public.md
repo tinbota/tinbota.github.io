@@ -25,7 +25,7 @@ Maggiori informazioni su [Gov.sm][govsm]
 - [USBM Online Register - Registro online brevetti e marchi][USBM]
 - [Ufficio Filatelico e Numismatico - Acquisti online][UFN]
 
-### **[Portale PA](www.pa.sm)**
+### **[Portale PA](https://www.pa.sm)**
 
 - AIF - Comunicazione telematica RIA
 - AIF - Registro Soggetti non finanziari
@@ -55,7 +55,7 @@ Maggiori informazioni su [Gov.sm][govsm]
 [statocivile]: https://www.gov.sm/dam/jcr:73838b02-767b-45be-ae4d-d9e587792093/STATO%20CIVILE%20coronavirus%20disposizioni.odt
 [agpdp]: https://www.gov.sm/dam/jcr:54913078-6511-4701-a589-a075951b0110/Autorita%20Garante%20TDP%20comunicato%20stampa%2011.03.2020.docx
 [PCO]: https://www.gov.sm/Prenotazione-certificati.html
-[AASS]: https://areaclienti.aass.sm
+[AASS]: https://clienti.aass.sm
 [FER]: http://fotovoltaico.aass.sm/fotovoltaico/
 [UFN]: https://www.ufn.sm/it/shop
 [POSTE]: https://www.poste.sm/on-line/home/servizi/servizi-on-line.html
