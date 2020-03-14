@@ -10,12 +10,16 @@ nav_order: 3
 ## Leggi e decreti ([fonte][cgg])
 
 |:-|:-|:-|
+| Decreto - Legge 14 marzo 2020 n. 51 | **Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)** | [Apri][dl51]{: .btn .btn-blue }<br/>[Allegato 1][dl51-all1]{: .btn } <br/>[Allegato 2][dl51-all2]{: .btn } |
 | Decreto - Legge 11 marzo 2020 n. 46 | **Sospensione straordinaria e temporanea dei termini di cui agli articoli 9, 10 e 12 della Legge 28 giugno 2010 n.118 e successive modifiche** | [Apri][dl46]{: .btn .btn-blue } |
 | Decreto - Legge 8 marzo 2020 n. 44 | **Misure urgenti di contenimento da COVID-19 (Coronavirus)** | [Apri][dl44]{: .btn .btn-blue } |
 | Decreto - Legge 5 marzo 2020 n. 43 | **Misure urgenti di contenimento da COVID-19 (Coronavirus)** | [Apri][dl43]{: .btn .btn-blue } |
 | Decreto - Legge 5 marzo 2020 n. 42 | **Istituzione della figura di commissario straordinario per l'emergenza da COVID-19** | [Apri][dl42]{: .btn .btn-blue } |
 | Decreto - Legge 28 febbraio 2020 n. 35 | **Attribuzione al Segretario di Stato per la Sanità e Sicurezza Sociale del potere di Ordinanza per emergenze di sanità pubblica** | [Apri][dl35]{: .btn .btn-blue } |
 
+[dl51]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f5639330c86c9d309e789c60926687649b30cb78936c9b6c876ccc659e6dc83793669337cc758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=0
+[dl51-all1]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f5639330c86c9d309e789c60926687649b30cb78936c9b6c876ccc659e6dc83793669337cc758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=1
+[dl51-all2]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f5639330c86c9d309e789c60926687649b30cb78936c9b6c876ccc659e6dc83793669337cc758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=2
 [dl46]: https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/documento17115808.html
 [dl44]: https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/documento17115756.html
 [dl43]: https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/documento17115738.html

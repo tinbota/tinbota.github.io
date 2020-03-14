@@ -10,6 +10,10 @@ nav_order: 2
 Notizie dal 12 Marzo 2020 in poi ([fonte: ISS][iss-coronavirus], [fonte: SMRTV][smrtv]). I dati giornalieri sono disponibili nella pagina [Dati][data].
 
 |:-|
+| **Decreto Legge 14/03/2020 n. 51 “Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)”** |
+| _14 Marzo 2020_ - Pubblicato decreto-legge n. 51/2020<br/>[Vai a Normative e ordinanze][legal]{:.btn .btn-green }
+
+|:-|
 | **MESSAGGIO DEGLI ECC.MI CAPITANI REGGENTI ALLA CITTADINANZA SULL’EMERGENZA CORONAVIRUS** |
 | _13 Marzo 2020_ <br/>[Leggi il messaggio][capreg]{:.btn .btn-green } |
 
@@ -39,3 +43,4 @@ Notizie dal 12 Marzo 2020 in poi ([fonte: ISS][iss-coronavirus], [fonte: SMRTV][
 [govsm]: https://www.gov.sm/topics/Argomenti/Emergenza-CoronaVirus.html
 [data]: /data
 [capreg]: https://www.sanmarinortv.sm/uploads/media/media/5e/5e6bd20a7d0a6431082690.pdf
+[legal]: /legal
