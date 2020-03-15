@@ -84,6 +84,15 @@ nav_order: 8
 
 [datatrade]: https://store.datatrade.sm
 
+### 👕 **INDEPENDENT STREETWEAR** - Domagnano
+
+|:-|:-|
+| **Consegna a domicilio gratuita** in tutto il mondo fino al 6 aprile + sconto 30%. |
+| **Modalità di pagamento**: carta di credito, PayPal, Apple Pay, Google Pay. |
+| **Modalità d'ordine**: ordina online su [indstreetwear.com][indstreetwear]. |
+
+[indstreetwear]: https://www.indstreetwear.com
+
 ### 🍺 **LA BETTOLA** - Borgo Maggiore
 
 |:-|:-|
