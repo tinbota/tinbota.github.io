@@ -36,6 +36,7 @@ Dati chiusi alle ore 11:00 di ogni giorno.
 | [12/03/2020][1203] | 67       | 5         | 0         | 139       | 214           | 157           |
 | [13/03/2020][1303] | 73       | 5         | 2         | 139       | 236           | 195           |
 | [14/03/2020][1403] | 92       | 5         | 4         | 198       | 221           | 229           |
+| [15/03/2020][1503] | 98       | 7         | 4         | 198       | 239           | 230           |
 
 
 [iss]: http://www.iss.sm/on-line/home/artCataggiornamenti-coronavirus.49004093.1.20.1.html
@@ -58,3 +59,4 @@ Dati chiusi alle ore 11:00 di ogni giorno.
 [1203]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/articolo49014098.html
 [1303]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/articolo49014107.html
 [1403]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/articolo49014113.html
+[1503]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/articolo49014116.html
