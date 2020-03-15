@@ -7,23 +7,22 @@ nav_order: 8
 
 # 🛍 #iorestoacasa Aziende
 
-## 🛒 Negozi, ristoranti e attività sammarinesi ([fonte][smrisponde])
-
-## **ATTENZIONE**: ai sensi del D.L. 51/2020, art. 2 comma 4, _L’attività di consegna a domicilio da parte delle attività di vendita di generi alimentari nonché dei servizi di ristorazione fra cui bar, pub, ristoranti, gelaterie, pasticcerie, pizzerie, piadinerie, rosticcerie, self service e similari sarà normata da apposito regolamento emesso dall’ISS in concerto con la Protezione Civile. **In attesa dell’emanazione del summenzionato regolamento tale attività è da considerarsi sospesa.**_
-
-### Per segnalazioni di iniziative di sostegno a livello locale, scrivere a [tinbota@icloud.com](tinbota@icloud.com), [compilare questo modulo](https://tinbota.typeform.com/to/ci6qvW) oppure [aprire una issue su GitHub](https://github.com/tinbota/tinbota.github.io/issues/new)
-
-### 💊🐶 **PHARMALAB** - FARMACIA VETERINARIA - Dogana di Serravalle
+## 🧆 Regolamento e moduli per la consegna di alimenti a domicilio
 
 |:-|:-|
-| **Consegna a domicilio gratuita** in tutta la Repubblica |
-| **Modalità di pagamento**: contante, bonifico bancario |
-| **Modalità d'ordine**: mail: [ordini@pharmalabsrl.com][pl-mail] - [Facebook Messenger][pl-fb]<br/>WhatsApp: [333 3963296][pl-wa] - Telefono: [0549 905826][pl-tel]<br/> 1. Elenca:  FARMACI, integratori, MANGIMISTICA, prodotti per la pulizia o bellezza, qualsiasi cosa possa servire al tuo pet; <br/> 2. Indica sempre Nome, Cognome, Via e numero, Castello e modalità di pagamento desiderata <br/> 3. Il servizio di consegna è gratuito, la consegna verrà effettuata dalle 17 alle 19.30 <br/> 4. gli orari per ordinare sono dalle 9.00 alle 13.00 e dalle 15.00 alle 19.00 |
+| **Regolamento consegna a domicilio** | [Scarica][cd-regolamento]{: .btn .btn-blue} |
+| **MODULO A  - Autocertificazione attività di consegna a domicilio** | [Scarica][cd-mod-a]{: .btn .btn-blue } |
+| **MODULO B  - Richiesta autorizzazione attività di consegna a domicilio** | [Scarica][cd-mod-b]{: .btn .btn-blue } | 
+| **Indicazioni per l'utilizzo di dispositivi di protezione e per il lavaggio delle mani** | [Scarica][cd-indicazioni]{: .btn .btn-blue } | 
 
-[pl-mail]: ordini@pharmalabsrl.com
-[pl-fb]: https://m.me/PharmalabFarmaciaVet/
-[pl-tel]: tel:00390549905826
-[pl-wa]: https://wa.me/00393333963296
+[cd-regolamento]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/documento49115977.html
+[cd-mod-a]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/documento49115975.html
+[cd-mod-b]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/documento49115976.html
+[cd-indicazioni]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/documento49115978.html
+
+## 🛒 Negozi, ristoranti e attività sammarinesi ([fonte][smrisponde])
+
+### Per segnalazioni di iniziative di sostegno a livello locale, scrivere a [tinbota@icloud.com](tinbota@icloud.com), [compilare questo modulo](https://tinbota.typeform.com/to/ci6qvW) oppure [aprire una issue su GitHub](https://github.com/tinbota/tinbota.github.io/issues/new)
 
 ### 🍦 **ALTRO GELATO** gelateria a km zero Domagnano
 
@@ -37,6 +36,17 @@ nav_order: 8
 [ag-insta]: https://www.instagram.com/altro_gelato_rsm
 [ag-mess]: http://m.me/altrogelatorsm
 
+### 🍋 **BORGO ORTOFRUTTA** - Borgo Maggiore
+
+|:-|:-|
+| **Consegna a domicilio** in tutta la Repubblica |
+| **Modalità di pagamento**: contanti |
+| **Modalità d'ordine**: ordini tramite telefono ai numeri [0549 902756][of-tel] / Alan [331 4803786][of-alan] / [339 2618164][of-cell] |
+ 
+ [of-tel]: tel:00390549902756
+ [of-alan]: tel:00353314803786
+ [of-cell]: tel:00393392618164
+
 ### 🥗 **BOTTEGA DEL POSTO** - Santa Mustiola
 
 |:-|:-|
@@ -47,6 +57,15 @@ nav_order: 8
 [bp-tel]: tel:00390549990629
 [bp-wa]: https://wa.me/00393935444620
 
+### 🍝 **DA GIULIO - OSTERIA, GASTRONOMIA E B&B** - Borgo Maggiore
+
+|:-|:-|
+| **Consegna a domicilio gratuita** in tutta la Repubblica **da domenica 15 marzo** |
+| **Modalità di pagamento**: carta di credito (online) oppure contanti. |
+| **Modalità d'ordine**: Ordina online su [dagiulio.fooood.it][dagiulio] (menu sul sito). |
+ 
+ [dagiulio]: https://dagiulio.fooood.it/
+
 ### 🍏 **DALL'ORTOLANO**
 
 |:-|:-|
@@ -55,6 +74,25 @@ nav_order: 8
  
 [orto-fb]: https://www.facebook.com/OrtolanoSanMarino/
 [orto-wa]: https://api.whatsapp.com/send?phone=393930005444
+
+### 👨‍💻 **DATATRADE SAN MARINO** - Dogana
+
+|:-|:-|
+| **Consegna a domicilio gratuita** per tutto il mese di Marzo. |
+| **Modalità di pagamento**: carta di credito, bonifico bancario oppure alla consegna in contanti. |
+| **Modalità d'ordine**: ordina online su [store.datatrade.sm][datatrade]. Consegna tramite corriere GLS. Il punto vendita di Dogana rimarrà chiuso. |
+
+[datatrade]: https://store.datatrade.sm
+
+### 🍺 **LA BETTOLA** - Borgo Maggiore
+
+|:-|:-|
+| **Consegna a domicilio gratuita** dalle 18:15 alle 21:00 in tutta la Repubblica. |
+| **Modalità di pagamento**: contanti. |
+| **Modalità d'ordine**: Chiama il [339 2592794][bettola]. Trovi il menu [a questo link][bettola-menu]. |
+ 
+[bettola]: tel:00393392592794
+[bettola-menu]: https://www.facebook.com/labettola.sm/photos/a.1486836798060912/2850489818362263/?type=3&__xts__%5B0%5D=68.ARDZ-OoKszkB7oWDGcBGZTjTZRcqtfTHcV8EAByXlw0cbdw8kKsqY6n9AsiXMJea2xLsO2_xR2scxs5S7zZs_ZjRgaGsAbRj1eR-hbMRsSJzKH8JLlDLrtTDom80caViea76D3s5JYYU0oVNa6FT6rXLjcAQA7yaGj9SZZkS0IHson1xojkqKGYNZPn77guFmh5LYdhMNiZCPbD2Qctr-WV07vHpuVgpyyo5dND2lXCDwpf464cwbp_dvXAc1VuS-uKNFHAt9z3egXYXvirhDQagxKaCpirYuCh5BB3vKbV_AqQxuqO0G1cBXQcJbIoZQBAPRaORnTtiJih-QDY20xPRXg&__tn__=-R
 
 ### 🐱 **PET'S PLANET**
 
@@ -68,25 +106,17 @@ nav_order: 8
  [pets-fb]: https://www.facebook.com/reffidenise/
  [pets-msg]: https://m.me/reffidenise/ 
 
-### 🍋 **BORGO ORTOFRUTTA** - Borgo Maggiore
+### 💊🐶 **PHARMALAB** - FARMACIA VETERINARIA - Dogana di Serravalle
 
 |:-|:-|
-| **Consegna a domicilio** in tutta la Repubblica |
-| **Modalità di pagamento**: contanti |
-| **Modalità d'ordine**: ordini tramite telefono ai numeri [0549 902756][of-tel] / Alan [331 4803786][of-alan] / [339 2618164][of-cell] |
- 
- [of-tel]: tel:00390549902756
- [of-alan]: tel:00353314803786
- [of-cell]: tel:00393392618164
+| **Consegna a domicilio gratuita** in tutta la Repubblica |
+| **Modalità di pagamento**: contante, bonifico bancario |
+| **Modalità d'ordine**: mail: [ordini@pharmalabsrl.com][pl-mail] - [Facebook Messenger][pl-fb]<br/>WhatsApp: [333 3963296][pl-wa] - Telefono: [0549 905826][pl-tel]<br/> 1. Elenca:  FARMACI, integratori, MANGIMISTICA, prodotti per la pulizia o bellezza, qualsiasi cosa possa servire al tuo pet; <br/> 2. Indica sempre Nome, Cognome, Via e numero, Castello e modalità di pagamento desiderata <br/> 3. Il servizio di consegna è gratuito, la consegna verrà effettuata dalle 17 alle 19.30 <br/> 4. gli orari per ordinare sono dalle 9.00 alle 13.00 e dalle 15.00 alle 19.00 |
 
-### 🍝 **DA GIULIO - OSTERIA, GASTRONOMIA E B&B** - Borgo Maggiore
-
-|:-|:-|
-| **Consegna a domicilio gratuita** in tutta la Repubblica **da domenica 15 marzo** |
-| **Modalità di pagamento**: carta di credito (online) oppure contanti. |
-| **Modalità d'ordine**: Ordina online su [dagiulio.fooood.it][dagiulio] (menu sul sito). |
- 
- [dagiulio]: https://dagiulio.fooood.it/
+[pl-mail]: ordini@pharmalabsrl.com
+[pl-fb]: https://m.me/PharmalabFarmaciaVet/
+[pl-tel]: tel:00390549905826
+[pl-wa]: https://wa.me/00393333963296
 
 ## 🏦 Banche
 

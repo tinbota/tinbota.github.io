@@ -44,11 +44,17 @@ Si ricordano ai cittadini il rispetto assoluto delle raccomandazioni a tutela de
 - **Centrale Operativa Interforze** per informazioni turisti e lavoratori frontalieri: [0549 888888][tel-coi]
 - **Dipartimento Affari Esteri** per l’assistenza ai sammarinesi nelle fasi di rientro dalle zone a rischio: [0549 882337][tel-dae]
 - **Supporto telefonico psicologico** a cura del Servizio Salute Mentale ISS: [0549 994593][tel-ment1], [0549 994650][tel-ment2] (lun-mer-gio 8:00-17:30, mar-ven 8:00-14:00)
-
-## 🌏 Zone estere a rischio
-
-- 🇨🇳 Repubblica Popolare Cinese
-- 🇨🇳🛫 Transiti in aeroporti della Repubblica Popolare Cinese (da e per qualsiasi provenienza)
-- 🇭🇰 Hong Kong
-- 🇰🇷 Corea del Sud
-- 🇮🇷 Iran
+- **Soccorso pubblico per emergenze**: [113](tel:113)
+- **Pronto soccorso - ambulanza**: [118](tel:118)
+- **Gendarmeria**: [112](tel:112) - [0549 888888](tel:00390549888888)
+- **Polizia Civile** e **Antincendio**: [115](tel:115)
+- **Urgenze pediatria**: [0549 994250](tel:00390549994250)
+- **Centralino ospedale**: [0549 994111](tel:00390549994111)
+- **Protezione Civile** e **Pronto intervento Luce/Acqua/Gas**: [0549 887777](tel:00390549887777)
+- **Farmacie**:
+    - Borgo Maggiore: [0549 902107](tel:00390549902107)
+    - Cailungo Ospedale: [0549 994222](tel:00390549994222)
+    - Dogana: [0549 885522](tel:0549885522)
+    - Faetano: [0549 883331](tel:00390549883331)
+    - Gualdicciolo: 0549 883883 _(temporaneamente chiusa)_
+    - San Marino: 0549 883858 _(temporaneamente chiusa)_

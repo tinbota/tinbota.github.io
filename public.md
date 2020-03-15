@@ -5,9 +5,7 @@ permalink: /public
 nav_order: 7
 ---
 
-# 🇸🇲 Pubblica amministrazione
-
-Maggiori informazioni su [Gov.sm][govsm]
+# 🇸🇲 Pubblica amministrazione ([fonte][govsm])
 
 ## 💼 Operatività di uffici e servizi in seguito a DL 14 marzo 2020 n. 51
 

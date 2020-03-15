@@ -10,12 +10,16 @@ nav_order: 2
 Notizie dal 12 Marzo 2020 in poi ([fonte: ISS][iss-coronavirus], [fonte: SMRTV][smrtv]). I dati giornalieri sono disponibili nella pagina [Dati][data].
 
 |:-|
+| **Regolamento e moduli per la consegna di alimenti a domicilio** |
+| _14 Marzo 2020_ - L’Istituto di Sicurezza Sociale di concerto con la Protezione Civile della Repubblica di San Marino ha predisposto il regolamento e i moduli per l’attività di consegna a domicilio da parte delle attività di vendita di generi alimentari nonché dei servizi di ristorazione fra cui bar, pub, ristoranti, gelaterie, pasticcerie, pizzerie, piadinerie, rosticcerie, self-service e similari, come previsto dal Decreto Legge del 14 marzo 2020 n° 51 “Misure Urgenti di Contenimento e Gestione dell’Emergenza da COVID-19”.<br/>[Scarica documenti][moduli-cd]{:.btn .btn-blue }
+
+|:-|
 | **Decreto Legge 14/03/2020 n. 51 “Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)”** |
-| _14 Marzo 2020_ - Pubblicato decreto-legge n. 51/2020<br/>[Vai a Normative e ordinanze][legal]{:.btn .btn-green }
+| _14 Marzo 2020_ - Pubblicato decreto-legge n. 51/2020<br/>[Vai a Normative e ordinanze][legal]{:.btn .btn-blue }
 
 |:-|
 | **MESSAGGIO DEGLI ECC.MI CAPITANI REGGENTI ALLA CITTADINANZA SULL’EMERGENZA CORONAVIRUS** |
-| _13 Marzo 2020_ <br/>[Leggi il messaggio][capreg]{:.btn .btn-green } |
+| _13 Marzo 2020_ <br/>[Leggi il messaggio][capreg]{:.btn .btn-blue } |
 
 |:-|
 | **Chiusura farmacie di Gualdicciolo e Città** |
@@ -44,3 +48,4 @@ Notizie dal 12 Marzo 2020 in poi ([fonte: ISS][iss-coronavirus], [fonte: SMRTV][
 [data]: /data
 [capreg]: https://www.sanmarinortv.sm/uploads/media/media/5e/5e6bd20a7d0a6431082690.pdf
 [legal]: /legal
+[moduli-cd]: /athome-enterprise/#-regolamento-e-moduli-per-la-consegna-di-alimenti-a-domicilio

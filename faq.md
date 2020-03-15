@@ -7,7 +7,7 @@ nav_order: 4
 
 # 💬 Domande frequenti
 
-## In evoluzione: [Q&A su San Marino RTV relativo al Decreto-Legge 51/2020][smrtvqa]
+## Altre domande e risposte disponibili qui (in aggiornamento): [Q&A su San Marino RTV relativo al Decreto-Legge 51/2020][smrtvqa]
 
 ## Spostamenti ([fonte][smrtv])
 
