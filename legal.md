@@ -30,6 +30,8 @@ nav_order: 3
 ## Delibere Congresso di Stato ([fonte][delibere])
 
 |:-|:-|:-|
+| Delibera n. 1 13/03/2020 | **Adozione Decreto-Legge ''Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)''** | [Apri][del01-1303]{: .btn .btn-blue }<br/>[Allegato][del01-1303-all]{: .btn } |
+| Delibera n. 2 13/03/2020 | **Disposizioni relative alla chiusura di strutture ed uffici pubblici ed all'operatività minima dell'Amministrazione e di Poste San Marino S.p.A. nel periodo di vigenza dello stato di emergenza sanitaria** | [Apri][del02-1303]{: .btn .btn-blue }<br/>[Allegato 1][del02-1303-all1]{: .btn }<br/>[Allegato 2][del02-1303-all2]{: .btn }<br/>[Allegato 3][del02-1303-all3]{: .btn } |
 | Delibera n. 6 10/03/2020 | **Adozione Decreto - Legge ''Sospensione straordinaria e temporanea dei termini di cui agli articoli 9, 10 e 12 della Legge 28 giugno 2010 n. 118 e successive modifiche''** | [Apri][del06-1003]{: .btn .btn-blue }<br/>[Allegato][del06-1003-all]{: .btn } |
 | Delibera n. 1 08/03/2020 | **Adozione Decreto-Legge ''Misure urgenti di contenimento da COVID-19 (Coronavirus)''** | [Apri][del01-0803]{: .btn .btn-blue }<br/>[Allegato][del01-0803-all]{: .btn } |
 | Delibera n. 1 05/03/2020 | **Adozione Decreto - Legge ''Istituzione della figura di Commissario Straordinario per l'emergenza da COVID-19''** | [Apri][del01-0503]{: .btn .btn-blue }<br/>[Allegato][del01-0503-all]{: .btn } |
@@ -41,6 +43,12 @@ nav_order: 3
 | Delibera n. 1 23/02/2020 | **Emissione Ordinanza ''Misure urgenti di prevenzione per evitare la diffusione del COVID-19 (Coronavirus)''** | [Apri][del01-2302]{: .btn .btn-blue }<br/>[Allegato][del01-2302-all]{: .btn } |
 | Delibera n. 1 22/02/2020 | **Emissione Ordinanza ''Provvedimenti per Emergenze Sanitarie epidemia da COVID-19''** | [Apri][del01-2202]{: .btn .btn-blue } |
 
+[del01-1303]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116004.html
+[del01-1303-all]: http://www.interni.segreteria.sm/on-line/home/documento25116005.html
+[del02-1303]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116006.html
+[del02-1303-all1]: http://www.interni.segreteria.sm/on-line/home/documento25116007.html
+[del02-1303-all2]: http://www.interni.segreteria.sm/on-line/home/documento25116008.html
+[del02-1303-all3]: http://www.interni.segreteria.sm/on-line/home/documento25116009.html
 [del06-1003]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25115809.html
 [del06-1003-all]: http://www.interni.segreteria.sm/on-line/home/documento25115810.html
 [del01-0803]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25115761.html
