@@ -10,17 +10,17 @@ nav_order: 5
 ## Grafico ([fonte dati][iss])
 
 <img src="/assets/img/graph.svg" alt="Graph"/>
+[Visualizza grafico a schermo intero](/assets/img/graph.svg)
 
-<!--{ % vegalite % }
-{ % endvegalite % }-->
+<!-- { % vegalite % }{ % endvegalite % } -->
 
 Dati chiusi alle ore 11:00 di ogni giorno.
 
 | Data               | Positivi | Decessi   | Guariti   | Tamponi   | Quarantene    | Q. terminate  |
 |:-------------------|:---------|:----------|:----------|:----------|:--------------|:--------------|  
-| [26/02/2020][2602] | 0        | 0         | 0         | 2         | 2             | 0             |
-| [27/02/2020][2702] | 1        | 0         | 0         | 2         | 1             | 0             |
-| [28/02/2020][2802] | 1        | 0         | 0         | 2         | 21            | 0             |
+| [26/02/2020][2602] | 0        | 0         | 0         | nd        | 2             | 0             |
+| [27/02/2020][2702] | 1        | 0         | 0         | nd        | 3             | 0             |
+| [28/02/2020][2802] | 1        | 0         | 0         | nd        | 21            | 0             |
 | [29/02/2020][2902] | 1        | 0         | 0         | 19        | 29            | 0             |
 | [01/03/2020][0103] | 8        | 0         | 0         | 25        | 76            | 0             |
 | [02/03/2020][0203] | 8        | 1         | 0         | 29        | 80            | 0             |
@@ -34,9 +34,10 @@ Dati chiusi alle ore 11:00 di ogni giorno.
 | [10/03/2020][1003] | 60       | 2         | 0         | 111       | 176           | 119           |
 | [11/03/2020][1103] | 66       | 3         | 0         | 127       | 195           | 142           |
 | [12/03/2020][1203] | 67       | 5         | 0         | 139       | 214           | 157           |
-| [13/03/2020][1303] | 73       | 5         | 2         | 139       | 236           | 195           |
+| [13/03/2020][1303] | 73       | 5         | 2         | nd        | 236           | 195           |
 | [14/03/2020][1403] | 92       | 5         | 4         | 198       | 221           | 229           |
-| [15/03/2020][1503] | 98       | 7         | 4         | 198       | 239           | 230           |
+| [15/03/2020][1503] | 98       | 7         | 4         | nd        | 239           | 230           |
+| [16/03/2020][1603] | 102      | 9         | 4         | nd        | 244           | 244           |
 
 
 [iss]: http://www.iss.sm/on-line/home/artCataggiornamenti-coronavirus.49004093.1.20.1.html
@@ -60,3 +61,4 @@ Dati chiusi alle ore 11:00 di ogni giorno.
 [1303]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/articolo49014107.html
 [1403]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/articolo49014113.html
 [1503]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/articolo49014116.html
+[1603]: http://www.iss.sm/on-line/home/articolo49014122.html

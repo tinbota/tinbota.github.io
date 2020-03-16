@@ -10,6 +10,10 @@ nav_order: 2
 Notizie dal 12 Marzo 2020 in poi ([fonte: ISS][iss-coronavirus], [fonte: SMRTV][smrtv]). I dati giornalieri sono disponibili nella pagina [Dati][data].
 
 |:-|
+| **Non sono autorizzati certificati medici per svolgere attività all’aria aperta** |
+| _16 Marzo 2020_ - Il Gruppo di coordinamento per le emergenze sanitarie intende ribadire che in base al Decreto Legge 51/2020 “Misure Urgenti di Contenimento e Gestione dell’Emergenza da COVID-19” non è autorizzato il rilascio di certificati medici per effettuare attività all’aria aperta. Restano valide quindi le misure contenute alla lettera A, comma 1 Art. 1: che impone di “evitare ogni spostamento delle persone fisiche in entrata e in uscita dal territorio della Repubblica nonché all’interno dello stesso, salvo che per gli spostamenti motivati da comprovate esigenze lavorative o situazioni di necessità ovvero spostamenti per motivi di salute o per il rientro presso il proprio domicilio, abitazione o residenza. E’ vietato l’assembramento di persone in parchi, piazze e giardini pubblici”. |
+
+|:-|
 | **Regolamento e moduli per la consegna di alimenti a domicilio** |
 | _14 Marzo 2020_ - L’Istituto di Sicurezza Sociale di concerto con la Protezione Civile della Repubblica di San Marino ha predisposto il regolamento e i moduli per l’attività di consegna a domicilio da parte delle attività di vendita di generi alimentari nonché dei servizi di ristorazione fra cui bar, pub, ristoranti, gelaterie, pasticcerie, pizzerie, piadinerie, rosticcerie, self-service e similari, come previsto dal Decreto Legge del 14 marzo 2020 n° 51 “Misure Urgenti di Contenimento e Gestione dell’Emergenza da COVID-19”.<br/>[Scarica documenti][moduli-cd]{:.btn .btn-blue }
 
