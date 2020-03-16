@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 📚 &num;iorestoacasa Cultura e Educazione
-permalink: /athome-culture
+permalink: /culture
 nav_order: 11
 ---
 

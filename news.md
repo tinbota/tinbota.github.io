@@ -48,4 +48,4 @@ Notizie dal 12 Marzo 2020 in poi ([fonte: ISS][iss-coronavirus], [fonte: SMRTV][
 [data]: /data
 [capreg]: https://www.sanmarinortv.sm/uploads/media/media/5e/5e6bd20a7d0a6431082690.pdf
 [legal]: /legal
-[moduli-cd]: /athome-enterprise/#-regolamento-e-moduli-per-la-consegna-di-alimenti-a-domicilio
+[moduli-cd]: /shops/#-regolamento-e-moduli-per-la-consegna-di-alimenti-a-domicilio

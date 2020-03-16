@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🍿 &num;iorestoacasa Intrattenimento
-permalink: /athome-entertainment
+permalink: /entertainment
 nav_order: 12
 ---
 

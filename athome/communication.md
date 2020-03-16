@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 📞 &num;iorestoacasa Comunicazione
-permalink: /athome-communication
+permalink: /communication
 nav_order: 10
 ---
 

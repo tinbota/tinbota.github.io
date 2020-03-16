@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🛍 &num;iorestoacasa Aziende
-permalink: /athome-enterprise/
+permalink: /shops/
 nav_order: 8
 ---
 

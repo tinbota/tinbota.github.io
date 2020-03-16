@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🏋️‍♂️ &num;iorestoacasa Attività fisica
-permalink: /athome-workout
+permalink: /workout
 nav_order: 13
 ---
 

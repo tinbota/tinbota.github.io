@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 💼 &num;iorestoacasa Lavoro
-permalink: /athome-work
+permalink: /work
 nav_order: 9
 ---
 
