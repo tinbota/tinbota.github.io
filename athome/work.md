@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 💼 &num;iorestoacasa Lavoro
+title: 💼 Lavoro
 permalink: /work
 nav_order: 9
 ---

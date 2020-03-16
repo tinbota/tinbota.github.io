@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🛍 &num;iorestoacasa Aziende
+title: 🛍 Aziende
 permalink: /shops/
 nav_order: 8
 ---

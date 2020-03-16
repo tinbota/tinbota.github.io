@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 📚 &num;iorestoacasa Cultura e Educazione
+title: 📚 Cultura e Educazione
 permalink: /culture
 nav_order: 11
 ---

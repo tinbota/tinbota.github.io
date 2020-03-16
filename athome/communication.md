@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 📞 &num;iorestoacasa Comunicazione
+title: 📞 Comunicazione
 permalink: /communication
 nav_order: 10
 ---

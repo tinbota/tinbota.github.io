@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🍿 &num;iorestoacasa Intrattenimento
+title: 🍿 Intrattenimento
 permalink: /entertainment
 nav_order: 12
 ---

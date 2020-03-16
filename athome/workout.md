@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🏋️‍♂️ &num;iorestoacasa Attività fisica
+title: 🏋️‍♂️ Attività fisica
 permalink: /workout
 nav_order: 13
 ---
