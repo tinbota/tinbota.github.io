@@ -1,23 +1,19 @@
-
 {
   "": "https://vega.github.io/schema/vega-lite/v4.json",
   "description": "A simple bar chart with embedded data.",
   "data": {
     "values": [
       {"x": "2020-02-26T11:00:00.000Z", "type": "quarantene", "y": 2}, 
-      {"x": "2020-02-26T11:00:00.000Z", "type": "tamponi", "y": 2}, 
       {"x": "2020-02-26T11:00:00.000Z", "type": "positivi", "y": 0},
       {"x": "2020-02-26T11:00:00.000Z", "type": "decessi", "y": 0}, 
       {"x": "2020-02-26T11:00:00.000Z", "type": "quarantene-terminate", "y": 0}, 
       {"x": "2020-02-26T11:00:00.000Z", "type": "guariti", "y": 0},
       {"x": "2020-02-27T11:00:00.000Z", "type": "quarantene", "y": 1}, 
-      {"x": "2020-02-27T11:00:00.000Z", "type": "tamponi", "y": 2}, 
       {"x": "2020-02-27T11:00:00.000Z", "type": "positivi", "y": 1},
       {"x": "2020-02-27T11:00:00.000Z", "type": "decessi", "y": 0}, 
       {"x": "2020-02-27T11:00:00.000Z", "type": "quarantene-terminate", "y": 0},
       {"x": "2020-02-27T11:00:00.000Z", "type": "guariti", "y": 0}, 
       {"x": "2020-02-28T11:00:00.000Z", "type": "quarantene", "y": 21},
-      {"x": "2020-02-28T11:00:00.000Z", "type": "tamponi", "y": 2}, 
       {"x": "2020-02-28T11:00:00.000Z", "type": "positivi", "y": 1},
       {"x": "2020-02-28T11:00:00.000Z", "type": "decessi", "y": 0}, 
       {"x": "2020-02-28T11:00:00.000Z", "type": "quarantene-terminate", "y": 0}, 
@@ -101,7 +97,6 @@
       {"x": "2020-03-12T11:00:00.000Z", "type": "quarantene-terminate", "y": 157},
       {"x": "2020-03-12T11:00:00.000Z", "type": "guariti", "y": 0},
       {"x": "2020-03-13T11:00:00.000Z", "type": "quarantene", "y": 236}, 
-      {"x": "2020-03-13T11:00:00.000Z", "type": "tamponi", "y": 139}, 
       {"x": "2020-03-13T11:00:00.000Z", "type": "positivi", "y": 73}, 
       {"x": "2020-03-13T11:00:00.000Z", "type": "decessi", "y": 5},
       {"x": "2020-03-13T11:00:00.000Z", "type": "quarantene-terminate", "y": 195},
@@ -113,11 +108,15 @@
       {"x": "2020-03-14T11:00:00.000Z", "type": "quarantene-terminate", "y": 229},
       {"x": "2020-03-14T11:00:00.000Z", "type": "guariti", "y": 4},
       {"x": "2020-03-15T11:00:00.000Z", "type": "quarantene", "y": 239}, 
-      {"x": "2020-03-15T11:00:00.000Z", "type": "tamponi", "y": 198}, 
       {"x": "2020-03-15T11:00:00.000Z", "type": "positivi", "y": 98}, 
       {"x": "2020-03-15T11:00:00.000Z", "type": "decessi", "y": 7},
       {"x": "2020-03-15T11:00:00.000Z", "type": "quarantene-terminate", "y": 230},
-      {"x": "2020-03-15T11:00:00.000Z", "type": "guariti", "y": 4}
+      {"x": "2020-03-15T11:00:00.000Z", "type": "guariti", "y": 4},
+      {"x": "2020-03-16T11:00:00.000Z", "type": "quarantene", "y": 244}, 
+      {"x": "2020-03-16T11:00:00.000Z", "type": "positivi", "y": 102}, 
+      {"x": "2020-03-16T11:00:00.000Z", "type": "decessi", "y": 9},
+      {"x": "2020-03-16T11:00:00.000Z", "type": "quarantene-terminate", "y": 244},
+      {"x": "2020-03-16T11:00:00.000Z", "type": "guariti", "y": 4}
     ]
   },
   "mark": {
@@ -141,5 +140,5 @@
     }
   },
   "width": 600,
-  "height": 600
+  "height": 400
 }

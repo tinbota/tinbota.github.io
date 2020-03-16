@@ -29,6 +29,7 @@ nav_order: 7
 | **Dipartimento Prevenzione ISS su sanità pubblica veterinaria e sicurezza alimentare** | [Scarica][veterinario]{: .btn .btn-blue } |
 | **Segreteria di Stato per l'Industria, l'Artigianato e il Commercio** | [Scarica][industria]{: .btn .btn-blue } |
 | **Dipartimento Prevenzione ISS su precauzioni coronavirus per Associazioni di Categoria** | [Scarica][asscategoria]{: .btn .btn-blue } |
+| **Disposizioni Interpretative ed applicative del Capo III del Decreto-Legge 14 marzo 2020 n.51** | [Scarica][dfp]{: .btn .btn-blue } |
 
 |:-|:-|
 | **Settore Telecomunicazioni** | Il Settore Telecomunicazioni resterà chiuso al pubblico dal 16/03/2020 al 25/03/2020. Per emergenze nella rete telefonica della PA o sulla rete Tetra ci si dovrà rivolgere a Protezione Civile e Gendarmeria. |
@@ -85,3 +86,4 @@ nav_order: 7
 [veterinario]: https://www.gov.sm/articoli/Circolare-Dipartimento-Prevenzione-ISS-su-sanit%C3%A0-pubblica-veterinaria-e-sicurezza-alimentare---Prot.n.1769-D1-2020-del-10-marzo-2020.html
 [industria]: https://www.gov.sm/dam/jcr:c2cf6584-6977-4e77-a6ff-7bd45a2447e9/Prot.n.28875_2020_CM-Circolare-esplicativa-misure-urgenti-di-contenimento-da-COVID19.pdf
 [asscategoria]: https://www.gov.sm/articoli/Circolare-Dipartimento-Prevenzione-ISS-su-precauzioni-coronavirus-per-Associazioni-di-Categoria---Prot.n.1767-D1-2020-del-10-marzo-2020.html
+[dfp]: https://www.gov.sm/dam/jcr:35761aee-ce36-415a-9b2d-dc0a111b2f4b/200316_circolare%20n.%206_30655-1.pdf
