@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 🛍 Aziende
+title: 🛍 Negozi e aziende
 permalink: /shops/
 nav_order: 8
 ---
 
-# 🛍 #iorestoacasa Aziende
+# 🛍 #iorestoacasa Negozi e aziende
 
 ## 🧆 Regolamento e moduli per la consegna di alimenti a domicilio
 
