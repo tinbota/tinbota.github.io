@@ -20,21 +20,11 @@ nav_order: 8
 [cd-mod-b]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/documento49115976.html
 [cd-indicazioni]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/documento49115978.html
 
-## 🛒 Negozi, ristoranti e attività sammarinesi ([fonte][smrisponde])
+## Per segnalazioni di iniziative di sostegno a livello locale, scrivere a [tinbota@icloud.com](tinbota@icloud.com), [compilare questo modulo](https://tinbota.typeform.com/to/ci6qvW) oppure [aprire una issue su GitHub](https://github.com/tinbota/tinbota.github.io/issues/new)
 
-### Per segnalazioni di iniziative di sostegno a livello locale, scrivere a [tinbota@icloud.com](tinbota@icloud.com), [compilare questo modulo](https://tinbota.typeform.com/to/ci6qvW) oppure [aprire una issue su GitHub](https://github.com/tinbota/tinbota.github.io/issues/new)
+Fonti: [San Marino Risponde][smrisponde], [San Marino Consegne a Domicilio e Take Away][smdomicilio].
 
-### 🍦 **ALTRO GELATO** gelateria a km zero Domagnano
-
-|:-|:-|
-| **Consegna a domicilio gratuita** a Serravalle, Domagnano, Borgo e Città|
-| **Modalità di pagamento**: contanti, bancomat |
-| **Modalità d'ordine**: Puoi consultare il nostro menù su gelati torte e piccola pasticcera su [Facebook][ag-fb] o Instagram o chiamarci e chiedere al numero [0549 907054][ag-tel] <br/> Si possono effettuare gli ordini dalle 12 alle 17 al numero [0549 907054][ag-tel] tramite [Messenger][ag-fb] o [Instagram][ag-insta] specificando NOME COGNOME CELLULARE VIA CASTELLO DI RESIDENZA E NOME SUL CAMPANELLO<br/>Dalle 17 alle 18 effettueremo la consegna a domicilio nel pieno rispetto delle regole del decreto e con le dovute precauzioni (mascherine, guanti monouso e disinfettanti) |
-
-[ag-tel]: tel:00390549907054
-[ag-fb]: https://www.facebook.com/altrogelatorsm
-[ag-insta]: https://www.instagram.com/altro_gelato_rsm
-[ag-mess]: http://m.me/altrogelatorsm
+## 🍒 Alimentari, frutta e verdura
 
 ### 🍋 **BORGO ORTOFRUTTA** - Borgo Maggiore
 
@@ -57,15 +47,6 @@ nav_order: 8
 [bp-tel]: tel:00390549990629
 [bp-wa]: https://wa.me/00393935444620
 
-### 🍝 **DA GIULIO - OSTERIA, GASTRONOMIA E B&B** - Borgo Maggiore
-
-|:-|:-|
-| **Consegna a domicilio gratuita** in tutta la Repubblica **da domenica 15 marzo** |
-| **Modalità di pagamento**: carta di credito (online) oppure contanti. |
-| **Modalità d'ordine**: Ordina online su [dagiulio.fooood.it][dagiulio] (menu sul sito). |
- 
- [dagiulio]: https://dagiulio.fooood.it/
-
 ### 🍏 **DALL'ORTOLANO**
 
 |:-|:-|
@@ -75,23 +56,28 @@ nav_order: 8
 [orto-fb]: https://www.facebook.com/OrtolanoSanMarino/
 [orto-wa]: https://api.whatsapp.com/send?phone=393930005444
 
-### 👨‍💻 **DATATRADE SAN MARINO** - Dogana
+## 🍝 Ristorazione
+
+### 🍦 **ALTRO GELATO** gelateria a km zero Domagnano
 
 |:-|:-|
-| **Consegna a domicilio gratuita** per tutto il mese di Marzo. |
-| **Modalità di pagamento**: carta di credito, bonifico bancario oppure alla consegna in contanti. |
-| **Modalità d'ordine**: ordina online su [store.datatrade.sm][datatrade]. Consegna tramite corriere GLS. Il punto vendita di Dogana rimarrà chiuso. |
+| **Consegna a domicilio gratuita** a Serravalle, Domagnano, Borgo e Città|
+| **Modalità di pagamento**: contanti, bancomat |
+| **Modalità d'ordine**: Puoi consultare il nostro menù su gelati torte e piccola pasticcera su [Facebook][ag-fb] o Instagram o chiamarci e chiedere al numero [0549 907054][ag-tel] <br/> Si possono effettuare gli ordini dalle 12 alle 17 al numero [0549 907054][ag-tel] tramite [Messenger][ag-fb] o [Instagram][ag-insta] specificando NOME COGNOME CELLULARE VIA CASTELLO DI RESIDENZA E NOME SUL CAMPANELLO<br/>Dalle 17 alle 18 effettueremo la consegna a domicilio nel pieno rispetto delle regole del decreto e con le dovute precauzioni (mascherine, guanti monouso e disinfettanti) |
 
-[datatrade]: https://store.datatrade.sm
+[ag-tel]: tel:00390549907054
+[ag-fb]: https://www.facebook.com/altrogelatorsm
+[ag-insta]: https://www.instagram.com/altro_gelato_rsm
+[ag-mess]: http://m.me/altrogelatorsm
 
-### 👕 **INDEPENDENT STREETWEAR** - Domagnano
+### 🍝 **DA GIULIO - OSTERIA, GASTRONOMIA E B&B** - Borgo Maggiore
 
 |:-|:-|
-| **Consegna a domicilio gratuita** in tutto il mondo fino al 6 aprile + sconto 30%. |
-| **Modalità di pagamento**: carta di credito, PayPal, Apple Pay, Google Pay. |
-| **Modalità d'ordine**: ordina online su [indstreetwear.com][indstreetwear]. |
-
-[indstreetwear]: https://www.indstreetwear.com
+| **Consegna a domicilio gratuita** in tutta la Repubblica **da domenica 15 marzo** |
+| **Modalità di pagamento**: carta di credito (online) oppure contanti. |
+| **Modalità d'ordine**: Ordina online su [dagiulio.fooood.it][dagiulio] (menu sul sito). |
+ 
+ [dagiulio]: https://dagiulio.fooood.it/
 
 ### 🍺 **LA BETTOLA** - Borgo Maggiore
 
@@ -102,6 +88,8 @@ nav_order: 8
  
 [bettola]: tel:00393392592794
 [bettola-menu]: https://www.facebook.com/labettola.sm/photos/a.1486836798060912/2850489818362263/?type=3&__xts__%5B0%5D=68.ARDZ-OoKszkB7oWDGcBGZTjTZRcqtfTHcV8EAByXlw0cbdw8kKsqY6n9AsiXMJea2xLsO2_xR2scxs5S7zZs_ZjRgaGsAbRj1eR-hbMRsSJzKH8JLlDLrtTDom80caViea76D3s5JYYU0oVNa6FT6rXLjcAQA7yaGj9SZZkS0IHson1xojkqKGYNZPn77guFmh5LYdhMNiZCPbD2Qctr-WV07vHpuVgpyyo5dND2lXCDwpf464cwbp_dvXAc1VuS-uKNFHAt9z3egXYXvirhDQagxKaCpirYuCh5BB3vKbV_AqQxuqO0G1cBXQcJbIoZQBAPRaORnTtiJih-QDY20xPRXg&__tn__=-R
+
+## 🦮 Animali
 
 ### 🐱 **PET'S PLANET**
 
@@ -127,6 +115,29 @@ nav_order: 8
 [pl-tel]: tel:00390549905826
 [pl-wa]: https://wa.me/00393333963296
 
+## 💻 Elettronica e Informatica
+
+### 👨‍💻 **DATATRADE SAN MARINO** - Dogana
+
+|:-|:-|
+| **Consegna a domicilio gratuita** per tutto il mese di Marzo. |
+| **Modalità di pagamento**: carta di credito, bonifico bancario oppure alla consegna in contanti. |
+| **Modalità d'ordine**: ordina online su [store.datatrade.sm][datatrade]. Consegna tramite corriere GLS. Il punto vendita di Dogana rimarrà chiuso. |
+
+[datatrade]: https://store.datatrade.sm
+
+## 🤵 Abbigliamento
+
+### 👕 **INDEPENDENT STREETWEAR** - Domagnano
+
+|:-|:-|
+| **Consegna a domicilio gratuita** in tutto il mondo fino al 6 aprile + sconto 30%. |
+| **Modalità di pagamento**: carta di credito, PayPal, Apple Pay, Google Pay. |
+| **Modalità d'ordine**: ordina online su [indstreetwear.com][indstreetwear]. |
+
+[indstreetwear]: https://www.indstreetwear.com
+
+
 ## 🏦 Banche
 
 ### Accesso ai servizi online (ebanking)
@@ -149,5 +160,8 @@ nav_order: 8
 [bac]: https://www.bac.sm/area-clienti/
 [bsi]: https://wb.bsi.sm
 [bns]: https://www.bns.sm
-[smrisponde]: https://www.facebook.com/notes/san-marino-risponde/elenco-attività-con-consegna-a-domicilio-modificabile-da-tutti-voi-da-versione-d/2586601238282486/
 [libertas-banche]: http://www.libertas.sm/notizie/2020/03/11/san-marino-le-banche-sammarinesi-scendono-in-campo-per-sostenere-famiglie-e-imprese.html
+
+
+[smrisponde]: https://www.facebook.com/notes/san-marino-risponde/elenco-attività-con-consegna-a-domicilio-modificabile-da-tutti-voi-da-versione-d/2586601238282486/
+[smdomicilio]: https://www.facebook.com/groups/214618642951239/
