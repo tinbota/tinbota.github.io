@@ -109,15 +109,6 @@ Fonti: [San Marino Risponde][smrisponde], [San Marino Consegne a Domicilio e Tak
 [guaita-cel]: tel:00393899456402
 [guaita-menu]: https://www.facebook.com/barguaitasanmarino/posts/2942768932474163?__xts__%5B0%5D=68.ARDB-XqVR7Mmt3XGPfEKAjdcdFwS9DWj9cTtFjzLIf06N8oOg1UM15eB3sUOyS-KSanqreSgjITlHXGqSe1JzJrGXLu_S_uCAmBwZZ60tmdshCJpyR4XKqk09QIHMKrthdwEQL7M5nkFT7VuyQktpRFCjfZ3rhPo12U4SL7KZspUu5f019msfM0tTb1XM3nwkzkbiDINJQBFlN7uO86pg7ulM8bjCF6pIKfCO_HMZ0a_Lk-4jFjFKdsvDE4g-eCYvZJ090Us6oDm8_ber_vmi6oX8ieN7W5bPinNgwwydR36w4d7hDao7Yk5I91v7_RqLBmouAk2QU2TYDfy-0voZJPERQ&__tn__=-R
 
-### 🍝 **DA GIULIO - OSTERIA, GASTRONOMIA E B&B** - Borgo Maggiore
-
-|:-|:-|
-| **Consegna a domicilio gratuita** in tutta la Repubblica **da domenica 15 marzo** |
-| **Modalità di pagamento**: carta di credito (online) oppure contanti. |
-| **Modalità d'ordine**: Ordina online su [dagiulio.fooood.it][dagiulio] (menu sul sito). |
- 
- [dagiulio]: https://dagiulio.fooood.it/
-
 ### 🍺 **LA BETTOLA** - Borgo Maggiore
 
 |:-|:-|
