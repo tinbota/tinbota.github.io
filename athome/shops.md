@@ -129,18 +129,6 @@ Fonti: [San Marino Risponde][smrisponde], [San Marino Consegne a Domicilio e Tak
 
 ## 🦮 Animali
 
-### 🐱 **PET'S PLANET**
-
-|:-|:-|
-| **Consegna a domicilio gratuita** in tutta la Repubblica |
-| **Modalità di pagamento**: contanti |
-| **Modalità d'ordine**: Puoi contattarmi tramite Telefono/Whatsapp allo [393 7078154][pets-wa] oppure [0549 901156][pets-tel] negli orari 9.00-13.00/14.00-18.00, o tramite pagina [Facebook][pets-fb] e [Messenger][pets-msg]: Pet’s Planet San Marino |
- 
- [pets-wa]: https://wa.me/00393937078154
- [pets-tel]: tel:00390549901156
- [pets-fb]: https://www.facebook.com/reffidenise/
- [pets-msg]: https://m.me/reffidenise/ 
-
 ### 💊🐶 **PHARMALAB** - FARMACIA VETERINARIA - Dogana di Serravalle
 
 |:-|:-|
