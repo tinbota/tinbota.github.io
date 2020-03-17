@@ -77,18 +77,6 @@ Fonti: [San Marino Risponde][smrisponde], [San Marino Consegne a Domicilio e Tak
 
 ## 🍝 Ristorazione
 
-### 🍦 **ALTRO GELATO** gelateria a km zero Domagnano
-
-|:-|:-|
-| **Consegna a domicilio gratuita** a Serravalle, Domagnano, Borgo e Città|
-| **Modalità di pagamento**: contanti, bancomat |
-| **Modalità d'ordine**: Puoi consultare il nostro menù su gelati torte e piccola pasticcera su [Facebook][ag-fb] o Instagram o chiamarci e chiedere al numero [0549 907054][ag-tel] <br/> Si possono effettuare gli ordini dalle 12 alle 17 al numero [0549 907054][ag-tel] tramite [Messenger][ag-fb] o [Instagram][ag-insta] specificando NOME COGNOME CELLULARE VIA CASTELLO DI RESIDENZA E NOME SUL CAMPANELLO<br/>Dalle 17 alle 18 effettueremo la consegna a domicilio nel pieno rispetto delle regole del decreto e con le dovute precauzioni (mascherine, guanti monouso e disinfettanti) |
-
-[ag-tel]: tel:00390549907054
-[ag-fb]: https://www.facebook.com/altrogelatorsm
-[ag-insta]: https://www.instagram.com/altro_gelato_rsm
-[ag-mess]: http://m.me/altrogelatorsm
-
 ### 🍔 **BAR GIULIETTI KM0** - Città
 
 |:-|:-|
