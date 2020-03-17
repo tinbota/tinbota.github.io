@@ -22,6 +22,8 @@ nav_order: 8
 
 ## Per segnalazioni di iniziative di sostegno a livello locale, scrivere a [tinbota@icloud.com](tinbota@icloud.com), [compilare questo modulo](https://tinbota.typeform.com/to/ci6qvW) oppure [aprire una issue su GitHub](https://github.com/tinbota/tinbota.github.io/issues/new)
 
+## **[Elenco completo attività autorizzate (fonte: ISS)](http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/documento49116012.html)**
+
 Fonti: [San Marino Risponde][smrisponde], [San Marino Consegne a Domicilio e Take Away][smdomicilio].
 
 ## 🍒 Alimenti, frutta e verdura
