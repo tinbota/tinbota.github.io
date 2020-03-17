@@ -10,6 +10,10 @@ nav_order: 2
 Notizie dal 12 Marzo 2020 in poi ([fonte: ISS][iss-coronavirus], [fonte: SMRTV][smrtv]). I dati giornalieri sono disponibili nella pagina [Dati][data].
 
 |:-|
+| **Avviato il Piano di assistenza alla popolazione** |
+| _17 Marzo 2020_ - La Protezione Civile di San Marino in collaborazione con il Servizio Territoriale Domiciliare dell’Istituto per la Sicurezza Sociale, la Croce Rossa Sammarinese e le Milizie, ha presentato oggi in conferenza stampa il Piano di Assistenza alla Popolazione. Il supporto nell’assistenza è garantito dagli Scout, dai numerosi volontari facenti parte e non di Associazioni, che si ringraziano per il prezioso contributo.<br/>[Comunicato integrale][pap]{:.btn .btn-blue } |
+
+|:-|
 | **Non sono autorizzati certificati medici per svolgere attività all’aria aperta** |
 | _16 Marzo 2020_ - Il Gruppo di coordinamento per le emergenze sanitarie intende ribadire che in base al Decreto Legge 51/2020 “Misure Urgenti di Contenimento e Gestione dell’Emergenza da COVID-19” non è autorizzato il rilascio di certificati medici per effettuare attività all’aria aperta. Restano valide quindi le misure contenute alla lettera A, comma 1 Art. 1: che impone di “evitare ogni spostamento delle persone fisiche in entrata e in uscita dal territorio della Repubblica nonché all’interno dello stesso, salvo che per gli spostamenti motivati da comprovate esigenze lavorative o situazioni di necessità ovvero spostamenti per motivi di salute o per il rientro presso il proprio domicilio, abitazione o residenza. E’ vietato l’assembramento di persone in parchi, piazze e giardini pubblici”. |
 
@@ -53,3 +57,4 @@ Notizie dal 12 Marzo 2020 in poi ([fonte: ISS][iss-coronavirus], [fonte: SMRTV][
 [capreg]: https://www.sanmarinortv.sm/uploads/media/media/5e/5e6bd20a7d0a6431082690.pdf
 [legal]: /legal
 [moduli-cd]: /shops/#-regolamento-e-moduli-per-la-consegna-di-alimenti-a-domicilio
+[pap]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/articolo49014134.html

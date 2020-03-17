@@ -10,6 +10,7 @@ nav_order: 8
 ## 🧆 Regolamento e moduli per la consegna di alimenti a domicilio
 
 |:-|:-|
+| **Elenco attività autorizzate per la consegna a domicilio** | [Scarica][lista]{: .btn .btn-blue} |
 | **Regolamento consegna a domicilio** | [Scarica][cd-regolamento]{: .btn .btn-blue} |
 | **MODULO A  - Autocertificazione attività di consegna a domicilio** | [Scarica][cd-mod-a]{: .btn .btn-blue } |
 | **MODULO B  - Richiesta autorizzazione attività di consegna a domicilio** | [Scarica][cd-mod-b]{: .btn .btn-blue } | 
@@ -22,62 +23,131 @@ nav_order: 8
 
 ## Per segnalazioni di iniziative di sostegno a livello locale, scrivere a [tinbota@icloud.com](tinbota@icloud.com), [compilare questo modulo](https://tinbota.typeform.com/to/ci6qvW) oppure [aprire una issue su GitHub](https://github.com/tinbota/tinbota.github.io/issues/new)
 
-## **[🔗 Link: elenco completo attività autorizzate (fonte: ISS)](http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/documento49116012.html)**
+Fonte: [ISS][lista]
 
-Fonti: [San Marino Risponde][smrisponde], [San Marino Consegne a Domicilio e Take Away][smdomicilio].
+[lista]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/documento49116012.html
 
 ## 🍒 Alimenti, frutta e verdura
 
-### 🧆 **ALIMENTARI CHIARUZZI DANILO**
+|:-|:-|
+| **Alimentari Salvi Francesca** | [☎️ 0549 907651](tel:00390549907651){:.btn .btn-blue } |
+| **Di.Bi.** | [☎️ 0549 903345](tel:00390549903345){:.btn .btn-blue } |
+| **Bibità** | [📱 331 5916583](tel:00393315916583){:.btn .btn-blue }  |
+| **Gino16** | [☎️ 0549 992114][g16-tel]{:.btn .btn-blue } [📱 335 7100065][g16-cel]{:.btn .btn-blue } [WhatsApp][g16-wa]{:.btn .btn-blue } [Messenger][g16-fb]{:.btn .btn-blue } |
+| **La Bottega delle Delizie** | [☎️ 0549 992129](tel:00390549992129){:.btn .btn-blue } |
+| **La Vitamina - Frutta e Verdura** | [📱 331 2921200](tel:00393312921200){:.btn .btn-blue } [📱 338 8026903](tel:00393388026903){:.btn .btn-blue } |
+| **Macelleria del Corso** | [☎️ 0549 992666](tel:00390549992666){:.btn .btn-blue }  |
+| **Marani Mauro** | |
+| **Pescheria Il Veliero** | [📱 389 9838086](tel:00393899838086){:.btn .btn-blue } [WhatsApp](https://wa.me/00393899838086){:.btn .btn-blue } |
+| **Taddei Alimentari** | |
+| **TitanCoop** | [☎️ 0549 902567](tel:00390549902567){:.btn .btn-blue } |
+| **Titan Drink** | [☎️ 0549 992098](tel:00390549992098){:.btn .btn-blue }  |
+
+[g16-tel]: tel:00390549992114
+[g16-cel]: tel:00393357100065
+[g16-wa]: https://wa.me/00393357100065
+[g16-fb]: https://www.messenger.com/t/244553488962764
+
+### Bottega del Posto
 
 |:-|:-|
-| **Consegna a domicilio** in tutta la Repubblica. Nessuna spesa di consegna sopra i 50€. |
-| **Modalità d'ordine**: Frutta e verdura, affettati, pane fresco, latticini, bibite, scatolame, dolci, detersivi e tutto il necessario per la cura del corpo.<br/>Ordine su WhatsApp al [334 1737211][ac-wa].
-
-[ac-wa]: https://wa.me/00393341737211
-
-### 🍋 **BORGO ORTOFRUTTA** - Borgo Maggiore
-
-|:-|:-|
-| **Consegna a domicilio** in tutta la Repubblica |
-| **Modalità di pagamento**: contanti |
-| **Modalità d'ordine**: ordini tramite telefono ai numeri [0549 902756][of-tel] / Alan [331 4803786][of-alan] / [339 2618164][of-cell] |
- 
- [of-tel]: tel:00390549902756
- [of-alan]: tel:00353314803786
- [of-cell]: tel:00393392618164
-
-### 🥗 **BOTTEGA DEL POSTO** - Santa Mustiola
-
-|:-|:-|
-| **Consegna a domicilio** in tutta la Repubblica |
-| **Modalità di pagamento**: contanti |
-| **Modalità d'ordine**: Invia il tuo ordine di generi alimentari freschi e confezionati, prodotti per la pulizia della casa e personale, alimenti  per cani e gatti tramite: <br/> - Whatsapp al numero [393 5444620][bp-wa] con Nome, Cognome, Indirizzo ed elenco della spesa. <br/> - Chiamata al numero [0549 990629][bp-tel] <br/> Ordini dalle 7.30 alle 11.00 e consegna dalle 11.30 alle 15.00 (Per esigenze particolari, prendere accordi telefonici)<br/> Prenota entro le 12 per il giorno successivo Carne fresca confezionata, Frutta e Verdura. |
+| **Per ordinare** | [☎️ 0549 990629][bp-tel]{:.btn .btn-blue } [WhatsApp][bp-wa]{:.btn .btn-blue } |
+| **Consegna a domicilio** | In tutta la Repubblica |
+| **Pagamento** | Contanti |
+| **Indicazioni** | Invia il tuo ordine di generi alimentari freschi e confezionati, prodotti per la pulizia della casa e personale, alimenti  per cani e gatti tramite: <br/> - Whatsapp con Nome, Cognome, Indirizzo ed elenco della spesa. <br/> - Chiamata<br/> Ordini dalle 7.30 alle 11.00 e consegna dalle 11.30 alle 15.00 (Per esigenze particolari, prendere accordi telefonici)<br/> Prenota entro le 12 per il giorno successivo Carne fresca confezionata, Frutta e Verdura. |
  
 [bp-tel]: tel:00390549990629
 [bp-wa]: https://wa.me/00393935444620
 
-### 🍏 **DALL'ORTOLANO**
+### Chiaruzzi Danilo
 
 |:-|:-|
-| **Consegna a domicilio** in tutta la Repubblica |
-| **Modalità d'ordine**: Per effettuare un ordine puoi andare sulla nostra [pagina Facebook][orto-fb] (Dall'Ortolano) e usare il [tasto WhatsApp][orto-wa]<br/>La consegna verrà effettuata come da ultimo decreto (mascherine, guanti ecc.). Le consegne verranno effettuate dalle 8:00 alle 14:00. |
+| **Per ordinare** | [WhatsApp][ac-wa]{:.btn .btn-blue }  |
+| **Consegna a domicilio** | In tutta la Repubblica. Nessuna spesa di consegna sopra i 50€. |
+
+[ac-wa]: https://wa.me/00393341737211
+
+### Dall'Ortolano
+
+|:-|:-|
+| **Per ordinare** | [WhatsApp][orto-wa]{:.btn .btn-blue } |
+| **Consegna a domicilio** | In tutta la Repubblica |
+| **Indicazioni** | La consegna verrà effettuata come da ultimo decreto (mascherine, guanti ecc.). Le consegne verranno effettuate dalle 8:00 alle 14:00. |
  
-[orto-fb]: https://www.facebook.com/OrtolanoSanMarino/
 [orto-wa]: https://api.whatsapp.com/send?phone=393930005444
 
-### 🍅 **FRUTTA E VERDURA DI GABRIELE E ROBERTO - Città**
+### Frutta e verdura Gabriele e Roberto
 
 |:-|:-|
-| **Consegna a domicilio gratuita** in pausa pranzo a Borgo Maggiore, Domagnano, Città e Fiorentino. |
-| **Modalità d'ordine**: Contatta Gabriele [366 4608768][gr-gabriele] ([anche su WhatsApp][gr-gabriele-wa]) oppure Roberto [335 7331872][gr-roberto] ([anche su WhatsApp][gr-roberto-wa]) |
+| **Per ordinare** | [📱 366 4608768][gr-gabriele]{:.btn .btn-blue } [WhatsApp][gr-gabriele-wa]{:.btn .btn-blue } [📱 335 7331872][gr-roberto]{:.btn .btn-blue } [WhatsApp][gr-roberto-wa]{:.btn .btn-blue } |
+| **Consegna a domicilio** | Gratuita in pausa pranzo a Borgo Maggiore, Domagnano, Città e Fiorentino. |
  
  [gr-gabriele]: tel:00393664608768
  [gr-gabriele-wa]: https://wa.me/00393664608768
  [gr-roberto]: tel:00393357331872
  [gr-roberto-wa]: https://wa.me/00393357331872
 
-## 🍝 Ristorazione
+## 🧁 Pasticcerie e gelaterie
+
+|:-|:-|
+| **Cremeria Delizia** | In fase di attivazione |
+
+### La Maison de la Patisserie
+
+|:-|:-|
+| **Per ordinare** | [📱 333 1952527][pat]{:.btn .btn-blue } [📖 Menu][pat-menu]{:.btn .btn-green } |
+| **Consegna a domicilio** | In tutta la Repubblica. |
+| **Indicazioni** | Si consiglia di prenotare i dolci il giorno prima. |
+ 
+[pat]: tel:00393331952527
+[pat-menu]: https://www.facebook.com/maisonpatisseriersm/photos/a.2304144119625488/3129694057070486/
+
+### Lyuke Bakery
+
+|:-|:-|
+| **Per ordinare** | [📱 333 6760807][lyuke-tel]{:.btn .btn-blue } [WhatsApp][lyuke-wa]{:.btn .btn-blue } [Messenger][lyuke-fb]{:.btn .btn-blue } [Instagram][lyuke-in]{:.btn .btn-blue } [📖 Menu][lyuke-menu]{:.btn .btn-green } |
+| **Consegna a domicilio** | Gratuita con ordine minimo di 10€, solo sabato e domenica dalle 8:30 alle 16:30 + giovedì 19/03. |
+| **Pagamento** | Contanti alla consegna (vi avviseremo prima della cifra così potrete lasciare una busta coi soldi ed evitare il contatto diretto), bancomat o carta di credito (abbiamo il pos portatile) oppure PayPal. |
+ 
+ [lyuke-tel]: tel:00393336760807
+ [lyuke-wa]: https://wa.me/00393336760807
+ [lyuke-fb]: https://m.me/lyukebakery
+ [lyuke-in]: https://instagram.com/lyuke.bakery
+ [lyuke-menu]: https://www.facebook.com/lyukebakery/posts/1362073543988191
+
+### Pan di Zucchero
+
+|:-|:-|
+| **Per ordinare** | [📱 333 8478852][pz-tel]{:.btn .btn-blue } [WhatsApp][pz-wa]{:.btn .btn-blue } |
+| **Consegna a domicilio** | Gratuita, minimo spesa di 15€ |
+| **Indicazioni** | Ordina dalle 9:00 alle 12:00, consegna dalle 15:30 alle 17:30 | 
+
+[pz-tel]: tel:00393338478852
+[pz-wa]: https://wa.me/00393338478852
+
+### Porta Romana
+
+|:-|:-|
+| **Per ordinare** | [☎️ 0549 941260][pr-tel]{:.btn .btn-blue } [📱 335 6193793][pr-tel]{:.btn .btn-blue } [📖 Menu][pr-menu]{:.btn .btn-green } |
+| **Consegna a domicilio** | Gratuita da giovedì 19 marzo. |
+| **Indicazioni** | Ordini dalle 14:00 alle 17:00, consegne dalle 17:00 alle 19:00. Vaschette gelato da 800gr, 1kg e 1,5kg. |
+
+[pr-tel]: tel:00390549941260
+[pr-cel]: tel:00393356193793
+[pr-menu]: https://www.facebook.com/permalink.php?story_fbid=2662812947177503&id=332429103549244
+
+### Puro & Bio
+
+|:-|:-|
+| **Per ordinare** | [📱 334 9233477][pb-tel]{:.btn .btn-blue } [WhatsApp][pb-wa]{:.btn .btn-blue } [📖 Menu][pb-menu]{:.btn .btn-green } |
+| **Consegna a domicilio** | Gratuita, ordine minimo di 10€. Disponibile a Serravalle, Domagnano e Borgo. |
+| **Indicazioni** | Consegna attiva dalle 15:00 alle 20:00. |
+
+[pb-tel]: tel:00393349233477
+[pb-wa]: https://wa.me/00393349233477
+[pb-menu]: https://www.facebook.com/puroebiorsm/photos/a.1928212080743584/2648368395394612/
+
+## 🍝 Ristoranti, bar e catering
 
 ### 🍔 **BAR GIULIETTI KM0** - Città
 
@@ -108,28 +178,6 @@ Fonti: [San Marino Risponde][smrisponde], [San Marino Consegne a Domicilio e Tak
  
 [bettola]: tel:00393392592794
 [bettola-menu]: https://www.facebook.com/labettola.sm/photos/a.1486836798060912/2850489818362263/?type=3&__xts__%5B0%5D=68.ARDZ-OoKszkB7oWDGcBGZTjTZRcqtfTHcV8EAByXlw0cbdw8kKsqY6n9AsiXMJea2xLsO2_xR2scxs5S7zZs_ZjRgaGsAbRj1eR-hbMRsSJzKH8JLlDLrtTDom80caViea76D3s5JYYU0oVNa6FT6rXLjcAQA7yaGj9SZZkS0IHson1xojkqKGYNZPn77guFmh5LYdhMNiZCPbD2Qctr-WV07vHpuVgpyyo5dND2lXCDwpf464cwbp_dvXAc1VuS-uKNFHAt9z3egXYXvirhDQagxKaCpirYuCh5BB3vKbV_AqQxuqO0G1cBXQcJbIoZQBAPRaORnTtiJih-QDY20xPRXg&__tn__=-R
-
-### 🧁 **LA MAISON DE LA PATISSERIE** - Città
-
-|:-|:-|
-| **Consegna a domicilio** in tutta la Repubblica. |
-| **Modalità d'ordine**: contattare [333 1952527][pat] (Elisabetta). Menu disponibile [a questo link][pat-menu]. Si consiglia di prenotare i dolci il giorno prima. |
- 
-[pat]: tel:00393331952527
-[pat-menu]: https://www.facebook.com/maisonpatisseriersm/photos/a.2304144119625488/3129694057070486/
-
-### 🍰 **LYUKE BAKERY** - Borgo Maggiore
-
-|:-|:-|
-| **Consegna a domicilio gratuita** con ordine minimo di 10€, solo sabato e domenica dalle 8:30 alle 16:30 + giovedì 19/03. |
-| **Modalità di pagamento**: contanti alla consegna (vi avviseremo prima della cifra così potrete lasciare una busta coi soldi ed evitare il contatto diretto), bancomat o carta di credito (abbiamo il pos portatile) oppure PayPal. |
-| **Modalità d'ordine**: Chiama il [333 6760807][lyuke-tel] (anche su [WhatsApp][lyuke-wa], [Messenger][lyuke-fb] o [Instagram][lyuke-in]). Trovi il menu [a questo link][lyuke-menu]. |
- 
- [lyuke-tel]: tel:00393336760807
- [lyuke-wa]: https://wa.me/00393336760807
- [lyuke-fb]: https://m.me/lyukebakery
- [lyuke-in]: https://instagram.com/lyuke.bakery
- [lyuke-menu]: https://www.facebook.com/lyukebakery/posts/1362073543988191
 
 ### 🍕 **MAS O MENO** - Borgo Maggiore
 

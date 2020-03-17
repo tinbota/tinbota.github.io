@@ -12,7 +12,7 @@ nav_order: 5
 <img src="/assets/img/graph.svg" alt="Graph"/>
 [Visualizza grafico a schermo intero](/assets/img/graph.svg)
 
-<!-- { % vegalite % }{ % endvegalite % } -->
+<!-- { % vegalite % }{ % endvegalite % }-->
 
 Dati chiusi alle ore 11:00 di ogni giorno.
 
@@ -38,6 +38,7 @@ Dati chiusi alle ore 11:00 di ogni giorno.
 | [14/03/2020][1403] | 92       | 5         | 4         | 198       | 221           | 229           |
 | [15/03/2020][1503] | 98       | 7         | 4         | nd        | 239           | 230           |
 | [16/03/2020][1603] | 102      | 9         | 4         | nd        | 244           | 244           |
+| [17/03/2020][1703] | 104      | 11        | 4         | nd        | 194           | 322           |
 
 
 [iss]: http://www.iss.sm/on-line/home/artCataggiornamenti-coronavirus.49004093.1.20.1.html
@@ -62,3 +63,4 @@ Dati chiusi alle ore 11:00 di ogni giorno.
 [1403]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/articolo49014113.html
 [1503]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/articolo49014116.html
 [1603]: http://www.iss.sm/on-line/home/articolo49014122.html
+[1703]: http://www.iss.sm/on-line/home/articolo49014129.html
