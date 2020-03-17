@@ -21,13 +21,13 @@ nav_order: 8
 [cd-mod-b]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/documento49115976.html
 [cd-indicazioni]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/documento49115978.html
 
-## Per segnalazioni di iniziative di sostegno a livello locale, scrivere a [tinbota@icloud.com](tinbota@icloud.com), [compilare questo modulo](https://tinbota.typeform.com/to/ci6qvW) oppure [aprire una issue su GitHub](https://github.com/tinbota/tinbota.github.io/issues/new)
+## Per segnalazioni  scrivere a [tinbota@icloud.com](tinbota@icloud.com), [compilare questo modulo](https://tinbota.typeform.com/to/ci6qvW) oppure [aprire una issue su GitHub](https://github.com/tinbota/tinbota.github.io/issues/new)
 
-Fonte: [ISS][lista]
+### Attenzione: la lista che segue è stata ricavata dalla [lista ufficiale ISS][lista] per quanto riguarda le attività di ristorazione, alimentari e pasticcerie, al netto delle rinunce da parte degli esercenti. I recapiti e le informazioni riportate sono quelle pubblicamente accessibili sul web. Non viene garantita l'effettiva disponibilità dell'esercente per la consegna a domicilio. In caso di dubbi, contattare l'esercente. La lista potrebbe non essere aggiornata in tempo reale.
 
 [lista]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/documento49116012.html
 
-## 🍒 Alimenti, frutta e verdura
+## 🍒 Alimentari, frutta e verdura
 
 |:-|:-|
 | **Alimentari Salvi Francesca** | [☎️ 0549 907651](tel:00390549907651){:.btn .btn-blue } |
@@ -128,7 +128,7 @@ Fonte: [ISS][lista]
 ### Porta Romana
 
 |:-|:-|
-| **Per ordinare** | [☎️ 0549 941260][pr-tel]{:.btn .btn-blue } [📱 335 6193793][pr-tel]{:.btn .btn-blue } [📖 Menu][pr-menu]{:.btn .btn-green } |
+| **Per ordinare** | [☎️ 0549 941260][pr-tel]{:.btn .btn-blue } [📱 335 6193793][pr-cel]{:.btn .btn-blue } [📖 Menu][pr-menu]{:.btn .btn-green } |
 | **Consegna a domicilio** | Gratuita da giovedì 19 marzo. |
 | **Indicazioni** | Ordini dalle 14:00 alle 17:00, consegne dalle 17:00 alle 19:00. Vaschette gelato da 800gr, 1kg e 1,5kg. |
 
@@ -149,64 +149,135 @@ Fonte: [ISS][lista]
 
 ## 🍝 Ristoranti, bar e catering
 
-### 🍔 **BAR GIULIETTI KM0** - Città
+|:-|:-|
+| **Good Fellas** | In fase di attivazione |
+| **Replay Cafè** | [☎️ 0549 909986](tel:00390549909986){:.btn .btn-blue } |
+| **La Vecchia Fonte** | [☎️ 0549 903804](tel:00390549903804){:.btn .btn-blue } |
+| **Pizza Store** | In fase di attivazione |
+| **Ristorante Pizzeria da Italo** | [☎️ 0549 999777](tel:00390549999777){:.btn .btn-blue } |
+| **Royal Catering** | [☎️ 0549 955571](tel:00390549955571){:.btn .btn-blue } |
+| **Voglia di Pizza** | [📱 333 4785822](tel:00393334785822){:.btn .btn-blue } [📱 333 8023180](tel:00393338023180){:.btn .btn-blue } | 
+
+### Agli Antichi Orti
 
 |:-|:-|
-| **Consegna a domicilio gratuita** in tutta la Repubblica dalle 11:00 alle 22:00. |
-| **Modalità d'ordine**: Nessun contatto fisico con i clienti:<br/>- lasciamo la confezione con i pasti in un luogo idoneo<br/>- suoniamo il campanello oppure telefoniamo, ci allontaniamo<br/>- per il pagamento ripasseremo a emergenza finita<br/>Per ordinare la consegna [335 8492781][bg-tel1] oppure [335 7342728][bg-tel2] - menu disponibile [a questo link][bg-menu] |
+| **Per ordinare** | [☎️ 0549 992134][ao-tel]{:.btn .btn-blue } [📖 Menu][ao-menu]{:.btn .btn-green } | 
+| **Consegna a domicilio** | Gratuita a pranzo e a cena. Chiamare in anticipo per la consegna all'orario preferito. |
+ 
+[ao-tel]: tel:00390549992134
+[ao-menu]: https://www.facebook.com/AgliAntichiOrti/menu/
+
+### Bar Giulietti
+
+|:-|:-|
+| **Per ordinare** | [📱 335 8492781][bg-tel1]{:.btn .btn-blue } [📱 335 7342728][bg-tel2]{:.btn .btn-blue } [📖 Menu][bg-menu]{:.btn .btn-green } | 
+| **Consegna a domicilio** | Gratuita in tutta la Repubblica dalle 11:00 alle 22:00. |
+| **Indicazioni** | Nessun contatto fisico con i clienti:<br/>- lasciamo la confezione con i pasti in un luogo idoneo<br/>- suoniamo il campanello oppure telefoniamo, ci allontaniamo<br/>- per il pagamento ripasseremo a emergenza finita |
 
 [bg-tel1]: tel:00393358492781
 [bg-tel2]: tel:00393357342728
 [bg-menu]: https://www.facebook.com/GiuliettiKM0/posts/1120503398295067
 
-### 🍟 **BAR GUAITA** - Città
+### Bar Guaita
 
 |:-|:-|
-| **Consegna a domicilio gratuita** dalle ore 11:30. |
-| **Modalità d'ordine**: Chiama il [0549 992521][guaita-tel] oppure [389 9456402][guaita-cel]. Trovi il menu [a questo link][guaita-menu]. |
- 
+| **Per ordinare** | [☎️0549 992521][guaita-tel]{:.btn .btn-blue } [📱 389 9456402][guaita-cel]{:.btn .btn-blue } [📖 Menu][bg-menu]{:.btn .btn-green } | 
+| **Consegna a domicilio** | Gratuita dalle ore 11:30. |
+
 [guaita-tel]: tel:00390549992521
 [guaita-cel]: tel:00393899456402
 [guaita-menu]: https://www.facebook.com/barguaitasanmarino/posts/2942768932474163?__xts__%5B0%5D=68.ARDB-XqVR7Mmt3XGPfEKAjdcdFwS9DWj9cTtFjzLIf06N8oOg1UM15eB3sUOyS-KSanqreSgjITlHXGqSe1JzJrGXLu_S_uCAmBwZZ60tmdshCJpyR4XKqk09QIHMKrthdwEQL7M5nkFT7VuyQktpRFCjfZ3rhPo12U4SL7KZspUu5f019msfM0tTb1XM3nwkzkbiDINJQBFlN7uO86pg7ulM8bjCF6pIKfCO_HMZ0a_Lk-4jFjFKdsvDE4g-eCYvZJ090Us6oDm8_ber_vmi6oX8ieN7W5bPinNgwwydR36w4d7hDao7Yk5I91v7_RqLBmouAk2QU2TYDfy-0voZJPERQ&__tn__=-R
 
-### 🍺 **LA BETTOLA** - Borgo Maggiore
+### Cinque Vie
 
 |:-|:-|
-| **Consegna a domicilio gratuita** dalle 18:15 alle 21:00 in tutta la Repubblica. |
-| **Modalità di pagamento**: contanti. |
-| **Modalità d'ordine**: Chiama il [339 2592794][bettola]. Trovi il menu [a questo link][bettola-menu]. |
+| **Per ordinare** | [☎️ 0549 905658][cv-tel]{:.btn .btn-blue } [📱 335 7343612][cv-cel]{:.btn .btn-blue } [📖 Menu][cv-menu]{:.btn .btn-green } | 
+| **Consegna a domicilio** | Gratuita |
+| **Indicazioni** | Dal martedì alla domenica. Chiamare dalle 10:30 alle 19:30. Consegne dalle 12:00 alle 20:15. Ordini almeno 1 ora prima. |
+ 
+[cv-tel]: tel:00390549905658
+[cv-cel]: tel:00393357343612
+[cv-menu]: https://www.facebook.com/groups/214618642951239/permalink/215680392845064/
+
+### Crema Cacao
+
+|:-|:-|
+| **Per ordinare** | [☎️ 0549 909158][cc-tel]{:.btn .btn-blue } [📱 348 4688914][cc-cel]{:.btn .btn-blue } [📖 Menu][cc-menu]{:.btn .btn-green } | 
+| **Consegna a domicilio** | Dalle 11:30 in poi |
+ 
+[cc-tel]: tel:00390549909158
+[cc-cel]: tel:00393484688914
+[cc-menu]: https://www.facebook.com/cremacacaosm/posts/2903269766402107
+
+### Da Walter e Lella
+
+|:-|:-|
+| **Per ordinare** | [☎️ 0549 992162][wl-tel]{:.btn .btn-blue } [📱 331 1027381][wl-cel]{:.btn .btn-blue } [📖 Menu][wl-menu]{:.btn .btn-green } | 
+| **Consegna a domicilio** | Dalle ore 18:00 alle ore 22:00. |
+ 
+[wl-tel]: tel:00390549992162
+[wl-cel]: tel:00393311027381
+[wl-menu]: https://www.facebook.com/groups/214618642951239/permalink/215689426177494/
+
+### La Bettola
+
+|:-|:-|
+| **Per ordinare** | [📱 339 2592794][bettola]{:.btn .btn-blue } [📖 Menu][bettola-menu]{:.btn .btn-green } | 
+| **Consegna a domicilio** | Gratuita dalle 18:15 alle 21:00 in tutta la Repubblica. |
+| **Pagamento** | Contanti |
  
 [bettola]: tel:00393392592794
-[bettola-menu]: https://www.facebook.com/labettola.sm/photos/a.1486836798060912/2850489818362263/?type=3&__xts__%5B0%5D=68.ARDZ-OoKszkB7oWDGcBGZTjTZRcqtfTHcV8EAByXlw0cbdw8kKsqY6n9AsiXMJea2xLsO2_xR2scxs5S7zZs_ZjRgaGsAbRj1eR-hbMRsSJzKH8JLlDLrtTDom80caViea76D3s5JYYU0oVNa6FT6rXLjcAQA7yaGj9SZZkS0IHson1xojkqKGYNZPn77guFmh5LYdhMNiZCPbD2Qctr-WV07vHpuVgpyyo5dND2lXCDwpf464cwbp_dvXAc1VuS-uKNFHAt9z3egXYXvirhDQagxKaCpirYuCh5BB3vKbV_AqQxuqO0G1cBXQcJbIoZQBAPRaORnTtiJih-QDY20xPRXg&__tn__=-R
+[bettola-menu]: https://www.facebook.com/labettola.sm/photos/a.1486836798060912/2850489818362263/
 
-### 🍕 **MAS O MENO** - Borgo Maggiore
+### L'Insolito Posto
 
 |:-|:-|
-| **Consegna a domicilio** dalle 18:30 alle 22:00 in tutta la Repubblica. Prenotazioni lun-ven 17:00-22:00, sab-dom 16:00-22:00 |
-| **Modalità d'ordine**: Chiama il [0549 980148][masomeno]. Trovi il menu [a questo link][masomeno-menu]. |
+| **Per ordinare** | [📱 339 1978255][ip-tel]{:.btn .btn-blue } [📖 Menu][ip-menu]{:.btn .btn-green } | 
+| **Consegna a domicilio** | Dalle ore 12:00 alle 22:00. |
+ 
+[ip-tel]: tel:00393391978255
+[ip-menu]: https://www.facebook.com/permalink.php?story_fbid=2634135670164856&id=1576589072586193
+
+### Mas o Meno
+
+|:-|:-|
+| **Per ordinare** | [☎️ 0549 980148][masomeno]{:.btn .btn-blue } [📖 Menu][masomeno-menu]{:.btn .btn-green }
+| **Consegna a domicilio** | Dalle 18:30 alle 22:00 in tutta la Repubblica. Prenotazioni lun-ven 17:00-22:00, sab-dom 16:00-22:00 |
  
  [masomeno]: tel:00390549980148
  [masomeno-menu]: http://www.masomeno.it
  
-### 🍝 **RIGHI CATERING E OSTERIA LA TAVERNA** - Città
+### Rainbow SushiBar
 
 |:-|:-|
-| **Consegna a domicilio gratuita** dalle 11:00 alle 19:00 in tutta la Repubblica. Ordina entro le 16:00. |
-| **Modalità di pagamento**: ti comunichiamo il conto, tu lasci il contante fuori dalla porta, provvederemo all’eventuale resto, e ti lasciamo l’ordine. Oppure puoi pagare con bonifico online sull’IBAN che ti forniremo. |
-| **Modalità d'ordine**: Chiama il [334 2944424][righi-tel] ([anche su WhatsApp][righi-wa]). Trovi il menu [a questo link][righi-menu]. |
+| **Per ordinare** | [☎️ 0549 901988][rs-tel]{:.btn .btn-blue } [Messenger][rs-fb]{:.btn .btn-blue } [📖 Menu][rs-menu]{:.btn .btn-green } |
+| **Consegna a domicilio** | Dalle 18:30 alle 21:30 in tutta la Repubblica. |
+| **Pagamento** | Possibilmente con Pos, evitiamo al massimo ogni possibile contatto con il denaro. |
+ 
+ [rs-tel]: tel:00390549901988
+ [rs-fb]: http://m.me/rainbowsushisanmarino
+ [rs-menu]: https://www.facebook.com/rainbowsushisanmarino/menu/
+ 
+### Righi Catering e Osteria La Taverna
+
+|:-|:-|
+| **Per ordinare** | [📱 334 2944424][righi-tel]{:.btn .btn-blue } [WhatsApp][righi-wa]{:.btn .btn-blue } [📖 Menu][righi-menu]{:.btn .btn-green } |
+| **Consegna a domicilio** | Gratuita dalle 11:00 alle 19:00 in tutta la Repubblica. Ordina entro le 16:00. |
+| **Pagamento** | Ti comunichiamo il conto, tu lasci il contante fuori dalla porta, provvederemo all’eventuale resto, e ti lasciamo l’ordine. Oppure puoi pagare con bonifico online sull’IBAN che ti forniremo.  |
  
 [righi-tel]: tel:00393342944424
 [righi-wa]: https://wa.me/00393342944424
 [righi-menu]: https://www.facebook.com/notes/catering-righi/porta-il-ristorante-a-casa-tua-con-il-catering-righi/133994321459627/?fref=mentions&hc_location=group
-
+ 
 ## 🦮 Animali
 
-### 💊🐶 **PHARMALAB** - FARMACIA VETERINARIA - Dogana di Serravalle
+### Pharmalab Farmacia Veterinaria
 
 |:-|:-|
-| **Consegna a domicilio gratuita** in tutta la Repubblica |
-| **Modalità di pagamento**: contante, bonifico bancario |
-| **Modalità d'ordine**: mail: [ordini@pharmalabsrl.com][pl-mail] - [Facebook Messenger][pl-fb]<br/>WhatsApp: [333 3963296][pl-wa] - Telefono: [0549 905826][pl-tel]<br/> 1. Elenca:  FARMACI, integratori, MANGIMISTICA, prodotti per la pulizia o bellezza, qualsiasi cosa possa servire al tuo pet; <br/> 2. Indica sempre Nome, Cognome, Via e numero, Castello e modalità di pagamento desiderata <br/> 3. Il servizio di consegna è gratuito, la consegna verrà effettuata dalle 17 alle 19.30 <br/> 4. gli orari per ordinare sono dalle 9.00 alle 13.00 e dalle 15.00 alle 19.00 |
+| **Per ordinare** | [☎️ 0549 905826][pl-tel]{:.btn .btn-blue } [✉️ E-mail][pl-mail]{:.btn .btn-blue } [WhatsApp][pl-wa]{:.btn .btn-blue } [Messenger][pl-fb]{:.btn .btn-blue } |
+| **Consegna a domicilio** | Gratuita in tutta la Repubblica |
+| **Pagamento** | contante, bonifico bancario |
+| **Indicazioni** | 1. Elenca:  FARMACI, integratori, MANGIMISTICA, prodotti per la pulizia o bellezza, qualsiasi cosa possa servire al tuo pet; <br/> 2. Indica sempre Nome, Cognome, Via e numero, Castello e modalità di pagamento desiderata <br/> 3. Il servizio di consegna è gratuito, la consegna verrà effettuata dalle 17 alle 19.30 <br/> 4. gli orari per ordinare sono dalle 9.00 alle 13.00 e dalle 15.00 alle 19.00 |
 
 [pl-mail]: ordini@pharmalabsrl.com
 [pl-fb]: https://m.me/PharmalabFarmaciaVet/
@@ -215,23 +286,25 @@ Fonte: [ISS][lista]
 
 ## 💻 Elettronica e Informatica
 
-### 👨‍💻 **DATATRADE SAN MARINO** - Dogana
+### DataTrade San Marino
 
 |:-|:-|
-| **Consegna a domicilio gratuita** per tutto il mese di Marzo. |
-| **Modalità di pagamento**: carta di credito, bonifico bancario oppure alla consegna in contanti. |
-| **Modalità d'ordine**: ordina online su [store.datatrade.sm][datatrade]. Consegna tramite corriere GLS. Il punto vendita di Dogana rimarrà chiuso. |
+| **Per ordinare** | [store.datatrade.sm][datatrade]{:.btn .btn-blue } |
+| **Consegna a domicilio** | Gratuita per tutto il mese di Marzo tramite corriere GLS. |
+| **Pagamento** | Carta di credito, bonifico bancario oppure alla consegna in contanti. |
+| **Indicazioni** | Il punto vendita di Dogana rimarrà chiuso. |
 
 [datatrade]: https://store.datatrade.sm
 
 ## 📚 Librerie
 
-### 📕 **LIBRERIA COSMO** - Borgo Maggiore
+### Libreria Cosmo
 
 |:-|:-|
-| **Consegna a domicilio** in tutta la Repubblica tramite corriere (5€ per ordine). |
-| **Modalità di pagamento**: in libreria (a fine emergenza), bonifico bancario, contrassegno, tessera prepagata Cosmo |
-| **Modalità d'ordine**: potete ordinare via [mail][cosmo-mail], [telefono][cosmo-tel], inviandoci un messaggio su [Facebook][cosmo-fb] o tramite il nostro sito [www.libreriacosmo.com][cosmo] e scegliere la consegna a domicilio al posto del ritiro alla presso la libreria. Info [a questa pagina][cosmo-info]. |
+| **Per ordinare** | [☎️ 0549 980484][cosmo-tel]{:.btn .btn-blue } [✉️ E-mail][cosmo-mail]{:.btn .btn-blue } [Messenger][cosmo-fb]{:.btn .btn-blue } [libreriacosmo.com][cosmo]{:.btn .btn-blue } |
+| **Consegna a domicilio** | In tutta la Repubblica tramite corriere (5€ per ordine). |
+| **Pagamento** | In libreria (a fine emergenza), bonifico bancario, contrassegno, tessera prepagata Cosmo |
+| **Indicazioni** | Info [a questa pagina][cosmo-info]. |
 
 [cosmo]: https://www.libreriacosmo.com
 [cosmo-info]: https://www.libreriacosmo.com/Notizie/Coronavirus.aspx
@@ -241,15 +314,14 @@ Fonte: [ISS][lista]
 
 ## 🤵 Abbigliamento
 
-### 👕 **INDEPENDENT STREETWEAR** - Domagnano
+### Independent Streetwear
 
 |:-|:-|
-| **Consegna a domicilio gratuita** in tutto il mondo fino al 6 aprile + sconto 30%. |
-| **Modalità di pagamento**: carta di credito, PayPal, Apple Pay, Google Pay. |
-| **Modalità d'ordine**: ordina online su [indstreetwear.com][indstreetwear]. |
+| **Per ordinare** | [indstreetwear.com][indstreetwear]{:.btn .btn-blue } |
+| **Consegna a domicilio** | Gratuita in tutto il mondo fino al 6 aprile + sconto 30%. |
+| **Pagamento** | carta di credito, PayPal, Apple Pay, Google Pay. |
 
 [indstreetwear]: https://www.indstreetwear.com
-
 
 ## 🏦 Banche
 
