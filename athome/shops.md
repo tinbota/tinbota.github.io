@@ -5,12 +5,12 @@ permalink: /shops/
 nav_order: 8
 ---
 
-# 🛍 #iorestoacasa Negozi e aziende
+# 🛍 #iorestoacasa Negozi e aziende <span class="label label-red">Nuovo</span> 
 
-## 🧆 Regolamento e moduli per la consegna di alimenti a domicilio
+## 🧆 Regolamento e moduli per la consegna di alimenti a domicilio 
 
 |:-|:-|
-| **Elenco attività autorizzate per la consegna a domicilio** | [Scarica][lista]{: .btn .btn-blue} |
+| **Elenco attività autorizzate per la consegna a domicilio** <span class="label label-red">Nuovo</span> | [Scarica][lista]{: .btn .btn-blue} |
 | **Regolamento consegna a domicilio** | [Scarica][cd-regolamento]{: .btn .btn-blue} |
 | **MODULO A  - Autocertificazione attività di consegna a domicilio** | [Scarica][cd-mod-a]{: .btn .btn-blue } |
 | **MODULO B  - Richiesta autorizzazione attività di consegna a domicilio** | [Scarica][cd-mod-b]{: .btn .btn-blue } | 

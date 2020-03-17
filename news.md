@@ -10,7 +10,7 @@ nav_order: 2
 Notizie dal 12 Marzo 2020 in poi ([fonte: ISS][iss-coronavirus], [fonte: SMRTV][smrtv]). I dati giornalieri sono disponibili nella pagina [Dati][data].
 
 |:-|
-| **Avviato il Piano di assistenza alla popolazione** |
+| **Avviato il Piano di assistenza alla popolazione** <span class="label label-red">Nuovo</span> |
 | _17 Marzo 2020_ - La Protezione Civile di San Marino in collaborazione con il Servizio Territoriale Domiciliare dell’Istituto per la Sicurezza Sociale, la Croce Rossa Sammarinese e le Milizie, ha presentato oggi in conferenza stampa il Piano di Assistenza alla Popolazione. Il supporto nell’assistenza è garantito dagli Scout, dai numerosi volontari facenti parte e non di Associazioni, che si ringraziano per il prezioso contributo.<br/>[Comunicato integrale][pap]{:.btn .btn-blue } |
 
 |:-|
