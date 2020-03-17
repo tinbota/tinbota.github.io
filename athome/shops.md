@@ -116,6 +116,28 @@ Fonti: [San Marino Risponde][smrisponde], [San Marino Consegne a Domicilio e Tak
 [pat]: tel:00393331952527
 [pat-menu]: https://www.facebook.com/maisonpatisseriersm/photos/a.2304144119625488/3129694057070486/
 
+### 🍰 **LYUKE BAKERY** - Borgo Maggiore
+
+|:-|:-|
+| **Consegna a domicilio gratuita** con ordine minimo di 10€, solo sabato e domenica dalle 8:30 alle 16:30 + giovedì 19/03. |
+| **Modalità di pagamento**: contanti alla consegna (vi avviseremo prima della cifra così potrete lasciare una busta coi soldi ed evitare il contatto diretto), bancomat o carta di credito (abbiamo il pos portatile) oppure PayPal. |
+| **Modalità d'ordine**: Chiama il [333 6760807][lyuke-tel] (anche su [WhatsApp][lyuke-wa], [Messenger][lyuke-fb] o [Instagram][lyuke-in]). Trovi il menu [a questo link][lyuke-menu]. |
+ 
+ [lyuke-tel]: tel:00393336760807
+ [lyuke-wa]: https://wa.me/00393336760807
+ [lyuke-fb]: https://m.me/lyukebakery
+ [lyuke-in]: https://instagram.com/lyuke.bakery
+ [lyuke-menu]: https://www.facebook.com/lyukebakery/posts/1362073543988191
+
+### 🍕 **MAS O MENO** - Borgo Maggiore
+
+|:-|:-|
+| **Consegna a domicilio** dalle 18:30 alle 22:00 in tutta la Repubblica. Prenotazioni lun-ven 17:00-22:00, sab-dom 16:00-22:00 |
+| **Modalità d'ordine**: Chiama il [0549 980148][masomeno]. Trovi il menu [a questo link][masomeno-menu]. |
+ 
+ [masomeno]: tel:00390549980148
+ [masomeno-menu]: http://www.masomeno.it
+ 
 ### 🍝 **RIGHI CATERING E OSTERIA LA TAVERNA** - Città
 
 |:-|:-|
