@@ -25,7 +25,8 @@ Si ricordano ai cittadini il rispetto assoluto delle raccomandazioni a tutela de
 |:-|:-|
 | **Vademecum Coronavirus** | [Scarica][vademecum]{: .btn .btn-blue } |
 | **Disposizioni per chi viaggia**, Segreteria di Stato per gli Affari Esteri | [Scarica][viaggioesteri]{: .btn .btn-blue } |
-| **Autodichiarazione transito in Italia per validi motivi**, compilabile in PDF | [Scarica][autodichiarazione]{: .btn .btn-blue } | 
+| **Autodichiarazione transito in Italia per validi motivi**, compilabile in PDF <span class="label label-red">Nuovo</span>  | [Scarica][autodichiarazione]{: .btn .btn-blue } |
+| **Compila l'autodichiarazione online** <span class="label label-red">Nuovo</span> | [Visita][autodic-online]{: .btn .btn-blue } |
 
 [tel-iss]: tel:00390549994001
 [tel-coi]: tel:00390549888888
@@ -37,6 +38,7 @@ Si ricordano ai cittadini il rispetto assoluto delle raccomandazioni a tutela de
 [tel-ment1]: tel:00390549994593
 [tel-ment2]: tel:00390549994650
 [viaggioesteri]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/documento49115826.html
+[autodic-online]: https://autocertificazionespostamenti.it
 
 ## 📞 Numeri utili 
 
@@ -44,6 +46,7 @@ Si ricordano ai cittadini il rispetto assoluto delle raccomandazioni a tutela de
 - **Centrale Operativa Interforze** per informazioni turisti e lavoratori frontalieri: [0549 888888][tel-coi]
 - **Dipartimento Affari Esteri** per l’assistenza ai sammarinesi nelle fasi di rientro dalle zone a rischio: [0549 882337][tel-dae]
 - **Supporto telefonico psicologico** a cura del Servizio Salute Mentale ISS: [0549 994593][tel-ment1], [0549 994650][tel-ment2] (lun-mer-gio 8:00-17:30, mar-ven 8:00-14:00)
+- <span class="label label-red">Nuovo</span> **Piano di Assistenza della Protezione Civile** attivo h24: [0549 883401](tel:00390549883401) oppure [0549 883402](tel:0549883402) lun-ven 8:15-18:00, [0549 888888][tel-coi] oppure [331 6154097](tel:00393316154097) per sabato, domenica, ore serali. 
 - **Soccorso pubblico per emergenze**: [113](tel:113)
 - **Pronto soccorso - ambulanza**: [118](tel:118)
 - **Gendarmeria**: [112](tel:112) - [0549 888888](tel:00390549888888)
