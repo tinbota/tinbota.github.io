@@ -30,7 +30,7 @@ Si ricordano ai cittadini il rispetto assoluto delle raccomandazioni a tutela de
 [tel-iss]: tel:00390549994001
 [tel-coi]: tel:00390549888888
 [tel-dae]: tel:00390549882337
-[autodichiarazione]: https://www.interno.gov.it/sites/default/files/allegati/modulo_autodichiarazione_10.3.2020.pdf?fbclid=IwAR1OMAt2JeME_vdnaV_ShTA8-F4lGSTw0LD0vLo_R3aFFCJqIPYmipctxnE
+[autodichiarazione]: https://www.interno.gov.it/sites/default/files/allegati/modulo_autodichiarazione_17.3.2020.pdf
 [vademecum]: http://www.sanita.sm/on-line/home/archivio-comunicati/documento2115553.html
 [iss-coronavirus]: http://www.iss.sm/on-line/home/artCataggiornamenti-coronavirus.49004093.1.20.1.html
 [iss-fb]: https://www.facebook.com/ISSRSM/
