@@ -26,7 +26,6 @@ Si ricordano ai cittadini il rispetto assoluto delle raccomandazioni a tutela de
 | **Vademecum Coronavirus** | [Scarica][vademecum]{: .btn .btn-blue } |
 | **Disposizioni per chi viaggia**, Segreteria di Stato per gli Affari Esteri | [Scarica][viaggioesteri]{: .btn .btn-blue } |
 | **Autodichiarazione transito in Italia per validi motivi**, compilabile in PDF <span class="label label-red">Nuovo</span>  | [Scarica][autodichiarazione]{: .btn .btn-blue } |
-| **Compila l'autodichiarazione online** <span class="label label-red">Nuovo</span> | [Visita][autodic-online]{: .btn .btn-blue } |
 
 [tel-iss]: tel:00390549994001
 [tel-coi]: tel:00390549888888
