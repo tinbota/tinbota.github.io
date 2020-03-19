@@ -5,9 +5,9 @@ permalink: /faq
 nav_order: 4
 ---
 
-# 💬 Domande frequenti ([fonte con domande aggiornate][smrtvqa]) 
+# 💬 Domande frequenti ([fonte][smrtvqa]) 
 
-<span class="label label-red">Nuovo</span> San Marino Rtv attiva un canale diretto con la cittadinanza per rispondere alle domande sul nuovo decreto relativo al Coronavirus. Scriveteci: rivolgeremo le vostre domande agli esperti sanitari e istituzionali, e le pubblicheremo on line, compatibilmente con i tempi di risposta e gli impegni degli uffici competenti. 
+San Marino Rtv attiva un canale diretto con la cittadinanza per rispondere alle domande sul nuovo decreto relativo al Coronavirus. Scriveteci: rivolgeremo le vostre domande agli esperti sanitari e istituzionali, e le pubblicheremo on line, compatibilmente con i tempi di risposta e gli impegni degli uffici competenti. 
 
 - [multimedia@sanmarinortv.sm](mailto:multimedia@sanmarinortv.sm)
 - [Facebook](https://www.facebook.com/SanMarinoRTV)
@@ -52,7 +52,7 @@ nav_order: 4
 
 ## Altre domande e risposte disponibili [a questo link][smrtv] (San Marino RTV) e [a questo link][iss] (ISS).
 
-Le domande potrebbero non essere aggiornate.
+Le risposte potrebbero non essere aggiornate.
 
 [iss]: http://www.sanita.sm/on-line/home/authority-sanitaria/documento2114902.html
 [smrtv]: https://www.sanmarinortv.sm/news/attualita-c4/coronavirus-cosa-fare-e-cosa-no-le-domande-piu-frequenti-a184858
