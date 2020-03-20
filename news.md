@@ -10,7 +10,11 @@ nav_order: 2
 Notizie dal 12 Marzo 2020 in poi ([fonte: ISS][iss-coronavirus], [fonte: SMRTV][smrtv]). I dati giornalieri sono disponibili nella pagina [Dati][data].
 
 |:-|
-| **Avviato il Piano di assistenza alla popolazione** <span class="label label-red">Nuovo</span> |
+| **Chiusura servizi amministrativi Iss** <span class="label label-red">Nuovo</span> |
+| _20 Marzo 2020_ - Visto il Decreto Legge n.51 del 14 marzo, si informa la cittadinanza che gli uffici amministrativi dell'Iss sono chiusi al pubblico e permangono attivi per l'area previdenza solo i seguenti servizi: vidimizione Ismar 1 , rilascio regolarità contributive. Si informa inoltre che il personale in servizio é ridotto al fabbisogno minimo per poter assicurare i servizi di cui sopra, pertanto si invita a limitare le telefonate solo per le questioni attinenti i servizi sopra specificati al numero 0549 994343. Per tutte le informazioni nel dettaglio e per quell relative alla Cassa Integrazione Guadagni scaricare la circolare in allegato.<br/>[Circolare][ammiss]{:.btn .btn-blue } |
+
+|:-|
+| **Avviato il Piano di assistenza alla popolazione**  |
 | _17 Marzo 2020_ - La Protezione Civile di San Marino in collaborazione con il Servizio Territoriale Domiciliare dell’Istituto per la Sicurezza Sociale, la Croce Rossa Sammarinese e le Milizie, ha presentato oggi in conferenza stampa il Piano di Assistenza alla Popolazione. Il supporto nell’assistenza è garantito dagli Scout, dai numerosi volontari facenti parte e non di Associazioni, che si ringraziano per il prezioso contributo.<br/>[Comunicato integrale][pap]{:.btn .btn-blue } |
 
 |:-|
@@ -58,3 +62,4 @@ Notizie dal 12 Marzo 2020 in poi ([fonte: ISS][iss-coronavirus], [fonte: SMRTV][
 [legal]: /legal
 [moduli-cd]: /shops/#-regolamento-e-moduli-per-la-consegna-di-alimenti-a-domicilio
 [pap]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/articolo49014134.html
+[ammiss]: http://www.iss.sm/contents/instance48/files/document/49116013CircolareServizi.pdf
