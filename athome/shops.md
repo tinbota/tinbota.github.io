@@ -5,7 +5,7 @@ permalink: /shops/
 nav_order: 8
 ---
 
-# 🛍 #iorestoacasa Negozi e aziende <span class="label label-red">Nuovo</span> 
+# 🛍 #iorestoacasa Negozi e aziende
 
 ## 🧆 Regolamento e moduli per la consegna di alimenti a domicilio 
 
@@ -87,10 +87,24 @@ nav_order: 8
  [gr-roberto]: tel:00393357331872
  [gr-roberto-wa]: https://wa.me/00393357331872
 
-## 🧁 Pasticcerie e gelaterie
+### Healthy Kitchen <span class="label label-red">Nuovo</span> 
 
 |:-|:-|
-| **Cremeria Delizia** | In fase di attivazione |
+| **Per ordinare** | [hkit.it](https://www.hkit.it){:.btn .btn-blue } |
+| **Consegna a domicilio** | Tramite corriere. |
+| **Indicazioni** | Sconto 30% - codice sconto #italiaunita |
+
+## 🧁 Pasticcerie e gelaterie
+
+### Cremeria Delizia <span class="label label-red">Nuovo</span> 
+
+|:-|:-|
+| **Per ordinare** | [cremeriadelizia.com][cd-sito]{:.btn .btn-blue } [App iOS][cd-ios]{:.btn .btn-blue } [App Android][cd-android]{:.btn .btn-blue } |
+| **Consegna a domicilio** | In tutta la Repubblica. |
+ 
+[cd-sito]: https://www.cremeriadelizia.com/CremeriaDelizia_APP-WEB/
+[cd-ios]: https://itunes.apple.com/it/app/cremeria-delizia/id1292327409?mt=8
+[cd-android]: https://play.google.com/store/apps/details?id=com.cremeriadelizia
 
 ### La Maison de la Patisserie
 
@@ -114,16 +128,6 @@ nav_order: 8
  [lyuke-fb]: https://m.me/lyukebakery
  [lyuke-in]: https://instagram.com/lyuke.bakery
  [lyuke-menu]: https://www.facebook.com/lyukebakery/posts/1362073543988191
-
-### Pan di Zucchero
-
-|:-|:-|
-| **Per ordinare** | [📱 333 8478852][pz-tel]{:.btn .btn-blue } [WhatsApp][pz-wa]{:.btn .btn-blue } |
-| **Consegna a domicilio** | Gratuita, minimo spesa di 15€ |
-| **Indicazioni** | Ordina dalle 9:00 alle 12:00, consegna dalle 15:30 alle 17:30 | 
-
-[pz-tel]: tel:00393338478852
-[pz-wa]: https://wa.me/00393338478852
 
 ### Porta Romana
 
@@ -152,10 +156,9 @@ nav_order: 8
 |:-|:-|
 | **Good Fellas** | In fase di attivazione |
 | **Replay Cafè** | [☎️ 0549 909986](tel:00390549909986){:.btn .btn-blue } |
-| **La Vecchia Fonte** | [☎️ 0549 903804](tel:00390549903804){:.btn .btn-blue } |
-| **Pizza Store** | In fase di attivazione |
 | **Ristorante Pizzeria da Italo** | [☎️ 0549 999777](tel:00390549999777){:.btn .btn-blue } |
 | **Royal Catering** | [☎️ 0549 955571](tel:00390549955571){:.btn .btn-blue } |
+| **Valentini Enoteca**  <span class="label label-red">Nuovo</span>  | [☎️ 0549 908362](tel:00390549908362){:.btn .btn-blue } [WhatsApp](https://wa.me/00393398066291){:.btn .btn-blue }  [valentinienoteca.it](https://www.valentinienoteca.it){:.btn .btn-blue } |
 | **Voglia di Pizza** | [📱 333 4785822](tel:00393334785822){:.btn .btn-blue } [📱 333 8023180](tel:00393338023180){:.btn .btn-blue } | 
 
 ### Agli Antichi Orti
@@ -199,15 +202,16 @@ nav_order: 8
 [cv-cel]: tel:00393357343612
 [cv-menu]: https://www.facebook.com/groups/214618642951239/permalink/215680392845064/
 
-### Crema Cacao
+### Confine e Tradizione <span class="label label-red">Nuovo</span> 
 
 |:-|:-|
-| **Per ordinare** | [☎️ 0549 909158][cc-tel]{:.btn .btn-blue } [📱 348 4688914][cc-cel]{:.btn .btn-blue } [📖 Menu][cc-menu]{:.btn .btn-green } | 
-| **Consegna a domicilio** | Dalle 11:30 in poi |
+| **Per ordinare** | [☎️ 0549 999264][ct-tel]{:.btn .btn-blue } [📱 338 4330149][ct-cel]{:.btn .btn-blue } [📖 Menu][ct-menu]{:.btn .btn-green } | 
+| **Consegna a domicilio** | A Chiesanuova, Acquaviva, Città, Fiorentino, Murata e Montegiardino |
+| **Indicazioni** | Prenotare con almeno 1 ora di anticipo, dalle 16:00 in poi. |
  
-[cc-tel]: tel:00390549909158
-[cc-cel]: tel:00393484688914
-[cc-menu]: https://www.facebook.com/cremacacaosm/posts/2903269766402107
+[ct-tel]: tel:00390549999264
+[ct-cel]: tel:00393384330149
+[ct-menu]: https://www.facebook.com/confineetradizione/posts/2987730057945620
 
 ### Da Walter e Lella
 
@@ -238,6 +242,16 @@ nav_order: 8
 [ip-tel]: tel:00393391978255
 [ip-menu]: https://www.facebook.com/permalink.php?story_fbid=2634135670164856&id=1576589072586193
 
+### La Vecchia Fonte <span class="label label-red">Nuovo</span> 
+
+|:-|:-|
+| **Per ordinare** | [☎️ 0549 903804][vf-tel]{:.btn .btn-blue } [WhatsApp][vf-wa]{:.btn .btn-blue } [📖 Menu][vf-menu]{:.btn .btn-green } |
+| **Consegna a domicilio** | Dalle 18:00 alle 21:30. |
+
+[vf-tel]: tel:00390549903804
+[vf-wa]: https://wa.me/00393661585520
+[vf-menu]: https://www.facebook.com/marino.berardi.9/posts/2837687602954547
+ 
 ### Mas o Meno
 
 |:-|:-|
@@ -247,6 +261,25 @@ nav_order: 8
  [masomeno]: tel:00390549980148
  [masomeno-menu]: http://www.masomeno.it
  
+### Pizza Store <span class="label label-red">Nuovo</span> 
+
+|:-|:-|
+| **Per ordinare** | [☎️ 0549 970971][ps-tel]{:.btn .btn-blue } [📖 Menu][ps-menu]{:.btn .btn-green } |
+| **Consegna a domicilio** | Giovedì, venerdì, sabato e domenica dalle 12:00. |
+| **Pagamento** | Contanti |
+| **Indicazioni** | Verranno effettuate due mandate di ordini: la prima comprende quelli effettuati entro le ore 18:00, la seconda tutti quelli entro e non oltre le ore 19:00 |
+ 
+ [ps-tel]: tel:00390549970971
+ [ps-menu]: https://www.facebook.com/930636017029512/photos/a.930641493695631/2878314405594987/
+ 
+### Pizzeria Millennium <span class="label label-red">Nuovo</span> 
+
+|:-|:-|
+| **Per ordinare** | [📱 335 6604180][pm-tel]{:.btn .btn-blue } |
+| **Consegna a domicilio** | A Serravalle, Domagnano e Cailungo dal martedì alla domenica, dalle 18:00 alle 22:00. Prenotazioni dalle 16:00. |
+
+[pm-tel]: tel:00393356604180
+
 ### Rainbow SushiBar
 
 |:-|:-|
