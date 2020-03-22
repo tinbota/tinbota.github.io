@@ -30,8 +30,8 @@ nav_order: 1
 ## 🚘 Chiusura e presidio dei Confini di Stato ([fonte][strade])
 
  <span class="label label-red">Nuovo</span>
- 
-<iframe src="https://www.google.com/maps/d/u/3/embed?mid=1VRu7yMcjLewT2x5XKiirtmLnDq4Fci_a" width="100%" height="480"></iframe>
+
+<iframe src="https://www.google.com/maps/d/u/3/embed?mid=1VRu7yMcjLewT2x5XKiirtmLnDq4Fci_a" width="100%" height="520"></iframe>
 
 [strade]: https://www.sanmarinortv.sm/news/comunicati-c9/congresso-di-stato-provvedimenti-sulla-mobilita-per-contrasto-dell-emergenza-da-covid-19-coronavirus-chiusura-varchi-di-confine-secondari-a185540
 
