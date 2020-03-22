@@ -30,8 +30,6 @@ theme: "just-the-docs"
 plugins:
   - jekyll-diagrams
 
-ga_tracking: UA-160377926-1
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
