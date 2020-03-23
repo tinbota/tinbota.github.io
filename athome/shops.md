@@ -191,17 +191,6 @@ nav_order: 8
 [guaita-cel]: tel:00393899456402
 [guaita-menu]: https://www.facebook.com/barguaitasanmarino/posts/2942768932474163?__xts__%5B0%5D=68.ARDB-XqVR7Mmt3XGPfEKAjdcdFwS9DWj9cTtFjzLIf06N8oOg1UM15eB3sUOyS-KSanqreSgjITlHXGqSe1JzJrGXLu_S_uCAmBwZZ60tmdshCJpyR4XKqk09QIHMKrthdwEQL7M5nkFT7VuyQktpRFCjfZ3rhPo12U4SL7KZspUu5f019msfM0tTb1XM3nwkzkbiDINJQBFlN7uO86pg7ulM8bjCF6pIKfCO_HMZ0a_Lk-4jFjFKdsvDE4g-eCYvZJ090Us6oDm8_ber_vmi6oX8ieN7W5bPinNgwwydR36w4d7hDao7Yk5I91v7_RqLBmouAk2QU2TYDfy-0voZJPERQ&__tn__=-R
 
-### Cinque Vie
-
-|:-|:-|
-| **Per ordinare** | [☎️ 0549 905658][cv-tel]{:.btn .btn-blue } [📱 335 7343612][cv-cel]{:.btn .btn-blue } [📖 Menu][cv-menu]{:.btn .btn-green } | 
-| **Consegna a domicilio** | Gratuita |
-| **Indicazioni** | Dal martedì alla domenica. Chiamare dalle 10:30 alle 19:30. Consegne dalle 12:00 alle 20:15. Ordini almeno 1 ora prima. |
- 
-[cv-tel]: tel:00390549905658
-[cv-cel]: tel:00393357343612
-[cv-menu]: https://www.facebook.com/groups/214618642951239/permalink/215680392845064/
-
 ### Confine e Tradizione <span class="label label-red">Nuovo</span> 
 
 |:-|:-|
