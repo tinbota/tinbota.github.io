@@ -75,4 +75,4 @@ Dati chiusi alle ore 11:00 di ogni giorno.
 [2003]: http://www.iss.sm/on-line/home/articolo49014145.html
 [2103]: http://www.iss.sm/on-line/home/articolo49014147.html
 [2203]: http://www.iss.sm/on-line/home/articolo49014149.html
-[2303]: http://www.iss.sm/on-line/home/articolo49014151.html
+[2303]: http://www.iss.sm/on-line/home/articolo49014158.html
