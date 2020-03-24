@@ -12,11 +12,11 @@ nav_order: 5
 <img src="/assets/img/graph.svg" alt="Graph"/>
 [Visualizza grafico a schermo intero](/assets/img/graph.svg)
 
-<!--{ % vegalite % }{ % endvegalite % } -->
+<!-- { % vegalite % }{ % endvegalite % } -->
 
 Dati chiusi alle ore 11:00 di ogni giorno.
 
-| Data               | Casi totali | Nuovi casi | Positivi | Decessi   | Guariti   | Tamponi   | Quarantene    | Q. terminate  |
+| Data               | Casi totali | Nuovi casi | Malati   | Decessi   | Guariti   | Tamponi   | Quarantene    | Q. terminate  |
 |:-------------------|:------------|:-----------|:---------|:----------|:----------|:----------|:--------------|:--------------|  
 | [26/02/2020][2602] | 0           | 0          | 0        | 0         | 0         | nd        | 2             | 0             |
 | [27/02/2020][2702] | 1           | 1          | 1        | 0         | 0         | nd        | 3             | 0             |
@@ -45,6 +45,7 @@ Dati chiusi alle ore 11:00 di ogni giorno.
 | [21/03/2020][2103] | 160         | 9          | 136      | 20        | 4         | 335       | 390           | 360           |
 | [22/03/2020][2203] | 175         | 15         | 151      | 20        | 4         | 354       | 431           | 370           |
 | [23/03/2020][2303] | 187         | 12         | 163      | 20        | 4         | 380       | 425           | 424           |
+| [24/03/2020][2403] | 187         | 0          | 162      | 21        | 4         | 401       | 359           | 499           |
 
 
 [iss]: http://www.iss.sm/on-line/home/artCataggiornamenti-coronavirus.49004093.1.20.1.html
@@ -76,3 +77,4 @@ Dati chiusi alle ore 11:00 di ogni giorno.
 [2103]: http://www.iss.sm/on-line/home/articolo49014147.html
 [2203]: http://www.iss.sm/on-line/home/articolo49014149.html
 [2303]: http://www.iss.sm/on-line/home/articolo49014158.html
+[2403]: http://www.iss.sm/on-line/home/articolo49014166.html
