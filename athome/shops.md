@@ -87,7 +87,7 @@ nav_order: 8
  [gr-roberto]: tel:00393357331872
  [gr-roberto-wa]: https://wa.me/00393357331872
 
-### Healthy Kitchen <span class="label label-red">Nuovo</span> 
+### Healthy Kitchen
 
 |:-|:-|
 | **Per ordinare** | [hkit.it](https://www.hkit.it){:.btn .btn-blue } |
@@ -96,7 +96,7 @@ nav_order: 8
 
 ## 🧁 Pasticcerie e gelaterie
 
-### Cremeria Delizia <span class="label label-red">Nuovo</span> 
+### Cremeria Delizia
 
 |:-|:-|
 | **Per ordinare** | [cremeriadelizia.com][cd-sito]{:.btn .btn-blue } [App iOS][cd-ios]{:.btn .btn-blue } [App Android][cd-android]{:.btn .btn-blue } |
@@ -158,7 +158,7 @@ nav_order: 8
 | **Replay Cafè** | [☎️ 0549 909986](tel:00390549909986){:.btn .btn-blue } |
 | **Ristorante Pizzeria da Italo** | [☎️ 0549 999777](tel:00390549999777){:.btn .btn-blue } |
 | **Royal Catering** | [☎️ 0549 955571](tel:00390549955571){:.btn .btn-blue } |
-| **Valentini Enoteca**  <span class="label label-red">Nuovo</span>  | [☎️ 0549 908362](tel:00390549908362){:.btn .btn-blue } [WhatsApp](https://wa.me/00393398066291){:.btn .btn-blue }  [valentinienoteca.it](https://www.valentinienoteca.it){:.btn .btn-blue } |
+| **Valentini Enoteca**  | [☎️ 0549 908362](tel:00390549908362){:.btn .btn-blue } [WhatsApp](https://wa.me/00393398066291){:.btn .btn-blue }  [valentinienoteca.it](https://www.valentinienoteca.it){:.btn .btn-blue } |
 | **Voglia di Pizza** | [📱 333 4785822](tel:00393334785822){:.btn .btn-blue } [📱 333 8023180](tel:00393338023180){:.btn .btn-blue } | 
 
 ### Agli Antichi Orti
@@ -191,7 +191,7 @@ nav_order: 8
 [guaita-cel]: tel:00393899456402
 [guaita-menu]: https://www.facebook.com/barguaitasanmarino/posts/2942768932474163?__xts__%5B0%5D=68.ARDB-XqVR7Mmt3XGPfEKAjdcdFwS9DWj9cTtFjzLIf06N8oOg1UM15eB3sUOyS-KSanqreSgjITlHXGqSe1JzJrGXLu_S_uCAmBwZZ60tmdshCJpyR4XKqk09QIHMKrthdwEQL7M5nkFT7VuyQktpRFCjfZ3rhPo12U4SL7KZspUu5f019msfM0tTb1XM3nwkzkbiDINJQBFlN7uO86pg7ulM8bjCF6pIKfCO_HMZ0a_Lk-4jFjFKdsvDE4g-eCYvZJ090Us6oDm8_ber_vmi6oX8ieN7W5bPinNgwwydR36w4d7hDao7Yk5I91v7_RqLBmouAk2QU2TYDfy-0voZJPERQ&__tn__=-R
 
-### Confine e Tradizione <span class="label label-red">Nuovo</span> 
+### Confine e Tradizione 
 
 |:-|:-|
 | **Per ordinare** | [☎️ 0549 999264][ct-tel]{:.btn .btn-blue } [📱 338 4330149][ct-cel]{:.btn .btn-blue } [📖 Menu][ct-menu]{:.btn .btn-green } | 
@@ -212,6 +212,16 @@ nav_order: 8
 [wl-cel]: tel:00393311027381
 [wl-menu]: https://www.facebook.com/groups/214618642951239/permalink/215689426177494/
 
+### Il Matterello <span class="label label-red">Nuovo</span> 
+
+|:-|:-|
+| **Per ordinare** | [☎️ 0549 908938][mat-tel]{:.btn .btn-blue } [📖 Menu][mat-menu]{:.btn .btn-green } | 
+| **Consegna a domicilio** | A Serravalle e Domagnano, gratuita dalle 16:00 alle 20:00. Prenotazioni dalle 14:00. |
+ 
+[mat-tel]: tel:00390549908938
+[mat-menu]: https://www.facebook.com/permalink.php?story_fbid=3044330888945452&id=489170904461476
+
+
 ### La Bettola
 
 |:-|:-|
@@ -231,7 +241,7 @@ nav_order: 8
 [ip-tel]: tel:00393391978255
 [ip-menu]: https://www.facebook.com/permalink.php?story_fbid=2634135670164856&id=1576589072586193
 
-### La Vecchia Fonte <span class="label label-red">Nuovo</span> 
+### La Vecchia Fonte 
 
 |:-|:-|
 | **Per ordinare** | [☎️ 0549 903804][vf-tel]{:.btn .btn-blue } [WhatsApp][vf-wa]{:.btn .btn-blue } [📖 Menu][vf-menu]{:.btn .btn-green } |
@@ -250,7 +260,7 @@ nav_order: 8
  [masomeno]: tel:00390549980148
  [masomeno-menu]: http://www.masomeno.it
  
-### Pizza Store <span class="label label-red">Nuovo</span> 
+### Pizza Store 
 
 |:-|:-|
 | **Per ordinare** | [☎️ 0549 970971][ps-tel]{:.btn .btn-blue } [📖 Menu][ps-menu]{:.btn .btn-green } |
@@ -261,7 +271,7 @@ nav_order: 8
  [ps-tel]: tel:00390549970971
  [ps-menu]: https://www.facebook.com/930636017029512/photos/a.930641493695631/2878314405594987/
  
-### Pizzeria Millennium <span class="label label-red">Nuovo</span> 
+### Pizzeria Millennium 
 
 |:-|:-|
 | **Per ordinare** | [📱 335 6604180][pm-tel]{:.btn .btn-blue } |
@@ -290,7 +300,14 @@ nav_order: 8
 [righi-tel]: tel:00393342944424
 [righi-wa]: https://wa.me/00393342944424
 [righi-menu]: https://www.facebook.com/notes/catering-righi/porta-il-ristorante-a-casa-tua-con-il-catering-righi/133994321459627/?fref=mentions&hc_location=group
- 
+
+## 📦 Altri servizi di consegna a domicilio
+
+|:-|:-|
+| **Offertone Delivery** | [Vai al sito](https://www.offertonedelivery.com){:.btn .btn-blue } |
+| **TitanShop** | [Vai al sito](https://www.titanpostsm.com/titanshop/){:.btn .btn-blue } |
+
+
 ## 🦮 Animali
 
 ### Pharmalab Farmacia Veterinaria

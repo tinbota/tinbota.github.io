@@ -10,7 +10,7 @@ nav_order: 3
 ## Leggi e decreti ([fonte][cgg])
 
 |:-|:-|:-|
-| Decreto - Legge 20 marzo 2020 n. 52 | **Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)** <span class="label label-red">Nuovo</span> | [Apri][dl52]{: .btn .btn-blue }<br/>[Allegato 1][dl52-all1]{: .btn } <br/>[Allegato 2][dl52-all2]{: .btn }<br/>[Allegato 3][dl52-all3]{: .btn } |
+| Decreto - Legge 20 marzo 2020 n. 52 | **Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)** | [Apri][dl52]{: .btn .btn-blue }<br/>[Allegato 1][dl52-all1]{: .btn } <br/>[Allegato 2][dl52-all2]{: .btn }<br/>[Allegato 3][dl52-all3]{: .btn } |
 | Decreto - Legge 14 marzo 2020 n. 51 | **Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)** | [Apri][dl51]{: .btn .btn-blue }<br/>[Allegato 1][dl51-all1]{: .btn } <br/>[Allegato 2][dl51-all2]{: .btn }<br/>[Errata-C.][dl51-ec]{: .btn } |
 | Decreto - Legge 11 marzo 2020 n. 46 | **Sospensione straordinaria e temporanea dei termini di cui agli articoli 9, 10 e 12 della Legge 28 giugno 2010 n.118 e successive modifiche** | [Apri][dl46]{: .btn .btn-blue } |
 | Decreto - Legge 8 marzo 2020 n. 44 | **Misure urgenti di contenimento da COVID-19 (Coronavirus)** | [Apri][dl44]{: .btn .btn-blue } |
@@ -35,7 +35,9 @@ nav_order: 3
 ## Delibere Congresso di Stato ([fonte][delibere])
 
 |:-|:-|:-|
-| Delibera n. 10 17/03/2020 | **Misure straordinarie di proroga termini di legge, di scadenze fiscali, di pagamento imposte e tasse** <span class="label label-red">Nuovo</span> | [Apri][del10-1703]{: .btn .btn-blue } |
+| Delibera n. 1 20/03/2020 | **Adozione Decreto-Legge ''Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)''** <span class="label label-red">Nuovo</span> | [Apri][del01-2003]{: .btn .btn-blue }<br/>[Allegato][del01-2003-all]{: .btn } |
+| Delibera n. 2 20/03/2020 | **Autorizzazione al Capo della Protezione Civile all'utilizzo di unità immobiliari di proprietà dell'Ecc.ma Camera nel contesto dell'emergenza da COVID-19** <span class="label label-red">Nuovo</span>  | [Apri][del02-2003]{: .btn .btn-blue } |
+| Delibera n. 10 17/03/2020 | **Misure straordinarie di proroga termini di legge, di scadenze fiscali, di pagamento imposte e tasse** | [Apri][del10-1703]{: .btn .btn-blue } |
 | Delibera n. 1 17/03/2020 | **Raccolta Fondi per Emergenza Sanitaria COVID-19** | [Apri][del01-1703]{: .btn .btn-blue } |
 | Delibera n. 3 17/03/2020 | **Prescrizioni straordinarie per il Protocollo della Cerimonia di nomina dei Capitani Reggenti e della Cerimonia d'Insediamento degli Ecc.mi Capitani Reggenti dell'1 aprile 2020** | [Apri][del03-1703]{: .btn .btn-blue } |
 | Delibera n. 1 13/03/2020 | **Adozione Decreto-Legge ''Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)''** | [Apri][del01-1303]{: .btn .btn-blue }<br/>[Allegato][del01-1303-all]{: .btn } |
@@ -51,6 +53,9 @@ nav_order: 3
 | Delibera n. 1 23/02/2020 | **Emissione Ordinanza ''Misure urgenti di prevenzione per evitare la diffusione del COVID-19 (Coronavirus)''** | [Apri][del01-2302]{: .btn .btn-blue }<br/>[Allegato][del01-2302-all]{: .btn } |
 | Delibera n. 1 22/02/2020 | **Emissione Ordinanza ''Provvedimenti per Emergenze Sanitarie epidemia da COVID-19''** | [Apri][del01-2202]{: .btn .btn-blue } |
 
+[del01-2003]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116066.html
+[del01-2003-all]: http://www.interni.segreteria.sm/on-line/home/documento25116067.html
+[del02-2003]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116112.html
 [del10-1703]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116045.html
 [del01-1703]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116022.html
 [del03-1703]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116024.html
