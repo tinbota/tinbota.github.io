@@ -35,8 +35,9 @@ nav_order: 3
 ## Delibere Congresso di Stato ([fonte][delibere])
 
 |:-|:-|:-|
-| Delibera n. 1 20/03/2020 | **Adozione Decreto-Legge ''Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)''** <span class="label label-red">Nuovo</span> | [Apri][del01-2003]{: .btn .btn-blue }<br/>[Allegato][del01-2003-all]{: .btn } |
-| Delibera n. 2 20/03/2020 | **Autorizzazione al Capo della Protezione Civile all'utilizzo di unità immobiliari di proprietà dell'Ecc.ma Camera nel contesto dell'emergenza da COVID-19** <span class="label label-red">Nuovo</span>  | [Apri][del02-2003]{: .btn .btn-blue } |
+| Delibera n. 4 24/03/2020 | **Misure straordinarie di proroga termini di legge** <span class="label label-red">Nuovo</span>  | [Apri][del04-2403]{: .btn .btn-blue } |
+| Delibera n. 1 20/03/2020 | **Adozione Decreto-Legge ''Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)''** | [Apri][del01-2003]{: .btn .btn-blue }<br/>[Allegato][del01-2003-all]{: .btn } |
+| Delibera n. 2 20/03/2020 | **Autorizzazione al Capo della Protezione Civile all'utilizzo di unità immobiliari di proprietà dell'Ecc.ma Camera nel contesto dell'emergenza da COVID-19** | [Apri][del02-2003]{: .btn .btn-blue } |
 | Delibera n. 10 17/03/2020 | **Misure straordinarie di proroga termini di legge, di scadenze fiscali, di pagamento imposte e tasse** | [Apri][del10-1703]{: .btn .btn-blue } |
 | Delibera n. 1 17/03/2020 | **Raccolta Fondi per Emergenza Sanitaria COVID-19** | [Apri][del01-1703]{: .btn .btn-blue } |
 | Delibera n. 3 17/03/2020 | **Prescrizioni straordinarie per il Protocollo della Cerimonia di nomina dei Capitani Reggenti e della Cerimonia d'Insediamento degli Ecc.mi Capitani Reggenti dell'1 aprile 2020** | [Apri][del03-1703]{: .btn .btn-blue } |
@@ -53,6 +54,7 @@ nav_order: 3
 | Delibera n. 1 23/02/2020 | **Emissione Ordinanza ''Misure urgenti di prevenzione per evitare la diffusione del COVID-19 (Coronavirus)''** | [Apri][del01-2302]{: .btn .btn-blue }<br/>[Allegato][del01-2302-all]{: .btn } |
 | Delibera n. 1 22/02/2020 | **Emissione Ordinanza ''Provvedimenti per Emergenze Sanitarie epidemia da COVID-19''** | [Apri][del01-2202]{: .btn .btn-blue } |
 
+[del04-2403]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116125.html
 [del01-2003]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116066.html
 [del01-2003-all]: http://www.interni.segreteria.sm/on-line/home/documento25116067.html
 [del02-2003]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116112.html

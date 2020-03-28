@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tinbota.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 aux_links:
-  "👊 TinBòta! su Facebook"
+  "👊 TinBòta! su Facebook":
     - "https://facebook.com/tinbotasm"
 footer_content: "<b>Disclaimer</b>: le informazioni contenute su questo sito vengono fornite senza alcuna garanzia in merito all'affidabilità e all'esattezza dei dati riportati. Il sito *non* è collegato all'Istituto per la Sicurezza Sociale. Dati, nomi e marchi vengono citati solo a scopo informativo, senza alcuna affiliazione ad aziende terze. Per segnalazioni, scrivere a <a href='mailto:tinbota@icloud.com'>tinbota@icloud.com</a>, oppure <a href='https://github.com/tinbota/tinbota.github.io/issues/new'>aprire una issue su GitHub</a>.  Il codice sorgente di questo progetto è disponibile su <a href='https://www.github.com/tinbota/tinbota.github.io'>GitHub</a>.<br/> <a href='https://www.iubenda.com/privacy-policy/11574023' class='iubenda-white iubenda-embed' title='Privacy Policy '>Privacy Policy</a><script type='text/javascript'>(function (w,d) {var loader = function () {var s = d.createElement('script'), tag = d.getElementsByTagName('script')[0]; s.src='https://cdn.iubenda.com/iubenda.js'; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener('load', loader, false);}else if(w.attachEvent){w.attachEvent('onload', loader);}else{w.onload = loader;}})(window, document);</script>"
 

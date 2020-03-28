@@ -30,6 +30,8 @@ nav_order: 7
 | **Segreteria di Stato per l'Industria, l'Artigianato e il Commercio** | [Scarica][industria]{: .btn .btn-blue } |
 | **Dipartimento Prevenzione ISS su precauzioni coronavirus per Associazioni di Categoria** | [Scarica][asscategoria]{: .btn .btn-blue } |
 | **Disposizioni Interpretative ed applicative del Capo III del Decreto-Legge 14 marzo 2020 n.51** | [Scarica][dfp]{: .btn .btn-blue } |
+| **Circolare AASS su smaltimento rifiuti** <span class="label label-red">Nuovo</span> | [Scarica][rifiuti]{: .btn .btn-blue } |
+| **Modalità di pagamento a mezzo bonifico delle imposte dirette e indirette, tasse, sanzioni e ingiunzioni, aventi scadenza nel periodo di vigenza dell'emergenza sanitaria di cui al Decreto 51/2020** <span class="label label-red">Nuovo</span> | [Scarica][tributario]{: .btn .btn-blue } | 
 
 |:-|:-|
 | **Settore Telecomunicazioni** | Il Settore Telecomunicazioni resterà chiuso al pubblico dal 16/03/2020 al 25/03/2020. Per emergenze nella rete telefonica della PA o sulla rete Tetra ci si dovrà rivolgere a Protezione Civile e Gendarmeria. |
@@ -87,3 +89,5 @@ nav_order: 7
 [industria]: https://www.gov.sm/dam/jcr:c2cf6584-6977-4e77-a6ff-7bd45a2447e9/Prot.n.28875_2020_CM-Circolare-esplicativa-misure-urgenti-di-contenimento-da-COVID19.pdf
 [asscategoria]: https://www.gov.sm/articoli/Circolare-Dipartimento-Prevenzione-ISS-su-precauzioni-coronavirus-per-Associazioni-di-Categoria---Prot.n.1767-D1-2020-del-10-marzo-2020.html
 [dfp]: https://www.gov.sm/dam/jcr:35761aee-ce36-415a-9b2d-dc0a111b2f4b/200316_circolare%20n.%206_30655-1.pdf
+[rifiuti]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/documento49116086.html
+[tributario]: https://www.gov.sm/articoli/CIRCOLARE-Ufficio-Tributario-n.30764-del-17-marzo-2020---Modalit%C3%A0-di-pagamento-a-mezzo-bonifico-delle-imposte-dirette-e-indirette,-tasse,-sanzioni-e-ingiunzioni,-aventi-scadenza-nel-periodo-di-vigenza-dell-emergenza-sanitaria-di-cui-al-Decreto-51-2020.html
