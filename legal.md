@@ -11,7 +11,7 @@ nav_order: 3
 
 |:-|:-|:-|
 | Decreto - Legge 29 marzo 2020 n. 56 | **Norme per l'uso della teleconferenza/videoconferenza nelle assemblee dei soci delle persone giuridiche** <span class="label label-red">Nuovo</span> | [Apri][dl56]{: .btn .btn-blue } |
-| Decreto - Legge 29 marzo 2020 n. 55 | **Ulteriori misure connesse all'emergenza epidemiologica da COVID-19 (Coronavirus)** <span class="label label-red">Nuovo</span> | [Apri][dl55]{: .btn .btn-blue } |
+| Decreto - Legge 29 marzo 2020 n. 55 | **Ulteriori misure connesse all'emergenza epidemiologica da COVID-19 (Coronavirus)** <span class="label label-red">Nuovo</span> | [Apri][dl55]{: .btn .btn-blue }<br/>[Errata-C.][dl55-ec]{: .btn } |
 | Decreto - Legge 20 marzo 2020 n. 52 | **Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)** | [Apri][dl52]{: .btn .btn-blue }<br/>[Allegato 1][dl52-all1]{: .btn } <br/>[Allegato 2][dl52-all2]{: .btn }<br/>[Allegato 3][dl52-all3]{: .btn } |
 | Decreto - Legge 14 marzo 2020 n. 51 | **Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)** | [Apri][dl51]{: .btn .btn-blue }<br/>[Allegato 1][dl51-all1]{: .btn } <br/>[Allegato 2][dl51-all2]{: .btn }<br/>[Errata-C.][dl51-ec]{: .btn } |
 | Decreto - Legge 11 marzo 2020 n. 46 | **Sospensione straordinaria e temporanea dei termini di cui agli articoli 9, 10 e 12 della Legge 28 giugno 2010 n.118 e successive modifiche** | [Apri][dl46]{: .btn .btn-blue } |
@@ -22,6 +22,7 @@ nav_order: 3
 
 [dl56]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?acm_lang=it_IT&acm_session=6A4EAAAF1CAF9D936D12E598F471A085.tomcat1lb&operation=getDocBU&id=778d5ac72bb0dd50a7b216b1fa8a709c64875437
 [dl55]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?acm_lang=it_IT&acm_session=6A4EAAAF1CAF9D936D12E598F471A085.tomcat1lb&operation=getDocBU&id=14812b9b6e64f2ae09576fe765e526a6a631126c
+[dl55-ec]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?acm_lang=it_IT&acm_session=66AABAC1D7CBA930501A65E98308300D.tomcat1lb&operation=getDocBU&id=bd4b604394e2dffb0dd80ab5a2b61e88cfb8cc7d
 [dl52]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f5639f379b639e60cc789c34cf6c87649b30cb78936c9b6c876ccc659e6dc83793669337cc758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=0
 [dl52-all1]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f5639f379b639e60cc789c34cf6c87649b30cb78936c9b6c876ccc659e6dc83793669337cc758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=1
 [dl52-all2]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f5639f379b639e60cc789c34cf6c87649b30cb78936c9b6c876ccc659e6dc83793669337cc758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=2
