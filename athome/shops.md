@@ -351,17 +351,6 @@ nav_order: 8
 [cosmo-tel]: tel:00390549980484
 [cosmo-fb]: https://www.facebook.com/Libreria-Cosmo-292971374094339/
 
-## 🤵 Abbigliamento
-
-### Independent Streetwear
-
-|:-|:-|
-| **Per ordinare** | [indstreetwear.com][indstreetwear]{:.btn .btn-blue } |
-| **Consegna a domicilio** | Gratuita in tutto il mondo fino al 6 aprile + sconto 30%. |
-| **Pagamento** | carta di credito, PayPal, Apple Pay, Google Pay. |
-
-[indstreetwear]: https://www.indstreetwear.com
-
 ## 🏦 Banche
 
 ### Accesso ai servizi online (ebanking)

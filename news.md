@@ -10,19 +10,25 @@ nav_order: 2
 Notizie dal 12 Marzo 2020 in poi ([fonte: ISS][iss-coronavirus], [fonte: SMRTV][smrtv]). I dati giornalieri sono disponibili nella pagina [Dati][data].
 
 |:-|
-| **TinBòta! arriva su Facebook** <span class="label label-red">Nuovo</span> | 
+| **Coronavirus: le istanze d'Arengo si presentano via mail, lettura il 5 aprile in diretta** <span class="label label-red">Nuovo</span> | 
+| _30 Marzo 2020_ - Fonte: San Marino RTV - Anche in questo periodo di restrizioni per l'emergenza Coronavirus è garantita la possibilità di presentare le istanze d'Arengo, nella domenica successiva all'investitura della Reggenza il primo aprile. Non ci sarà più la presenza fisica dei promotori, ma tutto avverrà attraverso Internet. Le istanze, infatti, dovranno essere inviate dai cittadini via posta elettronica, entro le ore 12 del 5 aprile 2020, all'indirizzo info.segristituzionale@pa.sm. l’istanza va sottoscritta dal/i presentatore/i e, solo una volta firmata e scansionata, va inviata con posta elettronica. Le richieste, quindi, vanno formulate come di consueto; a cambiare è la modalità di consegna non più dal vivo. <br/>[Istruzioni complete e Fac-simile][arengo-fs]{: .btn .btn-blue } |
+
+[arengo-fs]: https://www.sanmarinortv.sm/uploads/media/media/5e/5e82131e9e063918967296.pdf
+
+|:-|
+| **TinBòta! arriva su Facebook** | 
 | _28 Marzo 2020_ - TinBòta! arriva su Facebook! <br/>[Vai alla pagina Facebook](https://facebook.com/tinbotasm){:.btn .btn-blue } | 
 
 |:-|
-| **Comunicato stampa congiunto Sanità Esteri su protocollo d'Intesa** <span class="label label-red">Nuovo</span> |
+| **Comunicato stampa congiunto Sanità Esteri su protocollo d'Intesa** |
 | _27 Marzo 2020_ - È stato firmato ieri, giovedì 26 marzo, dal Segretario di Stato alla Sanità Roberto Ciavatta e dal Ministro della Salute Italiano Roberto Speranza, il Protocollo d’Intesa di Mutua Collaborazione nell’ambito dell’emergenza sanitaria da COVID-19 e non solo. L’intesa riguarda il campo della salute e delle scienze mediche per la prevenzione e il contrasto al contagio da coronavirus. I punti caratterizzanti il protocollo tra la Repubblica di San Marino e quella Italiana riguardano i presidi medici, l’analisi di tamponi, la fornitura e la somministrazione di farmaci e DPI, i posti letto ordinari e di terapia intensiva, le strutture extra ospedaliere, assistenza reciproca nel rientro di cittadini e collaborazione nei rapporti con organismi internazionali nel reperimento fondi, professionalità e materiale necessari a fronteggiare l’emergenza. I singoli punti sono stati esplicitati ulteriormente come contenuto nel documento che si allega al comunicato stampa. Potranno dunque realizzarsi collaborazioni significative tra San Marino e i comuni italiani limitrofi, e non solo, colpiti dall’epidemia anche nell’eventualità di un peggioramento della situazione esistente. “L’intesa – dichiara il Segretario di Stato Roberto Ciavatta – pone le basi per rinnovati rapporti di amicizia e di vicinanza tra i due Stati e per rafforzare ulteriormente la cooperazione già esistente tra i due Paesi. Si tratta di un protocollo importantissimo poichè già dai prossimi giorni potranno realizzarsi forme di collaborazione significative ed in maniera reciproca, quindi anche San Marino potrà dare un aiuto rilevante, ma anche riceverlo”. Il Segretario di Stato per gli Affari Esteri On. Luca BECCARI ha espresso i più sentiti ringraziamenti al Ministro Speranza, al direttore del Ministero della Salute Dr. Ruocco al consigliere Diplomatico Jacoangeli e all’Ambasciatore di San Marino a Roma Daniela Rotondaro, per la rapidità della conclusione di questo protocollo d’intesa, dichiarandosi molto soddisfatto per una firma che rappresenta un'arma in più per fronteggiare questa emergenza sanitaria. “Il Protocollo - dichiara il Segretario di Stato Luca Beccari -oltre a confermare le già consolidate intese sull’assistenza sanitaria tra i due Stati rappresenta un passo avanti nell’assistenza diretta, lo scambio di conoscenze e l’approvvigionamento di materiali così come formalizza l’assistenza nel dare aiuto al rimpatrio dei sammarinesi all’estero e la collaborazione reciproca tra i due Stati nella richiesta di finanziamenti tra gli organismi internazionali in merito all’emergenza del covid 19.” |
 
 |:-|
-| **Poste San Marino: emergenza coronavirus, invito all'utenza** <span class="label label-red">Nuovo</span>|
+| **Poste San Marino: emergenza coronavirus, invito all'utenza** |
 | _27 Marzo 2020_ - Nel rispetto della preminente esigenza di tutela della salute dei propri lavoratori e della collettività tutta, Poste San Marino, continua a garantire il servizio alla cittadinanza in linea con i provvedimenti emessi in materia di contenimento del virus e distanziamento interpersonale. <br/>Pertanto: SI INVITA L’UTENZA<br/>-Ad entrare negli uffici postali avendo cura, ove possibile, di indossare dispositivi di protezione personale; di entrare in ufficio solo all’uscita dei clienti precedenti; tenere la distanza di almeno un metro, sia in attesa all’esterno degli uffici che nelle sale aperte al pubblico.<br/>- A prenotare preventivamente con l’Ufficio Postale l’orario di accettazione, nel caso si debbano eseguire operazioni multiple allo sportello, per evitare file di attesa, anche esterne.<br/>- A prenotare preventivamente con l’Ufficio Postale l’orario di riscossione delle Pensioni, a tutela delle categorie più deboli. <br/>[Orari di apertura uffici postali](https://www.sanmarinortv.sm/uploads/media/media/5e/5e7df5ca5243a510394178.pdf){:.btn .btn-blue } | 
 
 |:-|
-| **Apertura varco di confine di Rovereta** <span class="label label-red">Nuovo</span> |
+| **Apertura varco di confine di Rovereta** |
 | _27 Marzo 2020_ - È aperto il varco di confine a Rovereta, rivolto esclusivamente a mezzi pesanti e personale sanitario. Rimane chiuso per la cittadinanza. Il varco è transitabile dalle 6 alle 20. <br/>[Visualizza mappa][mappa]{:.btn .btn-blue } | 
 
 |:-|

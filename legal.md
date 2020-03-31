@@ -7,11 +7,19 @@ nav_order: 3
 
 # 📖 Normative e ordinanze
 
+## Istanze d'Arengo <span class="label label-red">Nuovo</span> 
+
+|:-|:-|:-|
+| **Presentazione Istanze d'Arengo per via telematica**<br/>Entro domenica 5 aprile h12:00 | [Fac-simile][arengo-fs]{: .btn .btn-blue }<br/>[Istruzioni][arengo-istr]{: .btn } |
+
+[arengo-fs]: https://www.sanmarinortv.sm/uploads/media/media/5e/5e82131e9e063918967296.pdf
+[arengo-istr]: https://www.sanmarinortv.sm/news/attualita-c4/coronavirus-le-istanze-d-arengo-si-presentano-via-mail-lettura-il-5-aprile-in-diretta-a185985
+
 ## Leggi e decreti ([fonte][cgg])
 
 |:-|:-|:-|
-| Decreto - Legge 29 marzo 2020 n. 56 | **Norme per l'uso della teleconferenza/videoconferenza nelle assemblee dei soci delle persone giuridiche** <span class="label label-red">Nuovo</span> | [Apri][dl56]{: .btn .btn-blue } |
-| Decreto - Legge 29 marzo 2020 n. 55 | **Ulteriori misure connesse all'emergenza epidemiologica da COVID-19 (Coronavirus)** <span class="label label-red">Nuovo</span> | [Apri][dl55]{: .btn .btn-blue }<br/>[Errata-C.][dl55-ec]{: .btn } |
+| Decreto - Legge 29 marzo 2020 n. 56 | **Norme per l'uso della teleconferenza/videoconferenza nelle assemblee dei soci delle persone giuridiche** | [Apri][dl56]{: .btn .btn-blue } |
+| Decreto - Legge 29 marzo 2020 n. 55 | **Ulteriori misure connesse all'emergenza epidemiologica da COVID-19 (Coronavirus)** | [Apri][dl55]{: .btn .btn-blue }<br/>[Errata-C.][dl55-ec]{: .btn } |
 | Decreto - Legge 20 marzo 2020 n. 52 | **Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)** | [Apri][dl52]{: .btn .btn-blue }<br/>[Allegato 1][dl52-all1]{: .btn } <br/>[Allegato 2][dl52-all2]{: .btn }<br/>[Allegato 3][dl52-all3]{: .btn } |
 | Decreto - Legge 14 marzo 2020 n. 51 | **Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)** | [Apri][dl51]{: .btn .btn-blue }<br/>[Allegato 1][dl51-all1]{: .btn } <br/>[Allegato 2][dl51-all2]{: .btn }<br/>[Errata-C.][dl51-ec]{: .btn } |
 | Decreto - Legge 11 marzo 2020 n. 46 | **Sospensione straordinaria e temporanea dei termini di cui agli articoli 9, 10 e 12 della Legge 28 giugno 2010 n.118 e successive modifiche** | [Apri][dl46]{: .btn .btn-blue } |
@@ -40,7 +48,10 @@ nav_order: 3
 ## Delibere Congresso di Stato ([fonte][delibere])
 
 |:-|:-|:-|
-| Delibera n. 4 24/03/2020 | **Misure straordinarie di proroga termini di legge** <span class="label label-red">Nuovo</span>  | [Apri][del04-2403]{: .btn .btn-blue } |
+| Delibera n. 1 24/03/2020 | **Adozione Decreto - Legge ''Ulteriori misure connesse all'emergenza epidemiologica da COVID-19 (Coronavirus)''** <span class="label label-red">Nuovo</span>  | [Apri][del01-2403]{: .btn .btn-blue }<br/>[Allegato][del01-2403-all]{: .btn } |
+| Delibera n. 2 24/03/2020 | **Adozione Decreto - Legge ''Norme per l'uso della teleconferenza/videoconferenza nelle assemblee dei soci delle persone giuridiche''** <span class="label label-red">Nuovo</span>  | [Apri][del02-2403]{: .btn .btn-blue }<br/>[Allegato][del02-2403-all]{: .btn } |
+| Delibera n. 4 24/03/2020 | **Misure straordinarie di proroga termini di legge**  | [Apri][del04-2403]{: .btn .btn-blue } |
+| Delibera n. 5 24/03/2020 | **Nomina del Direttore Generale ISS per l'emergenza da COVID-19** <span class="label label-red">Nuovo</span>  | [Apri][del05-2403]{: .btn .btn-blue } |
 | Delibera n. 1 20/03/2020 | **Adozione Decreto-Legge ''Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)''** | [Apri][del01-2003]{: .btn .btn-blue }<br/>[Allegato][del01-2003-all]{: .btn } |
 | Delibera n. 2 20/03/2020 | **Autorizzazione al Capo della Protezione Civile all'utilizzo di unità immobiliari di proprietà dell'Ecc.ma Camera nel contesto dell'emergenza da COVID-19** | [Apri][del02-2003]{: .btn .btn-blue } |
 | Delibera n. 10 17/03/2020 | **Misure straordinarie di proroga termini di legge, di scadenze fiscali, di pagamento imposte e tasse** | [Apri][del10-1703]{: .btn .btn-blue } |
@@ -59,7 +70,12 @@ nav_order: 3
 | Delibera n. 1 23/02/2020 | **Emissione Ordinanza ''Misure urgenti di prevenzione per evitare la diffusione del COVID-19 (Coronavirus)''** | [Apri][del01-2302]{: .btn .btn-blue }<br/>[Allegato][del01-2302-all]{: .btn } |
 | Delibera n. 1 22/02/2020 | **Emissione Ordinanza ''Provvedimenti per Emergenze Sanitarie epidemia da COVID-19''** | [Apri][del01-2202]{: .btn .btn-blue } |
 
+[del01-2403]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116137.html
+[del01-2403-all]: http://www.interni.segreteria.sm/on-line/home/documento25116138.html
+[del02-2403]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116139.html
+[del02-2403-all]: http://www.interni.segreteria.sm/on-line/home/documento25116140.html
 [del04-2403]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116125.html
+[del05-2403]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116170.html
 [del01-2003]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116066.html
 [del01-2003-all]: http://www.interni.segreteria.sm/on-line/home/documento25116067.html
 [del02-2003]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116112.html

@@ -10,6 +10,12 @@ nav_order: 0
 
 <img src="/assets/img/tinbota.jpg"/>
 
+<span class="fs-6">
+[ISS - Dona online con carta di credito](http://www.iss.sm/on-line/home/donazioni.html){: .btn .btn-green }
+</span>
+
+Effettua una donazione online per l'emergenza Coronavirus sul sito ISS.sm. Pagamento tramite circuiti Visa o Mastercard.
+
 # TinBòta! Informazioni e risorse utili sull'emergenza Coronavirus a San Marino.
 
 Un luogo dove raccogliere tutte le informazioni sull'emergenza del nuovo Coronavirus COVID-19 a San Marino: notizie, dati, provvedimenti, informazioni, ma anche consigli su come affrontare le limitazioni quotidiane.

@@ -13,7 +13,7 @@ nav_order: 1
 | **Vademecum Coronavirus** | [Scarica][vademecum]{: .btn .btn-blue } |
 | **Disposizioni per chi viaggia**, Segreteria di Stato per gli Affari Esteri | [Scarica][viaggioesteri]{: .btn .btn-blue } |
 | 🇸🇲 **Autodichiarazione transito a San Marino per validi motivi**, compilabile in PDF <span class="label label-red">Nuovo</span> | [Scarica][autodichiarazione-sm]{: .btn .btn-blue } |
-| 🇸🇲 **Modello di autocertificazione per ingresso del dipendente sul luogo di lavoro** (all. 3 D.L. 20/03/2020 n. 52) <span class="label label-red">Nuovo</span> | [Scarica][autodic-sm]{: .btn .btn-blue } |
+| 🇸🇲 **Modello di autocertificazione per ingresso del dipendente sul luogo di lavoro** (all. 3 D.L. 20/03/2020 n. 52) | [Scarica][autodic-sm]{: .btn .btn-blue } |
 | 🇮🇹 **Autodichiarazione transito in Italia per validi motivi**, compilabile in PDF | [Scarica][autodichiarazione]{: .btn .btn-blue } |
 
 [tel-iss]: tel:00390549994001

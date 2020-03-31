@@ -7,6 +7,12 @@ nav_order: 6
 
 # 💶 Solidarietà
 
+<span class="fs-6">
+[ISS - Dona online con carta di credito](http://www.iss.sm/on-line/home/donazioni.html){: .btn .btn-green }
+</span>
+
+Effettua una donazione online sul sito ISS.sm. Pagamento tramite circuiti Visa o Mastercard.
+
 ## Iniziative di solidarietà attive in territorio ([fonte][smrtv])
 
 ### Protezione Civile Repubblica di San Marino ([fonte][abs])
