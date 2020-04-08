@@ -7,14 +7,6 @@ nav_order: 3
 
 # 📖 Normative e ordinanze
 
-## Istanze d'Arengo <span class="label label-red">Nuovo</span> 
-
-|:-|:-|:-|
-| **Presentazione Istanze d'Arengo per via telematica**<br/>Entro domenica 5 aprile h12:00 | [Fac-simile][arengo-fs]{: .btn .btn-blue }<br/>[Istruzioni][arengo-istr]{: .btn } |
-
-[arengo-fs]: https://www.sanmarinortv.sm/uploads/media/media/5e/5e82131e9e063918967296.pdf
-[arengo-istr]: https://www.sanmarinortv.sm/news/attualita-c4/coronavirus-le-istanze-d-arengo-si-presentano-via-mail-lettura-il-5-aprile-in-diretta-a185985
-
 ## Leggi e decreti ([fonte][cgg])
 
 |:-|:-|:-|
@@ -50,10 +42,11 @@ nav_order: 3
 ## Delibere Congresso di Stato ([fonte][delibere])
 
 |:-|:-|:-|
-| Delibera n. 1 24/03/2020 | **Adozione Decreto - Legge ''Ulteriori misure connesse all'emergenza epidemiologica da COVID-19 (Coronavirus)''** <span class="label label-red">Nuovo</span>  | [Apri][del01-2403]{: .btn .btn-blue }<br/>[Allegato][del01-2403-all]{: .btn } |
-| Delibera n. 2 24/03/2020 | **Adozione Decreto - Legge ''Norme per l'uso della teleconferenza/videoconferenza nelle assemblee dei soci delle persone giuridiche''** <span class="label label-red">Nuovo</span>  | [Apri][del02-2403]{: .btn .btn-blue }<br/>[Allegato][del02-2403-all]{: .btn } |
-| Delibera n. 4 24/03/2020 | **Misure straordinarie di proroga termini di legge**  | [Apri][del04-2403]{: .btn .btn-blue } |
-| Delibera n. 5 24/03/2020 | **Nomina del Direttore Generale ISS per l'emergenza da COVID-19** <span class="label label-red">Nuovo</span>  | [Apri][del05-2403]{: .btn .btn-blue } |
+| Delibera n. 1 04/04/2020 | **Adozione Decreto - Legge: ''Proroga del Decreto - Legge 20 marzo 2020 n. 52 - Misure urgenti di contenimento e gestione dell'emergenza da Covid-19 - e ulteriori misure di gestione dell'emergenza''** <span class="label label-red">Nuovo</span> | [Apri][del01-0404]{: .btn .btn-blue }<br/>[Allegato][del01-0404-all]{: .btn } |
+| Delibera n. 8 31/03/2020 | **Costituzione di un Gruppo di Lavoro per l'informatizzazione dell'attività giudiziaria del Tribunale della Repubblica di San Marino** <span class="label label-red">Nuovo</span> | [Apri][del08-3103]{: .btn .btn-blue } |
+| Delibera n. 2 24/03/2020 | **Adozione Decreto - Legge ''Norme per l'uso della teleconferenza/videoconferenza nelle assemblee dei soci delle persone giuridiche''** | [Apri][del02-2403]{: .btn .btn-blue }<br/>[Allegato][del02-2403-all]{: .btn } |
+| Delibera n. 4 24/03/2020 | **Misure straordinarie di proroga termini di legge** | [Apri][del04-2403]{: .btn .btn-blue } |
+| Delibera n. 5 24/03/2020 | **Nomina del Direttore Generale ISS per l'emergenza da COVID-19** | [Apri][del05-2403]{: .btn .btn-blue } |
 | Delibera n. 1 20/03/2020 | **Adozione Decreto-Legge ''Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)''** | [Apri][del01-2003]{: .btn .btn-blue }<br/>[Allegato][del01-2003-all]{: .btn } |
 | Delibera n. 2 20/03/2020 | **Autorizzazione al Capo della Protezione Civile all'utilizzo di unità immobiliari di proprietà dell'Ecc.ma Camera nel contesto dell'emergenza da COVID-19** | [Apri][del02-2003]{: .btn .btn-blue } |
 | Delibera n. 10 17/03/2020 | **Misure straordinarie di proroga termini di legge, di scadenze fiscali, di pagamento imposte e tasse** | [Apri][del10-1703]{: .btn .btn-blue } |
@@ -106,6 +99,9 @@ nav_order: 3
 [del01-2302]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25115377.html
 [del01-2302-all]: http://www.interni.segreteria.sm/on-line/home/documento25115378.html
 [del01-2202]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25115370.html
+[del01-0404]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116217.html
+[del01-0404-all]: http://www.interni.segreteria.sm/on-line/home/documento25116218.html
+[del08-3103]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116251.html
 
 ## Ordinanze ([fonte][ordinanze])
 

@@ -12,6 +12,7 @@ nav_order: 1
 |:-|:-|
 | **Vademecum Coronavirus** | [Scarica][vademecum]{: .btn .btn-blue } |
 | **Disposizioni per chi viaggia**, Segreteria di Stato per gli Affari Esteri | [Scarica][viaggioesteri]{: .btn .btn-blue } |
+| **Consigli e raccomandazioni per le donne in gravidanza durante Covid 19** | [Scarica][gravidanza]{: .btn .btn-blue } |
 | 🇸🇲 **Autodichiarazione transito a San Marino per validi motivi**, compilabile in PDF <span class="label label-red">Nuovo</span> | [Scarica][autodichiarazione-sm]{: .btn .btn-blue } |
 | 🇸🇲 **Modello di autocertificazione per ingresso del dipendente sul luogo di lavoro** (all. 3 D.L. 20/03/2020 n. 52) | [Scarica][autodic-sm]{: .btn .btn-blue } |
 | 🇮🇹 **Autodichiarazione transito in Italia per validi motivi**, compilabile in PDF | [Scarica][autodichiarazione]{: .btn .btn-blue } |
@@ -19,7 +20,7 @@ nav_order: 1
 [tel-iss]: tel:00390549994001
 [tel-coi]: tel:00390549888888
 [tel-dae]: tel:00390549882337
-[autodichiarazione]: https://www.interno.gov.it/sites/default/files/allegati/modulo_autodichiarazione_17.3.2020.pdf
+[autodichiarazione]: https://www.interno.gov.it/sites/default/files/allegati/nuovo_modello_autodichiarazione_26.03.2020_editabile.pdf
 [vademecum]: http://www.sanita.sm/on-line/home/archivio-comunicati/documento2115553.html
 [iss-coronavirus]: http://www.iss.sm/on-line/home/artCataggiornamenti-coronavirus.49004093.1.20.1.html
 [iss-fb]: https://www.facebook.com/ISSRSM/
@@ -28,6 +29,7 @@ nav_order: 1
 [viaggioesteri]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/documento49115826.html
 [autodic-sm]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f5639f379b639e60cc789c34cf6c87649b30cb78936c9b6c876ccc659e6dc83793669337cc758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=3
 [autodichiarazione-sm]: /assets/autocertificazione_san_marino_compilabile.pdf
+[gravidanza]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/articolo49014215.html
 
 ## 🚘 Chiusura e presidio dei Confini di Stato ([fonte][strade])
 

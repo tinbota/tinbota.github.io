@@ -11,7 +11,7 @@ nav_order: 6
 [ISS - Dona online con carta di credito](http://www.iss.sm/on-line/home/donazioni.html){: .btn .btn-green }
 </span>
 
-Effettua una donazione online sul sito ISS.sm. Pagamento tramite circuiti Visa o Mastercard.
+Effettua una donazione online per l'emergenza Coronavirus sul sito ISS.sm. Pagamento tramite circuiti Visa o Mastercard.
 
 ## Iniziative di solidarietà attive in territorio ([fonte][smrtv])
 

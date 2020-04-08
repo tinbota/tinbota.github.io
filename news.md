@@ -10,7 +10,12 @@ nav_order: 2
 Notizie dal 12 Marzo 2020 in poi ([fonte: ISS][iss-coronavirus], [fonte: SMRTV][smrtv]). I dati giornalieri sono disponibili nella pagina [Dati][data].
 
 |:-|
-| **Coronavirus: le istanze d'Arengo si presentano via mail, lettura il 5 aprile in diretta** <span class="label label-red">Nuovo</span> | 
+| **Dematerializzata la ricetta di farmaci: attivo da oggi il servizio telematico per richiedere la ricetta via WEB** <span class="label label-red">Nuovo</span> |
+| _6 Aprile 2020_ - Da oggi, lunedì 6 aprile, è attivo il servizio on-line che permette di richiedere le prestazioni dal proprio computer, tablet o smartphone, senza doversi recare al Centro Sanitario, evitando così spostamenti, file o attese al telefono. Per utilizzare il servizio è sufficiente collegarsi al sito web dell’ISS www.iss.sm ed entrare nella sezione “servizi on-line” (home page in alto a sinistra) oppure digitare direttamente l’indirizzo internet servizionline.iss.sm. Al momento sono state attivate le richieste per il rinnovo della "Ricetta Ordinaria" e per il rinnovo della "Ricetta Ripetitiva".
+La richiesta compilata elettronicamente online verrà inviata al Medico di Medicina Generale che, verificata la correttezza, emetterà la nuova ricetta. L’assistito potrà sempre verificare lo stato di avanzamento della propria richiesta direttamente sulla pagina online o, nel caso avesse lasciato la propria email, gli verrà inviata una nota. Quando la richiesta risulterà evasa, potrà recarsi direttamente in farmacia munito di Cartazzurra o carta d'identità (anche fotocopie) per il ritiro dei farmaci. Oltre alla ricetta ripetitiva e alla ricetta ordinaria, successivamente verranno attivate altre richieste di prestazioni sanitarie che saranno prontamente comunicate all’utenza. Inoltre sempre da oggi è attivo il servizio di consegna dei farmaci a domicilio solo per gli utenti che lo domandino espressamente al momento della richiesta di ricetta fatta al proprio Centro sanitario ed ESCLUSIVAMENTE PER VIA TELEFONICA. Il servizio è stato pensato, quindi, soprattutto per soggetti anziani che abbiano difficoltà a recarsi in farmacia e per tutti i soggetti in quarantena. Ad oggi è prevista la consegna di farmaci, da parte della protezione civile e dei volontari, per l’equivalente di 400 ricette al giorno. <br/>[Vai ai Servizi Online ISS][so-iss]{: .btn .btn-blue }|
+
+|:-|
+| **Coronavirus: le istanze d'Arengo si presentano via mail, lettura il 5 aprile in diretta** | 
 | _30 Marzo 2020_ - Fonte: San Marino RTV - Anche in questo periodo di restrizioni per l'emergenza Coronavirus è garantita la possibilità di presentare le istanze d'Arengo, nella domenica successiva all'investitura della Reggenza il primo aprile. Non ci sarà più la presenza fisica dei promotori, ma tutto avverrà attraverso Internet. Le istanze, infatti, dovranno essere inviate dai cittadini via posta elettronica, entro le ore 12 del 5 aprile 2020, all'indirizzo info.segristituzionale@pa.sm. l’istanza va sottoscritta dal/i presentatore/i e, solo una volta firmata e scansionata, va inviata con posta elettronica. Le richieste, quindi, vanno formulate come di consueto; a cambiare è la modalità di consegna non più dal vivo. <br/>[Istruzioni complete e Fac-simile][arengo-fs]{: .btn .btn-blue } |
 
 [arengo-fs]: https://www.sanmarinortv.sm/uploads/media/media/5e/5e82131e9e063918967296.pdf
@@ -90,3 +95,4 @@ Notizie dal 12 Marzo 2020 in poi ([fonte: ISS][iss-coronavirus], [fonte: SMRTV][
 [pap]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/articolo49014134.html
 [ammiss]: http://www.iss.sm/contents/instance48/files/document/49116013CircolareServizi.pdf
 [mappa]: /info/#-chiusura-e-presidio-dei-confini-di-stato-fonte
+[so-iss]: /issonline
