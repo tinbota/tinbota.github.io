@@ -10,7 +10,8 @@ nav_order: 3
 ## Leggi e decreti ([fonte][cgg])
 
 |:-|:-|:-|
-| Decreto - Legge 4 aprile 2020 n. 59 | **Proroga del Decreto - Legge 20 marzo 2020 n.52 "Misure urgenti di contenimento e gestione dell'emergenza da Covid-19 (Coronavirus)" e ulteriori misure di gestione dell'emergenza** <span class="label label-red">Nuovo</span> | [Apri][dl59]{: .btn .btn-blue } |
+| Decreto - Legge 10 aprile 2020 n. 61 | **Modifiche del Decreto - Legge 20 marzo 2020 n.52 ''Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)'' e successive modifiche** <span class="label label-red">Nuovo</span> | [Apri][dl61]{: .btn .btn-blue } |
+| Decreto - Legge 4 aprile 2020 n. 59 | **Proroga del Decreto - Legge 20 marzo 2020 n.52 "Misure urgenti di contenimento e gestione dell'emergenza da Covid-19 (Coronavirus)" e ulteriori misure di gestione dell'emergenza**  | [Apri][dl59]{: .btn .btn-blue } |
 | Decreto - Legge 29 marzo 2020 n. 56 | **Norme per l'uso della teleconferenza/videoconferenza nelle assemblee dei soci delle persone giuridiche** | [Apri][dl56]{: .btn .btn-blue } |
 | Decreto - Legge 29 marzo 2020 n. 55 | **Ulteriori misure connesse all'emergenza epidemiologica da COVID-19 (Coronavirus)** | [Apri][dl55]{: .btn .btn-blue }<br/>[Errata-C.][dl55-ec]{: .btn } |
 | Decreto - Legge 20 marzo 2020 n. 52 | **Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)** | [Apri][dl52]{: .btn .btn-blue }<br/>[Allegato 1][dl52-all1]{: .btn } <br/>[Allegato 2][dl52-all2]{: .btn }<br/>[Allegato 3][dl52-all3]{: .btn } |
@@ -21,6 +22,7 @@ nav_order: 3
 | Decreto - Legge 5 marzo 2020 n. 42 | **Istituzione della figura di commissario straordinario per l'emergenza da COVID-19** | [Apri][dl42]{: .btn .btn-blue } |
 | Decreto - Legge 28 febbraio 2020 n. 35 | **Attribuzione al Segretario di Stato per la Sanità e Sicurezza Sociale del potere di Ordinanza per emergenze di sanità pubblica** | [Apri][dl35]{: .btn .btn-blue } |
 
+[dl61]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?acm_lang=it_IT&acm_session=1C350E4C9C013812BBBF2992EE3FFE1E.tomcat2lb&operation=getDocBU&id=96d30182df6044d0fc81b66994654acd47583d0f
 [dl59]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?acm_lang=it_IT&acm_session=D87AD2E9CF7E1ADA90D454BEA4E3B9A9.tomcat2lb&operation=getDocBU&id=e33cb5bfa9b1436e9f89b460d06b80d057adcc8e
 [dl56]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?acm_lang=it_IT&acm_session=6A4EAAAF1CAF9D936D12E598F471A085.tomcat1lb&operation=getDocBU&id=778d5ac72bb0dd50a7b216b1fa8a709c64875437
 [dl55]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?acm_lang=it_IT&acm_session=6A4EAAAF1CAF9D936D12E598F471A085.tomcat1lb&operation=getDocBU&id=14812b9b6e64f2ae09576fe765e526a6a631126c
