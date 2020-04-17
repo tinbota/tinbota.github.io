@@ -10,7 +10,8 @@ nav_order: 3
 ## Leggi e decreti ([fonte][cgg])
 
 |:-|:-|:-|
-| Decreto - Legge 10 aprile 2020 n. 61 | **Modifiche del Decreto - Legge 20 marzo 2020 n.52 ''Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)'' e successive modifiche** <span class="label label-red">Nuovo</span> | [Apri][dl61]{: .btn .btn-blue } |
+| Decreto - Legge 17 aprile 2020 n. 62 | **Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)** <span class="label label-red">Nuovo</span> | [Apri][dl62]{: .btn .btn-blue }<br/>[Allegato 1][dl62-all1]{: .btn } <br/>[Allegato 2][dl62-all2]{: .btn }<br/>[Allegato 3][dl62-all3]{: .btn }<br/>[Allegato 4][dl62-all4]{: .btn }  |
+| Decreto - Legge 10 aprile 2020 n. 61 | **Modifiche del Decreto - Legge 20 marzo 2020 n.52 ''Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)'' e successive modifiche**  | [Apri][dl61]{: .btn .btn-blue } |
 | Decreto - Legge 4 aprile 2020 n. 59 | **Proroga del Decreto - Legge 20 marzo 2020 n.52 "Misure urgenti di contenimento e gestione dell'emergenza da Covid-19 (Coronavirus)" e ulteriori misure di gestione dell'emergenza**  | [Apri][dl59]{: .btn .btn-blue } |
 | Decreto - Legge 29 marzo 2020 n. 56 | **Norme per l'uso della teleconferenza/videoconferenza nelle assemblee dei soci delle persone giuridiche** | [Apri][dl56]{: .btn .btn-blue } |
 | Decreto - Legge 29 marzo 2020 n. 55 | **Ulteriori misure connesse all'emergenza epidemiologica da COVID-19 (Coronavirus)** | [Apri][dl55]{: .btn .btn-blue }<br/>[Errata-C.][dl55-ec]{: .btn } |
@@ -22,6 +23,11 @@ nav_order: 3
 | Decreto - Legge 5 marzo 2020 n. 42 | **Istituzione della figura di commissario straordinario per l'emergenza da COVID-19** | [Apri][dl42]{: .btn .btn-blue } |
 | Decreto - Legge 28 febbraio 2020 n. 35 | **Attribuzione al Segretario di Stato per la Sanità e Sicurezza Sociale del potere di Ordinanza per emergenze di sanità pubblica** | [Apri][dl35]{: .btn .btn-blue } |
 
+[dl62]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f560c834926dcb6dce789265996287649b30cb78936c9b6c876ccc659e6dc83793669337cc758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=0
+[dl62-all1]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f560c834926dcb6dce789265996287649b30cb78936c9b6c876ccc659e6dc83793669337cc758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=1
+[dl62-all2]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f560c834926dcb6dce789265996287649b30cb78936c9b6c876ccc659e6dc83793669337cc758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=2
+[dl62-all3]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f560c834926dcb6dce789265996287649b30cb78936c9b6c876ccc659e6dc83793669337cc758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=3
+[dl62-all4]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f560c834926dcb6dce789265996287649b30cb78936c9b6c876ccc659e6dc83793669337cc758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=4
 [dl61]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?acm_lang=it_IT&acm_session=1C350E4C9C013812BBBF2992EE3FFE1E.tomcat2lb&operation=getDocBU&id=96d30182df6044d0fc81b66994654acd47583d0f
 [dl59]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?acm_lang=it_IT&acm_session=D87AD2E9CF7E1ADA90D454BEA4E3B9A9.tomcat2lb&operation=getDocBU&id=e33cb5bfa9b1436e9f89b460d06b80d057adcc8e
 [dl56]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?acm_lang=it_IT&acm_session=6A4EAAAF1CAF9D936D12E598F471A085.tomcat1lb&operation=getDocBU&id=778d5ac72bb0dd50a7b216b1fa8a709c64875437
@@ -44,8 +50,11 @@ nav_order: 3
 ## Delibere Congresso di Stato ([fonte][delibere])
 
 |:-|:-|:-|
-| Delibera n. 1 04/04/2020 | **Adozione Decreto - Legge: ''Proroga del Decreto - Legge 20 marzo 2020 n. 52 - Misure urgenti di contenimento e gestione dell'emergenza da Covid-19 - e ulteriori misure di gestione dell'emergenza''** <span class="label label-red">Nuovo</span> | [Apri][del01-0404]{: .btn .btn-blue }<br/>[Allegato][del01-0404-all]{: .btn } |
-| Delibera n. 8 31/03/2020 | **Costituzione di un Gruppo di Lavoro per l'informatizzazione dell'attività giudiziaria del Tribunale della Repubblica di San Marino** <span class="label label-red">Nuovo</span> | [Apri][del08-3103]{: .btn .btn-blue } |
+| Delibera n. 9 14/04/2020 | **Autorizzazione al Capo della Protezione Civile all'utilizzo di unità immobiliari di proprietà dell'Ecc.ma Camera nel contesto dell'emergenza da COVID-19** <span class="label label-red">Nuovo</span> | [Apri][del09-1404]{: .btn .btn-blue } |
+| Delibera n. 13 07/04/2020 | **Adozione Decreto-Legge ''Modifiche del Decreto-Legge 20 marzo 2020 n. 52 - Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus) - e successive modifiche''** <span class="label label-red">Nuovo</span> | [Apri][del13-0704]{: .btn .btn-blue }<br/>[Allegato][del13-0704-all]{: .btn } |
+| Delibera n. 6 07/04/2020 | **Trasferimento fondi di riserva per spese sostenute e da sostenersi per l'Emergenza Sanitaria COVID-19** <span class="label label-red">Nuovo</span> | [Apri][del06-0704]{: .btn .btn-blue } |
+| Delibera n. 1 04/04/2020 | **Adozione Decreto - Legge: ''Proroga del Decreto - Legge 20 marzo 2020 n. 52 - Misure urgenti di contenimento e gestione dell'emergenza da Covid-19 - e ulteriori misure di gestione dell'emergenza''**  | [Apri][del01-0404]{: .btn .btn-blue }<br/>[Allegato][del01-0404-all]{: .btn } |
+| Delibera n. 8 31/03/2020 | **Costituzione di un Gruppo di Lavoro per l'informatizzazione dell'attività giudiziaria del Tribunale della Repubblica di San Marino** | [Apri][del08-3103]{: .btn .btn-blue } |
 | Delibera n. 2 24/03/2020 | **Adozione Decreto - Legge ''Norme per l'uso della teleconferenza/videoconferenza nelle assemblee dei soci delle persone giuridiche''** | [Apri][del02-2403]{: .btn .btn-blue }<br/>[Allegato][del02-2403-all]{: .btn } |
 | Delibera n. 4 24/03/2020 | **Misure straordinarie di proroga termini di legge** | [Apri][del04-2403]{: .btn .btn-blue } |
 | Delibera n. 5 24/03/2020 | **Nomina del Direttore Generale ISS per l'emergenza da COVID-19** | [Apri][del05-2403]{: .btn .btn-blue } |
@@ -67,6 +76,10 @@ nav_order: 3
 | Delibera n. 1 23/02/2020 | **Emissione Ordinanza ''Misure urgenti di prevenzione per evitare la diffusione del COVID-19 (Coronavirus)''** | [Apri][del01-2302]{: .btn .btn-blue }<br/>[Allegato][del01-2302-all]{: .btn } |
 | Delibera n. 1 22/02/2020 | **Emissione Ordinanza ''Provvedimenti per Emergenze Sanitarie epidemia da COVID-19''** | [Apri][del01-2202]{: .btn .btn-blue } |
 
+[del09-1404]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116325.html
+[del13-0704]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116315.html
+[del13-0704-all]: http://www.interni.segreteria.sm/on-line/home/documento25116316.html
+[del06-0704]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116298.html
 [del01-2403]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116137.html
 [del01-2403-all]: http://www.interni.segreteria.sm/on-line/home/documento25116138.html
 [del02-2403]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116139.html
