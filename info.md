@@ -13,8 +13,8 @@ nav_order: 1
 | **Vademecum Coronavirus** | [Scarica][vademecum]{: .btn .btn-blue } |
 | **Disposizioni per chi viaggia**, Segreteria di Stato per gli Affari Esteri | [Scarica][viaggioesteri]{: .btn .btn-blue } |
 | **Consigli e raccomandazioni per le donne in gravidanza durante Covid 19** | [Scarica][gravidanza]{: .btn .btn-blue } |
-| 🇸🇲 **Autodichiarazione transito a San Marino per validi motivi**, compilabile in PDF <span class="label label-red">Nuovo</span> | [Scarica][autodichiarazione-sm]{: .btn .btn-blue } |
-| 🇸🇲 **Modello di autocertificazione per ingresso del dipendente sul luogo di lavoro** (all. 3 D.L. 20/03/2020 n. 52) | [Scarica][autodic-sm]{: .btn .btn-blue } |
+| 🇸🇲 **Autodichiarazione transito a San Marino per validi motivi** <span class="label label-red">Nuovo</span> | [Scarica][autodichiarazione-sm]{: .btn .btn-blue } |
+| 🇸🇲 **Modello di autocertificazione per ingresso del dipendente sul luogo di lavoro** (all. 3 D.L. 17/04/2020 n. 62) | [Scarica][autodic-sm]{: .btn .btn-blue } |
 | 🇮🇹 **Autodichiarazione transito in Italia per validi motivi**, compilabile in PDF | [Scarica][autodichiarazione]{: .btn .btn-blue } |
 
 [tel-iss]: tel:00390549994001
@@ -27,13 +27,11 @@ nav_order: 1
 [tel-ment1]: tel:00390549994593
 [tel-ment2]: tel:00390549994650
 [viaggioesteri]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/documento49115826.html
-[autodic-sm]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f5639f379b639e60cc789c34cf6c87649b30cb78936c9b6c876ccc659e6dc83793669337cc758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=3
-[autodichiarazione-sm]: /assets/autocertificazione_san_marino_compilabile.pdf
+[autodic-sm]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f560c834926dcb6dce789265996287649b30cb78936c9b6c876ccc659e6dc83793669337cc758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=3
+[autodichiarazione-sm]: http://www.gendarmeria.sm/contents/instance54/files/document/5511644317.04.2020_Autoc.pdf
 [gravidanza]: http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/articolo49014215.html
 
 ## 🚘 Chiusura e presidio dei Confini di Stato ([fonte][strade])
-
- <span class="label label-red">Nuovo</span>
 
 <iframe src="https://www.google.com/maps/d/u/3/embed?mid=1VRu7yMcjLewT2x5XKiirtmLnDq4Fci_a" width="100%" height="520"></iframe>
 
@@ -44,8 +42,10 @@ nav_order: 1
 - **Istituto per la Sicurezza Sociale** - Informazioni sanitarie Coronavirus: [0549 994001][tel-iss] (attivo tutti i giorni dalle 8 alle 18)
 - **Centrale Operativa Interforze** per informazioni turisti e lavoratori frontalieri: [0549 888888][tel-coi]
 - **Dipartimento Affari Esteri** per l’assistenza ai sammarinesi nelle fasi di rientro dalle zone a rischio: [0549 882337][tel-dae]
-- **Supporto telefonico psicologico** a cura del Servizio Salute Mentale ISS: [0549 994593][tel-ment1], [0549 994650][tel-ment2] (lun-mer-gio 8:00-17:30, mar-ven 8:00-14:00)
-- <span class="label label-red">Nuovo</span> **Piano di Assistenza della Protezione Civile** attivo h24: [0549 883401](tel:00390549883401) oppure [0549 883402](tel:0549883402) lun-ven 8:15-18:00, [0549 888888][tel-coi] oppure [331 6154097](tel:00393316154097) per sabato, domenica, ore serali. 
+- **Assistenza pediatrica**: [0549 994250](tel:00390549994250)
+- **Vittime di violenza**: [0549 994800](tel:00390549994800)
+- **Supporto telefonico psicologico** a cura del Servizio Salute Mentale ISS: [0549 994593][tel-ment1], [0549 994650][tel-ment2] (lun-mer-gio 8:00-17:30, mar-ven 8:00-14:00), [331 6872612](tel:00393316872612)
+- **Piano di Assistenza della Protezione Civile** attivo h24: [0549 883401](tel:00390549883401) oppure [0549 883402](tel:0549883402) lun-ven 8:15-18:00, [0549 888888][tel-coi] oppure [331 6154097](tel:00393316154097) per sabato, domenica, ore serali. 
 - **Soccorso pubblico per emergenze**: [113](tel:113)
 - **Pronto soccorso - ambulanza**: [118](tel:118)
 - **Gendarmeria**: [112](tel:112) - [0549 888888](tel:00390549888888)

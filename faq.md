@@ -7,7 +7,7 @@ nav_order: 4
 
 # 💬 Domande frequenti
 
-## ISS ([fonte][issqa]) <span class="label label-red">Nuovo</span>
+## ISS ([fonte][issqa])
 
 1. Che cos'è un coronavirus?
   - I coronavirus sono una vasta famiglia di virus noti per causare malattie che vanno dal comune raffreddore a malattie più gravi come la sindrome respiratoria mediorientale (MERS) e la sindrome respiratoria acuta grave (SARS).
