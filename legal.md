@@ -10,7 +10,8 @@ nav_order: 3
 ## Leggi e decreti ([fonte][cgg])
 
 |:-|:-|:-|
-| Decreto - Legge 21 aprile 2020 n. 63 | **Interventi in ambito economico e per il sostegno di famiglie, imprese, lavoratori autonomi e liberi professionisti per affrontare l'emergenza COVID-19** <span class="label label-red">Nuovo</span> | [Apri][dl63]{: .btn .btn-blue } |
+| Decreto - Legge 24 aprile 2020 n. 65 | **Proroga della sospensione straordinaria e temporanea dei termini di cui agli articoli 9, 10 e 12 della Legge 28 giugno 2010 n. 118 e successive modifiche** <span class="label label-red">Nuovo</span> | [Apri][dl65]{: .btn .btn-blue } |
+| Decreto - Legge 21 aprile 2020 n. 63 | **Interventi in ambito economico e per il sostegno di famiglie, imprese, lavoratori autonomi e liberi professionisti per affrontare l'emergenza COVID-19** | [Apri][dl63]{: .btn .btn-blue } |
 | Decreto - Legge 17 aprile 2020 n. 62 | **Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)** | [Apri][dl62]{: .btn .btn-blue }<br/>[Allegato 1][dl62-all1]{: .btn } <br/>[Allegato 2][dl62-all2]{: .btn }<br/>[Allegato 3][dl62-all3]{: .btn }<br/>[Allegato 4][dl62-all4]{: .btn }<br/>[Errata-C.][dl62-ec]{: .btn }  |
 | Decreto - Legge 10 aprile 2020 n. 61 | **Modifiche del Decreto - Legge 20 marzo 2020 n.52 ''Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)'' e successive modifiche**  | [Apri][dl61]{: .btn .btn-blue } |
 | Decreto - Legge 4 aprile 2020 n. 59 | **Proroga del Decreto - Legge 20 marzo 2020 n.52 "Misure urgenti di contenimento e gestione dell'emergenza da Covid-19 (Coronavirus)" e ulteriori misure di gestione dell'emergenza**  | [Apri][dl59]{: .btn .btn-blue } |
@@ -24,6 +25,7 @@ nav_order: 3
 | Decreto - Legge 5 marzo 2020 n. 42 | **Istituzione della figura di commissario straordinario per l'emergenza da COVID-19** | [Apri][dl42]{: .btn .btn-blue } |
 | Decreto - Legge 28 febbraio 2020 n. 35 | **Attribuzione al Segretario di Stato per la Sanità e Sicurezza Sociale del potere di Ordinanza per emergenze di sanità pubblica** | [Apri][dl35]{: .btn .btn-blue } |
 
+[dl65]: https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/documento17116567.html
 [dl63]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?acm_lang=it_IT&acm_session=BE6D2CC565656874526F6185CBB8C59B.tomcat1lb&operation=getDocBU&id=189a6ab1ac89fb914f18bb9a36ce18a999f86ffd
 [dl62]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f560c834926dcb6dce789265996287649b30cb78936c9b6c876ccc659e6dc83793669337cc758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=0
 [dl62-all1]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f560c834926dcb6dce789265996287649b30cb78936c9b6c876ccc659e6dc83793669337cc758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=1
@@ -53,9 +55,15 @@ nav_order: 3
 ## Delibere Congresso di Stato ([fonte][delibere])
 
 |:-|:-|:-|
-| Delibera n. 9 14/04/2020 | **Autorizzazione al Capo della Protezione Civile all'utilizzo di unità immobiliari di proprietà dell'Ecc.ma Camera nel contesto dell'emergenza da COVID-19** <span class="label label-red">Nuovo</span> | [Apri][del09-1404]{: .btn .btn-blue } |
-| Delibera n. 13 07/04/2020 | **Adozione Decreto-Legge ''Modifiche del Decreto-Legge 20 marzo 2020 n. 52 - Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus) - e successive modifiche''** <span class="label label-red">Nuovo</span> | [Apri][del13-0704]{: .btn .btn-blue }<br/>[Allegato][del13-0704-all]{: .btn } |
-| Delibera n. 6 07/04/2020 | **Trasferimento fondi di riserva per spese sostenute e da sostenersi per l'Emergenza Sanitaria COVID-19** <span class="label label-red">Nuovo</span> | [Apri][del06-0704]{: .btn .btn-blue } |
+| Delibera n. 1 21/04/2020 | **Adozione Decreto - Legge: ''Interventi in ambito economico e per il sostegno di famiglie, imprese, lavoratori autonomi e liberi professionisti per affrontare l'emergenza COVID-19''** <span class="label label-red">Nuovo</span> | [Apri][del01-2104]{: .btn .btn-blue }<br/>[Allegato][del01-2104-all]{: .btn } |
+| Delibera n. 2 21/04/2020 | **Adozione Decreto - Legge ''Proroga della sospensione straordinaria e temporanea dei termini di cui agli articoli 9, 10 e 12 della Legge 28 giugno 2010 n. 118 e successive modifiche''** <span class="label label-red">Nuovo</span> | [Apri][del02-2104]{: .btn .btn-blue }<br/>[Allegato][del02-2104-all]{: .btn } |
+| Delibera n. 1 17/04/2020 | **Misure straordinarie di proroga termini di legge, di scadenze fiscali, di pagamento dei contributi previdenziali, imposte e tasse e nuove modalità consegna corrispondenza a domicilio** <span class="label label-red">Nuovo</span> | [Apri][del01-1704]{: .btn .btn-blue } |
+| Delibera n. 1 14/04/2020 | **Adozione Decreto - Legge ''Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)''** <span class="label label-red">Nuovo</span> | [Apri][del01-1404]{: .btn .btn-blue }<br/>[Allegato][del01-1404-all]{: .btn } |
+| Delibera n. 10 14/04/2020 | **Costituzione del Comitato Tecnico per la riconversione e produzione di mascherine o DPI** <span class="label label-red">Nuovo</span> | [Apri][del10-1404]{: .btn .btn-blue } |
+| Delibera n. 12 14/04/2020 | **Autorizzazione di spesa per la continuazione e l'implementazione della campagna di comunicazione di San Marino nell'anno 2020** <span class="label label-red">Nuovo</span> | [Apri][del12-1404]{: .btn .btn-blue } |
+| Delibera n. 9 14/04/2020 | **Autorizzazione al Capo della Protezione Civile all'utilizzo di unità immobiliari di proprietà dell'Ecc.ma Camera nel contesto dell'emergenza da COVID-19** | [Apri][del09-1404]{: .btn .btn-blue } |
+| Delibera n. 13 07/04/2020 | **Adozione Decreto-Legge ''Modifiche del Decreto-Legge 20 marzo 2020 n. 52 - Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus) - e successive modifiche''** | [Apri][del13-0704]{: .btn .btn-blue }<br/>[Allegato][del13-0704-all]{: .btn } |
+| Delibera n. 6 07/04/2020 | **Trasferimento fondi di riserva per spese sostenute e da sostenersi per l'Emergenza Sanitaria COVID-19** | [Apri][del06-0704]{: .btn .btn-blue } |
 | Delibera n. 1 04/04/2020 | **Adozione Decreto - Legge: ''Proroga del Decreto - Legge 20 marzo 2020 n. 52 - Misure urgenti di contenimento e gestione dell'emergenza da Covid-19 - e ulteriori misure di gestione dell'emergenza''**  | [Apri][del01-0404]{: .btn .btn-blue }<br/>[Allegato][del01-0404-all]{: .btn } |
 | Delibera n. 8 31/03/2020 | **Costituzione di un Gruppo di Lavoro per l'informatizzazione dell'attività giudiziaria del Tribunale della Repubblica di San Marino** | [Apri][del08-3103]{: .btn .btn-blue } |
 | Delibera n. 2 24/03/2020 | **Adozione Decreto - Legge ''Norme per l'uso della teleconferenza/videoconferenza nelle assemblee dei soci delle persone giuridiche''** | [Apri][del02-2403]{: .btn .btn-blue }<br/>[Allegato][del02-2403-all]{: .btn } |
@@ -79,6 +87,15 @@ nav_order: 3
 | Delibera n. 1 23/02/2020 | **Emissione Ordinanza ''Misure urgenti di prevenzione per evitare la diffusione del COVID-19 (Coronavirus)''** | [Apri][del01-2302]{: .btn .btn-blue }<br/>[Allegato][del01-2302-all]{: .btn } |
 | Delibera n. 1 22/02/2020 | **Emissione Ordinanza ''Provvedimenti per Emergenze Sanitarie epidemia da COVID-19''** | [Apri][del01-2202]{: .btn .btn-blue } |
 
+[del01-2104]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116489.html
+[del01-2104-all]: http://www.interni.segreteria.sm/on-line/home/documento25116490.html
+[del02-2104]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116568.html
+[del02-2104-all]: http://www.interni.segreteria.sm/on-line/home/documento25116569.html
+[del01-1704]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116455.html
+[del01-1404]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116327.html
+[del01-1404-all]: http://www.interni.segreteria.sm/on-line/home/documento25116328.html
+[del10-1404]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116337.html
+[del12-1404]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116558.html
 [del09-1404]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116325.html
 [del13-0704]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116315.html
 [del13-0704-all]: http://www.interni.segreteria.sm/on-line/home/documento25116316.html
