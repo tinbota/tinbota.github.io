@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 📈 Serie storiche
+title: 📊 Serie storiche
 permalink: /data/charts
 nav_order: 1
 parent: 📈 Dati
