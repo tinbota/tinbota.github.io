@@ -13,14 +13,13 @@ nav_order: 1
 | **Vademecum Coronavirus** | [Scarica][vademecum]{: .btn .btn-blue } |
 | **Disposizioni per chi viaggia**, Segreteria di Stato per gli Affari Esteri | [Scarica][viaggioesteri]{: .btn .btn-blue } |
 | **Consigli e raccomandazioni per le donne in gravidanza durante Covid 19** | [Scarica][gravidanza]{: .btn .btn-blue } |
-| 🇸🇲 **Autodichiarazione transito a San Marino per validi motivi** <span class="label label-red">Nuovo</span> | [Scarica][autodichiarazione-sm]{: .btn .btn-blue } |
 | 🇸🇲 **Modello di autocertificazione per ingresso del dipendente sul luogo di lavoro** (all. 3 D.L. 17/04/2020 n. 62) | [Scarica][autodic-sm]{: .btn .btn-blue } |
 | 🇮🇹 **Autodichiarazione transito in Italia per validi motivi**, compilabile in PDF | [Scarica][autodichiarazione]{: .btn .btn-blue } |
 
 [tel-iss]: tel:00390549994001
 [tel-coi]: tel:00390549888888
 [tel-dae]: tel:00390549882337
-[autodichiarazione]: https://www.interno.gov.it/sites/default/files/allegati/nuovo_modello_autodichiarazione_26.03.2020_editabile.pdf
+[autodichiarazione]: https://www.interno.gov.it/sites/default/files/allegati/nuovo_modello_autodichiarazione_editabile_maggio_2020.pdf
 [vademecum]: http://www.sanita.sm/on-line/home/archivio-comunicati/documento2115553.html
 [iss-coronavirus]: http://www.iss.sm/on-line/home/artCataggiornamenti-coronavirus.49004093.1.20.1.html
 [iss-fb]: https://www.facebook.com/ISSRSM/

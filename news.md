@@ -10,7 +10,15 @@ nav_order: 2
 Notizie dal 12 Marzo 2020 in poi ([fonte: ISS][iss-coronavirus], [fonte: SMRTV][smrtv]). I dati giornalieri sono disponibili nella pagina [Dati][data].
 
 |:-|
-| **Disposta la fase di riapertura di alcuni servizi ospedalieri** <span class="label label-red">Nuovo</span> |
+| **Allestita seconda tenda esterna all'Ospedale** <span class="label label-red">Nuovo</span> |
+| _27 Aprile 2020_ - Oggi è stata montata una seconda tenda fuori dall’Ospedale, grazie al contributo e l’interessamento della Protezione Civile di San Marino, sempre presente in tutte le fasi dell’Emergenza sanitaria; la tenda consentirà di raddoppiare i test molecolari sulla popolazione di San Marino. <br/>[Vai alla notizia](http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/articolo49014343.html){: .btn .btn-blue } |
+
+|:-|
+| **Donazione thermoscanner per rilevazione temperatura corporea** <span class="label label-red">Nuovo</span> |
+| _27 Aprile 2020_ - Da oggi  all’ingresso dell’Ospedale è in funzione una telecamera (thermo scanner) arrivata da Hong Kong  tramite donazione della Signora Amanda Hung; <br/>[Vai alla notizia](http://www.iss.sm/on-line/home/aggiornamenti-coronavirus/articolo49014342.html){: .btn .btn-blue } |
+
+|:-|
+| **Disposta la fase di riapertura di alcuni servizi ospedalieri** |
 | _21 Aprile 2020_ - IIl Gruppo di coordinamento ha predisposto il progetto per la riapertura di diversi servizi all’Ospedale di Stato. Nella riunione che si è tenuta ieri pomeriggio erano presenti, il Commissario Straordinario per l’Emergenza COVID-19 Massimo Arlotti, il Direttore Generale dell’ISS Francesca Mularoni, il Direttore Amministrativo Sandro Pavesi, il Dirigente dell’Authority Sanitaria Gabriele Rinaldi, il Direttore del Dipartimento Ospedaliero Ivonne Zoffoli, il Direttore delle Cure Primarie Agostino Ceccarini, la Responsabile della Comunicazione-URP Stefania Stefanelli e i funzionari della Segreteria di Stato alla Sanità. Il progetto per la graduale riapertura dei servizi ospedalieri prevede una diversa organizzazione del lavoro, per rispettare le esigenze sanitarie dettate dall’emergenza COVID-19 e dalle caratteristiche di diffusione del nuovo coronavirus. Sarà infatti predisposta una operatività diversificata per ridurre gli assembramenti di pazienti e anche una riduzione dei posti letto. In particolare nei principali reparti di degenza sarà realizzata un’area di osservazione dove saranno posizionati i pazienti in attesa dell’esito dell’esame sulla presenza del virus Sars CoV-2. Screening che sarà esteso anche a tutti gli altri pazienti che necessiteranno di un ricovero in Ospedale. Resterà anche operativa l’area di degenza specifica per pazienti COVID-19. Per alcune categorie di assistiti, quali in particolari alcuni pazienti cardiopatici e diabetici, dove possibile, sarà anche attivato un sistema di controllo con dispositivi medici a controllo remoto per l’assistenza a distanza senza la necessità di recarsi in ospedale. Permarrà infine, ancora in questa fase, il divieto di visita da parte di familiari e amici ai pazienti ricoverati, anche se non affetti da COVID-19. L’Ospedale di Stato sarà anche dotato di ulteriore strumentazione per il controllo delle persone in ingresso, anche con rilevazione della temperatura. |
 
 |:-|

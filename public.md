@@ -20,6 +20,8 @@ nav_order: 7
 
 ## 🔖 Disposizioni di servizio e indicazioni comportamentali
 
+Tutte le circolari sono disponibili [a questo link](https://www.gov.sm/topics/Argomenti/Emergenza-CoronaVirus.html).
+
 |:-|:-|
 | **Circolare Direttore Funzione Pubblica su Aperture uffici e servizi** | [Scarica][generale]{: .btn .btn-blue} |
 | **Ufficio Stato Civile**| [Scarica][statocivile]{: .btn .btn-blue } |
