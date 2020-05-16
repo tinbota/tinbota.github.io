@@ -7,11 +7,15 @@ nav_order: 3
 
 # 📖 Normative e ordinanze
 
-## Leggi e decreti ([fonte][cgg])
+Attenzione: non viene garantito l'aggiornamento tempestivo di questa pagina. Per tutti i documenti aggiornati, consultare i link delle fonti presenti in ogni sezione.
+
+## Leggi e decreti ([fonte CGG][cgg] - [fonte Bollettino Ufficiale](http://www.bollettinoufficiale.sm))
 
 |:-|:-|:-|
-| Decreto - Legge 3 maggio 2020 n. 68 | **Disposizioni per un graduale allentamento delle misure restrittive conseguenti all'emergenza sanitaria da COVID-19** <span class="label label-red">Nuovo</span> | [Apri][dl68]{: .btn .btn-blue }<br/>[Allegato 1][dl68-all1]{: .btn } <br/>[Allegato 2][dl68-all2]{: .btn }<br/>[Allegato 3][dl68-all3]{: .btn }<br/>[Allegato 4][dl68-all4]{: .btn }<br/>[Allegato 5][dl68-all5]{: .btn }<br/>[Circolare applicativa][dl68-ca]{: .btn }  |
-| Decreto - Legge 3 maggio 2020 n. 67 | **Interventi in ambito di lavoro e pensioni a supporto dell'emergenza economica causata da COVID-19** <span class="label label-red">Nuovo</span> | [Apri][dl67]{: .btn .btn-blue } |
+| Decreto - Legge 15 maggio 2020 n. 78 | **Aggiornamento delle disposizioni per l'allentamento delle misure restrittive relative all'emergenza da Covid-19** <span class="label label-red">Nuovo</span> | [Apri][dl78]{: .btn .btn-blue } |
+| Regolamento 11 maggio 2020 n. 3 | **Disposizioni applicative del Decreto – Legge 21 aprile 2020 n.63 “Interventi in ambito economico e per il sostegno di famiglie, imprese, lavoratori autonomi e liberi professionisti per affrontare l’emergenza COVID-19** <span class="label label-red">Nuovo</span> | [Apri][r3]{: .btn .btn-blue } |
+| Decreto - Legge 3 maggio 2020 n. 68 | **Disposizioni per un graduale allentamento delle misure restrittive conseguenti all'emergenza sanitaria da COVID-19** | [Apri][dl68]{: .btn .btn-blue }<br/>[Allegato 1][dl68-all1]{: .btn } <br/>[Allegato 2][dl68-all2]{: .btn }<br/>[Allegato 3][dl68-all3]{: .btn }<br/>[Allegato 4][dl68-all4]{: .btn }<br/>[Allegato 5][dl68-all5]{: .btn }<br/>[Circolare applicativa][dl68-ca]{: .btn }<br/>[Errata-C.][dl68-ec]{: .btn }  |
+| Decreto - Legge 3 maggio 2020 n. 67 | **Interventi in ambito di lavoro e pensioni a supporto dell'emergenza economica causata da COVID-19**  | [Apri][dl67]{: .btn .btn-blue }<br/>[Errata-C.][dl67-ec]{: .btn }  |
 | Decreto - Legge 30 aprile 2020 n. 66 | **Ratifica Decreto - Legge 17 aprile 2020 n.62 - Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)** | [Apri][dl66]{: .btn .btn-blue } | 
 | Decreto - Legge 24 aprile 2020 n. 65 | **Proroga della sospensione straordinaria e temporanea dei termini di cui agli articoli 9, 10 e 12 della Legge 28 giugno 2010 n. 118 e successive modifiche** | [Apri][dl65]{: .btn .btn-blue } |
 | Decreto - Legge 21 aprile 2020 n. 63 | **Interventi in ambito economico e per il sostegno di famiglie, imprese, lavoratori autonomi e liberi professionisti per affrontare l'emergenza COVID-19** | [Apri][dl63]{: .btn .btn-blue } |
@@ -28,6 +32,8 @@ nav_order: 3
 | Decreto - Legge 5 marzo 2020 n. 42 | **Istituzione della figura di commissario straordinario per l'emergenza da COVID-19** | [Apri][dl42]{: .btn .btn-blue } |
 | Decreto - Legge 28 febbraio 2020 n. 35 | **Attribuzione al Segretario di Stato per la Sanità e Sicurezza Sociale del potere di Ordinanza per emergenze di sanità pubblica** | [Apri][dl35]{: .btn .btn-blue } |
 
+[dl78]: https://www.sanmarinortv.sm/uploads/media/media/5e/5ebf761fc901f573119565.pdf
+[r3]: https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/documento17116772.html
 [dl68]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f560cc3193609c679e789231923387649b30cb78936c9b6c876ccc659e6dc83793669337cc758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=0
 [dl68-all1]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f560cc3193609c679e789231923387649b30cb78936c9b6c876ccc659e6dc83793669337cc758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=1
 [dl68-all2]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f560cc3193609c679e789231923387649b30cb78936c9b6c876ccc659e6dc83793669337cc758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=2
@@ -35,7 +41,9 @@ nav_order: 3
 [dl68-all4]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f560cc3193609c679e789231923387649b30cb78936c9b6c876ccc659e6dc83793669337cc758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=4
 [dl68-all5]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f560cc3193609c679e789231923387649b30cb78936c9b6c876ccc659e6dc83793669337cc758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=5
 [dl68-ca]: https://www.sanmarinortv.sm/uploads/media/media/5e/5eb2de4239e48070665110.pdf
+[dl68-ec]: https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/documento17116754.html
 [dl67]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?acm_lang=it_IT&acm_session=61F29474AC9BEA57B11CA366B168AAF1.tomcat1lb&operation=getDocBU&id=20d69bcbfc931eaec3f35be372ee7ba2c923a7c2
+[dl67-ec]: https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/documento17116750.html
 [dl66]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?acm_lang=it_IT&acm_session=61F29474AC9BEA57B11CA366B168AAF1.tomcat1lb&operation=getDocBU&id=1296eba996fa8b74637fc2c0be3df8c86879ef3f
 [dl65]: https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/documento17116567.html
 [dl63]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?acm_lang=it_IT&acm_session=BE6D2CC565656874526F6185CBB8C59B.tomcat1lb&operation=getDocBU&id=189a6ab1ac89fb914f18bb9a36ce18a999f86ffd
@@ -67,11 +75,16 @@ nav_order: 3
 ## Delibere Congresso di Stato ([fonte][delibere])
 
 |:-|:-|:-|
-| Delibera n. 23 30/04/2020 | **Misure straordinarie di proroga dei termini di presentazione e vidimazione delle fatture in importazione ed esportazione, dei termini di presentazione delle fatture di servizi di cui alla Legge 23 ottobre 1991 n. 131** <span class="label label-red">Nuovo</span> | [Apri][del23-3004]{: .btn .btn-blue } |
-| Delibera n. 29 30/04/2020 | **Adozione Decreto - Legge "Interventi in ambito di lavoro e pensioni a supporto dell'emergenza economica causata da COVID-19''**  <span class="label label-red">Nuovo</span> | [Apri][del29-3004]{: .btn .btn-blue }<br/>[Allegato][del29-3004-all]{: .btn } |
-| Delibera n. 30 30/04/2020 | **Aggiornamento delle disposizioni relative alla chiusura di strutture ed uffici pubblici di cui alle delibere n. 2 del 13 marzo 2020 e n. 2 del 14 aprile 2020** <span class="label label-red">Nuovo</span> | [Apri][del30-3004]{: .btn .btn-blue } |
-| Delibera n. 4 30/04/2020 | **Adozione Decreto - Legge ''Disposizioni per un graduale allentamento delle misure restrittive conseguenti all'emergenza sanitaria da COVID-19''**  <span class="label label-red">Nuovo</span> | [Apri][del04-3004]{: .btn .btn-blue }<br/>[Allegato][del04-3004-all]{: .btn } |
-| Delibera n. 12 21/04/2020 | **Destinazione somme donate per l'Emergenza Sanitaria COVID-19** <span class="label label-red">Nuovo</span> | [Apri][del12-2104]{: .btn .btn-blue } |
+| Delibera n. 11 13/05/2020 | **Misure straordinarie di proroga dei termini di pagamento dell'imposta minima sul reddito di cui all'art. 150 della Legge 18 dicembre 2013 n.166 e successive modifiche** <span class="label label-red">Nuovo</span> | [Apri][del11-1305]{: .btn .btn-blue } | 
+| Delibera n. 5 05/05/2020 | **Adozione Regolamento ''Disposizioni applicative del Decreto - Legge 21 aprile 2020 n. 63 ‚‘Interventi in ambito economico e per il sostegno di famiglie, imprese, lavoratori autonomi e liberi professionisti per affrontare l'emergenza COVID-19' ''** <span class="label label-red">Nuovo</span> | [Apri][del05-0505]{: .btn .btn-blue } | 
+| Delibera n. 21 30/04/2020 | **Incarico per l'individuazione di locali idonei alla celebrazione delle udienze** <span class="label label-red">Nuovo</span> | [Apri][del21-3004]{: .btn .btn-blue } | 
+| Delibera n. 22 30/04/2020 | **Misure straordinarie di proroga termini di legge** <span class="label label-red">Nuovo</span> | [Apri][del22-3004]{: .btn .btn-blue } | 
+| Delibera n. 23 30/04/2020 | **Misure straordinarie di proroga dei termini di presentazione e vidimazione delle fatture in importazione ed esportazione, dei termini di presentazione delle fatture di servizi di cui alla Legge 23 ottobre 1991 n. 131**  | [Apri][del23-3004]{: .btn .btn-blue } |
+| Delibera n. 28 30/04/2020 | **Misure straordinarie di proroga di termini di pagamento delle fatture del Servizio Idrico Integrato, Gas Naturale, Energia Elettrica e Tariffa Raccolta Rifiuti** <span class="label label-red">Nuovo</span> | [Apri][del28-3004]{: .btn .btn-blue } | 
+| Delibera n. 29 30/04/2020 | **Adozione Decreto - Legge "Interventi in ambito di lavoro e pensioni a supporto dell'emergenza economica causata da COVID-19''** | [Apri][del29-3004]{: .btn .btn-blue }<br/>[Allegato][del29-3004-all]{: .btn } |
+| Delibera n. 30 30/04/2020 | **Aggiornamento delle disposizioni relative alla chiusura di strutture ed uffici pubblici di cui alle delibere n. 2 del 13 marzo 2020 e n. 2 del 14 aprile 2020** | [Apri][del30-3004]{: .btn .btn-blue } |
+| Delibera n. 4 30/04/2020 | **Adozione Decreto - Legge ''Disposizioni per un graduale allentamento delle misure restrittive conseguenti all'emergenza sanitaria da COVID-19''**   | [Apri][del04-3004]{: .btn .btn-blue }<br/>[Allegato][del04-3004-all]{: .btn } |
+| Delibera n. 12 21/04/2020 | **Destinazione somme donate per l'Emergenza Sanitaria COVID-19** | [Apri][del12-2104]{: .btn .btn-blue } |
 | Delibera n. 1 21/04/2020 | **Adozione Decreto - Legge: ''Interventi in ambito economico e per il sostegno di famiglie, imprese, lavoratori autonomi e liberi professionisti per affrontare l'emergenza COVID-19''** | [Apri][del01-2104]{: .btn .btn-blue }<br/>[Allegato][del01-2104-all]{: .btn } |
 | Delibera n. 2 21/04/2020 | **Adozione Decreto - Legge ''Proroga della sospensione straordinaria e temporanea dei termini di cui agli articoli 9, 10 e 12 della Legge 28 giugno 2010 n. 118 e successive modifiche''**  | [Apri][del02-2104]{: .btn .btn-blue }<br/>[Allegato][del02-2104-all]{: .btn } |
 | Delibera n. 1 17/04/2020 | **Misure straordinarie di proroga termini di legge, di scadenze fiscali, di pagamento dei contributi previdenziali, imposte e tasse e nuove modalità consegna corrispondenza a domicilio** | [Apri][del01-1704]{: .btn .btn-blue } |
@@ -104,7 +117,12 @@ nav_order: 3
 | Delibera n. 1 23/02/2020 | **Emissione Ordinanza ''Misure urgenti di prevenzione per evitare la diffusione del COVID-19 (Coronavirus)''** | [Apri][del01-2302]{: .btn .btn-blue }<br/>[Allegato][del01-2302-all]{: .btn } |
 | Delibera n. 1 22/02/2020 | **Emissione Ordinanza ''Provvedimenti per Emergenze Sanitarie epidemia da COVID-19''** | [Apri][del01-2202]{: .btn .btn-blue } |
 
+[del11-1305]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116895.html
+[del05-0505]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116805.html
+[del21-3004]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116873.html
+[del22-3004]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116864.html
 [del23-3004]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116719.html
+[del28-3004]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116824.html
 [del29-3004]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116678.html
 [del29-3004-all]: http://www.interni.segreteria.sm/on-line/home/documento25116679.html
 [del30-3004]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25116718.html
