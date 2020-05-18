@@ -12,6 +12,7 @@ Attenzione: non viene garantito l'aggiornamento tempestivo di questa pagina. Per
 ## Leggi e decreti ([fonte CGG][cgg] - [fonte Bollettino Ufficiale](http://www.bollettinoufficiale.sm))
 
 |:-|:-|:-|
+| Decreto - Legge 18 maggio 2020 n. 79 | **Disposizioni nell'ambito della circolazione, mobilità e spostamenti conseguenti all'emergenza sanitaria da Covid-19** <span class="label label-red">Nuovo</span> | [Apri][dl79]{: .btn .btn-blue } |
 | Decreto - Legge 15 maggio 2020 n. 78 | **Aggiornamento delle disposizioni per l'allentamento delle misure restrittive relative all'emergenza da Covid-19** <span class="label label-red">Nuovo</span> | [Apri][dl78]{: .btn .btn-blue } |
 | Regolamento 11 maggio 2020 n. 3 | **Disposizioni applicative del Decreto – Legge 21 aprile 2020 n.63 “Interventi in ambito economico e per il sostegno di famiglie, imprese, lavoratori autonomi e liberi professionisti per affrontare l’emergenza COVID-19** <span class="label label-red">Nuovo</span> | [Apri][r3]{: .btn .btn-blue } |
 | Decreto - Legge 3 maggio 2020 n. 68 | **Disposizioni per un graduale allentamento delle misure restrittive conseguenti all'emergenza sanitaria da COVID-19** | [Apri][dl68]{: .btn .btn-blue }<br/>[Allegato 1][dl68-all1]{: .btn } <br/>[Allegato 2][dl68-all2]{: .btn }<br/>[Allegato 3][dl68-all3]{: .btn }<br/>[Allegato 4][dl68-all4]{: .btn }<br/>[Allegato 5][dl68-all5]{: .btn }<br/>[Circolare applicativa][dl68-ca]{: .btn }<br/>[Errata-C.][dl68-ec]{: .btn }  |
@@ -32,6 +33,7 @@ Attenzione: non viene garantito l'aggiornamento tempestivo di questa pagina. Per
 | Decreto - Legge 5 marzo 2020 n. 42 | **Istituzione della figura di commissario straordinario per l'emergenza da COVID-19** | [Apri][dl42]{: .btn .btn-blue } |
 | Decreto - Legge 28 febbraio 2020 n. 35 | **Attribuzione al Segretario di Stato per la Sanità e Sicurezza Sociale del potere di Ordinanza per emergenze di sanità pubblica** | [Apri][dl35]{: .btn .btn-blue } |
 
+[dl79]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?acm_lang=it_IT&acm_session=643229C7399B7BA24F371F19FD319095.tomcat2lb&operation=getDocBU&id=4cdbe140b159565cf7aaad1b88a486673db65a3a
 [dl78]: https://www.sanmarinortv.sm/uploads/media/media/5e/5ebf761fc901f573119565.pdf
 [r3]: https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/documento17116772.html
 [dl68]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f560cc3193609c679e789231923387649b30cb78936c9b6c876ccc659e6dc83793669337cc758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=0
