@@ -7,14 +7,19 @@ nav_order: 3
 
 # 📖 Normative e ordinanze
 
-Attenzione: non viene garantito l'aggiornamento tempestivo di questa pagina. Per tutti i documenti aggiornati, consultare i link delle fonti presenti in ogni sezione.
+<span class="label label-red">LISTA NON ESAUSTIVA</span> La presente lista è un riepilogo dei principali atti legislativi messi in atto nella Repubblica di San Marino. Non si garantisce l'aggiornamento dei dati. Per la lista completa si rimanda alle fonti:
 
-## Leggi e decreti ([fonte CGG][cgg] - [fonte Bollettino Ufficiale](http://www.bollettinoufficiale.sm))
+- [Bollettino Ufficiale](http://www.bollettinoufficiale.sm)
+- [Consiglio Grande e Generale][cgg]
+- [Delibere del Congresso di Stato][delibere]
+
+## Leggi e decreti
 
 |:-|:-|:-|
-| Decreto - Legge 18 maggio 2020 n. 79 | **Disposizioni nell'ambito della circolazione, mobilità e spostamenti conseguenti all'emergenza sanitaria da Covid-19** <span class="label label-red">Nuovo</span> | [Apri][dl79]{: .btn .btn-blue } |
-| Decreto - Legge 15 maggio 2020 n. 78 | **Aggiornamento delle disposizioni per l'allentamento delle misure restrittive relative all'emergenza da Covid-19** <span class="label label-red">Nuovo</span> | [Apri][dl78]{: .btn .btn-blue } |
-| Regolamento 11 maggio 2020 n. 3 | **Disposizioni applicative del Decreto – Legge 21 aprile 2020 n.63 “Interventi in ambito economico e per il sostegno di famiglie, imprese, lavoratori autonomi e liberi professionisti per affrontare l’emergenza COVID-19** <span class="label label-red">Nuovo</span> | [Apri][r3]{: .btn .btn-blue } |
+| Decreto - Legge 31 maggio 2020 n. 96 | **Ulteriori disposizioni per un graduale allentamento delle misure restrittive conseguenti all'emergenza sanitaria da COVID-19** | [Apri][dl96]{: .btn .btn-blue } |
+| Decreto - Legge 18 maggio 2020 n. 79 | **Disposizioni nell'ambito della circolazione, mobilità e spostamenti conseguenti all'emergenza sanitaria da Covid-19** | [Apri][dl79]{: .btn .btn-blue } |
+| Decreto - Legge 15 maggio 2020 n. 78 | **Aggiornamento delle disposizioni per l'allentamento delle misure restrittive relative all'emergenza da Covid-19** | [Apri][dl78]{: .btn .btn-blue } |
+| Regolamento 11 maggio 2020 n. 3 | **Disposizioni applicative del Decreto – Legge 21 aprile 2020 n.63 “Interventi in ambito economico e per il sostegno di famiglie, imprese, lavoratori autonomi e liberi professionisti per affrontare l’emergenza COVID-19** | [Apri][r3]{: .btn .btn-blue } |
 | Decreto - Legge 3 maggio 2020 n. 68 | **Disposizioni per un graduale allentamento delle misure restrittive conseguenti all'emergenza sanitaria da COVID-19** | [Apri][dl68]{: .btn .btn-blue }<br/>[Allegato 1][dl68-all1]{: .btn } <br/>[Allegato 2][dl68-all2]{: .btn }<br/>[Allegato 3][dl68-all3]{: .btn }<br/>[Allegato 4][dl68-all4]{: .btn }<br/>[Allegato 5][dl68-all5]{: .btn }<br/>[Circolare applicativa][dl68-ca]{: .btn }<br/>[Errata-C.][dl68-ec]{: .btn }  |
 | Decreto - Legge 3 maggio 2020 n. 67 | **Interventi in ambito di lavoro e pensioni a supporto dell'emergenza economica causata da COVID-19**  | [Apri][dl67]{: .btn .btn-blue }<br/>[Errata-C.][dl67-ec]{: .btn }  |
 | Decreto - Legge 30 aprile 2020 n. 66 | **Ratifica Decreto - Legge 17 aprile 2020 n.62 - Misure urgenti di contenimento e gestione dell'emergenza da COVID-19 (Coronavirus)** | [Apri][dl66]{: .btn .btn-blue } | 
@@ -33,6 +38,7 @@ Attenzione: non viene garantito l'aggiornamento tempestivo di questa pagina. Per
 | Decreto - Legge 5 marzo 2020 n. 42 | **Istituzione della figura di commissario straordinario per l'emergenza da COVID-19** | [Apri][dl42]{: .btn .btn-blue } |
 | Decreto - Legge 28 febbraio 2020 n. 35 | **Attribuzione al Segretario di Stato per la Sanità e Sicurezza Sociale del potere di Ordinanza per emergenze di sanità pubblica** | [Apri][dl35]{: .btn .btn-blue } |
 
+[dl96]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?acm_lang=it_IT&acm_session=7318AA94FF7946128A5D00A650179C20.tomcat2lb&operation=getDocBU&id=e91984f7ee1d495c64ff4826618666de0703d253
 [dl79]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?acm_lang=it_IT&acm_session=643229C7399B7BA24F371F19FD319095.tomcat2lb&operation=getDocBU&id=4cdbe140b159565cf7aaad1b88a486673db65a3a
 [dl78]: https://www.sanmarinortv.sm/uploads/media/media/5e/5ebf761fc901f573119565.pdf
 [r3]: https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/documento17116772.html
@@ -74,15 +80,15 @@ Attenzione: non viene garantito l'aggiornamento tempestivo di questa pagina. Per
 [dl42]: https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/documento17115737.html
 [dl35]: https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/documento17115614.html
 
-## Delibere Congresso di Stato ([fonte][delibere])
+## Delibere Congresso di Stato
 
 |:-|:-|:-|
-| Delibera n. 11 13/05/2020 | **Misure straordinarie di proroga dei termini di pagamento dell'imposta minima sul reddito di cui all'art. 150 della Legge 18 dicembre 2013 n.166 e successive modifiche** <span class="label label-red">Nuovo</span> | [Apri][del11-1305]{: .btn .btn-blue } | 
-| Delibera n. 5 05/05/2020 | **Adozione Regolamento ''Disposizioni applicative del Decreto - Legge 21 aprile 2020 n. 63 ‚‘Interventi in ambito economico e per il sostegno di famiglie, imprese, lavoratori autonomi e liberi professionisti per affrontare l'emergenza COVID-19' ''** <span class="label label-red">Nuovo</span> | [Apri][del05-0505]{: .btn .btn-blue } | 
-| Delibera n. 21 30/04/2020 | **Incarico per l'individuazione di locali idonei alla celebrazione delle udienze** <span class="label label-red">Nuovo</span> | [Apri][del21-3004]{: .btn .btn-blue } | 
-| Delibera n. 22 30/04/2020 | **Misure straordinarie di proroga termini di legge** <span class="label label-red">Nuovo</span> | [Apri][del22-3004]{: .btn .btn-blue } | 
+| Delibera n. 11 13/05/2020 | **Misure straordinarie di proroga dei termini di pagamento dell'imposta minima sul reddito di cui all'art. 150 della Legge 18 dicembre 2013 n.166 e successive modifiche** | [Apri][del11-1305]{: .btn .btn-blue } | 
+| Delibera n. 5 05/05/2020 | **Adozione Regolamento ''Disposizioni applicative del Decreto - Legge 21 aprile 2020 n. 63 ‚‘Interventi in ambito economico e per il sostegno di famiglie, imprese, lavoratori autonomi e liberi professionisti per affrontare l'emergenza COVID-19' ''** | [Apri][del05-0505]{: .btn .btn-blue } | 
+| Delibera n. 21 30/04/2020 | **Incarico per l'individuazione di locali idonei alla celebrazione delle udienze** | [Apri][del21-3004]{: .btn .btn-blue } | 
+| Delibera n. 22 30/04/2020 | **Misure straordinarie di proroga termini di legge** | [Apri][del22-3004]{: .btn .btn-blue } | 
 | Delibera n. 23 30/04/2020 | **Misure straordinarie di proroga dei termini di presentazione e vidimazione delle fatture in importazione ed esportazione, dei termini di presentazione delle fatture di servizi di cui alla Legge 23 ottobre 1991 n. 131**  | [Apri][del23-3004]{: .btn .btn-blue } |
-| Delibera n. 28 30/04/2020 | **Misure straordinarie di proroga di termini di pagamento delle fatture del Servizio Idrico Integrato, Gas Naturale, Energia Elettrica e Tariffa Raccolta Rifiuti** <span class="label label-red">Nuovo</span> | [Apri][del28-3004]{: .btn .btn-blue } | 
+| Delibera n. 28 30/04/2020 | **Misure straordinarie di proroga di termini di pagamento delle fatture del Servizio Idrico Integrato, Gas Naturale, Energia Elettrica e Tariffa Raccolta Rifiuti** | [Apri][del28-3004]{: .btn .btn-blue } | 
 | Delibera n. 29 30/04/2020 | **Adozione Decreto - Legge "Interventi in ambito di lavoro e pensioni a supporto dell'emergenza economica causata da COVID-19''** | [Apri][del29-3004]{: .btn .btn-blue }<br/>[Allegato][del29-3004-all]{: .btn } |
 | Delibera n. 30 30/04/2020 | **Aggiornamento delle disposizioni relative alla chiusura di strutture ed uffici pubblici di cui alle delibere n. 2 del 13 marzo 2020 e n. 2 del 14 aprile 2020** | [Apri][del30-3004]{: .btn .btn-blue } |
 | Delibera n. 4 30/04/2020 | **Adozione Decreto - Legge ''Disposizioni per un graduale allentamento delle misure restrittive conseguenti all'emergenza sanitaria da COVID-19''**   | [Apri][del04-3004]{: .btn .btn-blue }<br/>[Allegato][del04-3004-all]{: .btn } |
