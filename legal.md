@@ -16,6 +16,7 @@ nav_order: 3
 ## Leggi e decreti
 
 |:-|:-|:-|
+| Decreto - Legge 30 giugno 2020 n. 108 | **Disposizioni finali relative all'emergenza da COVID - 19** | [Apri][dl108]{: .btn .btn-blue } |
 | Decreto - Legge 31 maggio 2020 n. 96 | **Ulteriori disposizioni per un graduale allentamento delle misure restrittive conseguenti all'emergenza sanitaria da COVID-19** | [Apri][dl96]{: .btn .btn-blue } |
 | Decreto - Legge 18 maggio 2020 n. 79 | **Disposizioni nell'ambito della circolazione, mobilità e spostamenti conseguenti all'emergenza sanitaria da Covid-19** | [Apri][dl79]{: .btn .btn-blue } |
 | Decreto - Legge 15 maggio 2020 n. 78 | **Aggiornamento delle disposizioni per l'allentamento delle misure restrittive relative all'emergenza da Covid-19** | [Apri][dl78]{: .btn .btn-blue } |
@@ -38,6 +39,7 @@ nav_order: 3
 | Decreto - Legge 5 marzo 2020 n. 42 | **Istituzione della figura di commissario straordinario per l'emergenza da COVID-19** | [Apri][dl42]{: .btn .btn-blue } |
 | Decreto - Legge 28 febbraio 2020 n. 35 | **Attribuzione al Segretario di Stato per la Sanità e Sicurezza Sociale del potere di Ordinanza per emergenze di sanità pubblica** | [Apri][dl35]{: .btn .btn-blue } |
 
+[dl108]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?operation=getDocumentiFisici&id=11c536df38cf3bde3af930c725c63cc930fa27c525cf27de3ccf26fe2cda30f5639862cc3398629978c8379a3087649b30cb78c8309d61873799309e379d6c9b349f6d9b758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a758a&position=0
 [dl96]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?acm_lang=it_IT&acm_session=7318AA94FF7946128A5D00A650179C20.tomcat2lb&operation=getDocBU&id=e91984f7ee1d495c64ff4826618666de0703d253
 [dl79]: http://www.bollettinoufficiale.sm/on-line/RicercaBU?acm_lang=it_IT&acm_session=643229C7399B7BA24F371F19FD319095.tomcat2lb&operation=getDocBU&id=4cdbe140b159565cf7aaad1b88a486673db65a3a
 [dl78]: https://www.sanmarinortv.sm/uploads/media/media/5e/5ebf761fc901f573119565.pdf
